@@ -1,0 +1,117 @@
+{
+  "format": "surge-rule-set",
+  "sources": [
+    {
+      "id": "okx",
+      "name": "OKX",
+      "source_url": "https://rule.kelee.one/Loon/OKX.lsr",
+      "file": "okx.list",
+      "rule_count": 3,
+      "sha256": "82b3fbad8ef73474c0fb3c0cde189f8f18d6970a9ba94b57737e28c6179eeafc"
+    },
+    {
+      "id": "whatsapp",
+      "name": "WhatsApp",
+      "source_url": "https://rule.kelee.one/Loon/Whatsapp.lsr",
+      "file": "whatsapp.list",
+      "rule_count": 17,
+      "sha256": "ebc46204b7fc8d7241f7809e1e409d00e8e082265e6cbbc143cf09c93dcd6794"
+    },
+    {
+      "id": "twitter",
+      "name": "Twitter",
+      "source_url": "https://rule.kelee.one/Loon/Twitter.lsr",
+      "file": "twitter.list",
+      "rule_count": 33,
+      "sha256": "8a9169dab9f539cbb06fc911ba508e6e660d475d84c903e4f573593b58e82d8c"
+    },
+    {
+      "id": "telegram",
+      "name": "Telegram",
+      "source_url": "https://rule.kelee.one/Loon/Telegram.lsr",
+      "file": "telegram.list",
+      "rule_count": 40,
+      "sha256": "9a29f546479fb684b6ee0018dec703781f1f6d330cec2d04a3b48fc86058d58d"
+    },
+    {
+      "id": "binance",
+      "name": "Binance",
+      "source_url": "https://rule.kelee.one/Loon/Binance.lsr",
+      "file": "binance.list",
+      "rule_count": 12,
+      "sha256": "bdeb5eadb9605bf0e0d2d7babb79ed6ac7689a5daf734b89354671d836eb0da4"
+    },
+    {
+      "id": "wechat",
+      "name": "WeChat",
+      "source_url": "https://rule.kelee.one/Loon/WeChat.lsr",
+      "file": "wechat.list",
+      "rule_count": 43,
+      "sha256": "9428aad6bfe924efb0d919a48a8c230c5050358b620a1af5f31ff54e88686399"
+    },
+    {
+      "id": "youtube",
+      "name": "YouTube",
+      "source_url": "https://rule.kelee.one/Loon/YouTube.lsr",
+      "file": "youtube.list",
+      "rule_count": 193,
+      "sha256": "9cdd67a9d1b317d3c833a634b449c4f7f279845f6a7819942778c5b60aeae4cd"
+    },
+    {
+      "id": "github",
+      "name": "GitHub",
+      "source_url": "https://rule.kelee.one/Loon/GitHub.lsr",
+      "file": "github.list",
+      "rule_count": 31,
+      "sha256": "a311c3f2a80feee8be2628607c30be477524d8f78ab13990b81a8266db0fcb3b"
+    },
+    {
+      "id": "tiktok",
+      "name": "TikTok",
+      "source_url": "https://kelee.one/Tool/Loon/Lsr/TikTok.lsr",
+      "file": "tiktok.list",
+      "rule_count": 83,
+      "sha256": "5f9c922f58d8dbf397192d9e5232e602cec9fa3b85c69e4dc2e4b56ab47048a2"
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "source_url": "https://kelee.one/Tool/Loon/Lsr/AI.lsr",
+      "file": "ai.list",
+      "rule_count": 98,
+      "sha256": "b6a8363913d0ff312be071396515ad84d5548b2bf83b7ab82df1eca451b8a5f2"
+    },
+    {
+      "id": "speedtest-international",
+      "name": "Speedtest International",
+      "source_url": "https://kelee.one/Tool/Loon/Lsr/SpeedtestInternational.lsr",
+      "file": "speedtest-international.list",
+      "rule_count": 17965,
+      "sha256": "27d41200ef5e0defd8ddfb23c1b826234df0bae4137ff387567e58515fcc4573"
+    },
+    {
+      "id": "netflix",
+      "name": "Netflix",
+      "source_url": "https://rule.kelee.one/Loon/Netflix.lsr",
+      "file": "netflix.list",
+      "rule_count": 1157,
+      "sha256": "44ab7cdefd1fb2198a6fc15c1e478be68e7e6473455e06e1660d548ff22d6c43"
+    },
+    {
+      "id": "lan",
+      "name": "LAN",
+      "source_url": "https://kelee.one/Tool/Loon/Lsr/LAN_SPLITTER.lsr",
+      "file": "lan.list",
+      "rule_count": 9,
+      "sha256": "2b701fbf33e7be86f3ad26d69556ec2fcd0f0eb5e4fae13fdc1eabf2d5c6b8d3"
+    },
+    {
+      "id": "cn-region",
+      "name": "CN REGION",
+      "source_url": "https://kelee.one/Tool/Loon/Lsr/REGION_SPLITTER.lsr",
+      "file": "cn-region.list",
+      "rule_count": 1,
+      "sha256": "ffd596613c58527f92f5d8b11f4db637cfdd27696c2335f350d1a0289d6e98e7"
+    }
+  ]
+}
