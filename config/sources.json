@@ -1,0 +1,20 @@
+{
+  "user_agent": "Loon/3.2.6 CFNetwork/1568.200.51 Darwin/24.1.0",
+  "sources": [
+    {"id": "okx", "name": "OKX", "url": "https://rule.kelee.one/Loon/OKX.lsr"},
+    {"id": "whatsapp", "name": "WhatsApp", "url": "https://rule.kelee.one/Loon/Whatsapp.lsr"},
+    {"id": "twitter", "name": "Twitter", "url": "https://rule.kelee.one/Loon/Twitter.lsr"},
+    {"id": "telegram", "name": "Telegram", "url": "https://rule.kelee.one/Loon/Telegram.lsr"},
+    {"id": "binance", "name": "Binance", "url": "https://rule.kelee.one/Loon/Binance.lsr"},
+    {"id": "wechat", "name": "WeChat", "url": "https://rule.kelee.one/Loon/WeChat.lsr"},
+    {"id": "youtube", "name": "YouTube", "url": "https://rule.kelee.one/Loon/YouTube.lsr"},
+    {"id": "github", "name": "GitHub", "url": "https://rule.kelee.one/Loon/GitHub.lsr"},
+    {"id": "tiktok", "name": "TikTok", "url": "https://kelee.one/Tool/Loon/Lsr/TikTok.lsr"},
+    {"id": "ai", "name": "AI", "url": "https://kelee.one/Tool/Loon/Lsr/AI.lsr"},
+    {"id": "speedtest-international", "name": "Speedtest International", "url": "https://kelee.one/Tool/Loon/Lsr/SpeedtestInternational.lsr"},
+    {"id": "netflix", "name": "Netflix", "url": "https://rule.kelee.one/Loon/Netflix.lsr"},
+    {"id": "lan", "name": "LAN", "url": "https://kelee.one/Tool/Loon/Lsr/LAN_SPLITTER.lsr"},
+    {"id": "cn-region", "name": "CN REGION", "url": "https://kelee.one/Tool/Loon/Lsr/REGION_SPLITTER.lsr"}
+  ]
+}
+
