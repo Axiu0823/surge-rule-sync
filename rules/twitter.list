@@ -1,6 +1,6 @@
 # Twitter
 # Source: https://rule.kelee.one/Loon/Twitter.lsr
-# UpdateTime：2026-09-17 03:17:58
+# UpdateTime：2026-09-19 03:46:19
 # RuleCount：33
 DOMAIN-SUFFIX,twitter.biz
 DOMAIN-SUFFIX,t.co

@@ -7,7 +7,7 @@
       "source_url": "https://rule.kelee.one/Loon/OKX.lsr",
       "file": "okx.list",
       "rule_count": 3,
-      "sha256": "82b3fbad8ef73474c0fb3c0cde189f8f18d6970a9ba94b57737e28c6179eeafc"
+      "sha256": "1cdc4e280b4ff0e37714d5d0bc1969dc8de9311bec5175d1fa816e21e773c1b6"
     },
     {
       "id": "whatsapp",
@@ -15,7 +15,7 @@
       "source_url": "https://rule.kelee.one/Loon/Whatsapp.lsr",
       "file": "whatsapp.list",
       "rule_count": 17,
-      "sha256": "ebc46204b7fc8d7241f7809e1e409d00e8e082265e6cbbc143cf09c93dcd6794"
+      "sha256": "d4677434cbe8fd2cf330eef46a92813366f96b66e500901f664c5a8de8dfb313"
     },
     {
       "id": "twitter",
@@ -23,7 +23,7 @@
       "source_url": "https://rule.kelee.one/Loon/Twitter.lsr",
       "file": "twitter.list",
       "rule_count": 33,
-      "sha256": "8a9169dab9f539cbb06fc911ba508e6e660d475d84c903e4f573593b58e82d8c"
+      "sha256": "92622f9b38df83f880f31e0fd2df57e15e97c97ba46065fc99b0044432607081"
     },
     {
       "id": "telegram",
@@ -31,7 +31,7 @@
       "source_url": "https://rule.kelee.one/Loon/Telegram.lsr",
       "file": "telegram.list",
       "rule_count": 40,
-      "sha256": "9a29f546479fb684b6ee0018dec703781f1f6d330cec2d04a3b48fc86058d58d"
+      "sha256": "3ab5c3804fce3ea28308a62b313eebc4f7a8665309cb215c7c6ff9a447a9b481"
     },
     {
       "id": "binance",
@@ -39,7 +39,7 @@
       "source_url": "https://rule.kelee.one/Loon/Binance.lsr",
       "file": "binance.list",
       "rule_count": 12,
-      "sha256": "bdeb5eadb9605bf0e0d2d7babb79ed6ac7689a5daf734b89354671d836eb0da4"
+      "sha256": "a480f8094427fff89b654ad54d3b49e08773630022b13d7179bdd0f4dd502e88"
     },
     {
       "id": "wechat",
@@ -47,7 +47,7 @@
       "source_url": "https://rule.kelee.one/Loon/WeChat.lsr",
       "file": "wechat.list",
       "rule_count": 43,
-      "sha256": "9428aad6bfe924efb0d919a48a8c230c5050358b620a1af5f31ff54e88686399"
+      "sha256": "8958df7239f04c6706261386723c4d18989d7a1ca07fc17bebdda874156649a0"
     },
     {
       "id": "youtube",
@@ -55,7 +55,7 @@
       "source_url": "https://rule.kelee.one/Loon/YouTube.lsr",
       "file": "youtube.list",
       "rule_count": 193,
-      "sha256": "9cdd67a9d1b317d3c833a634b449c4f7f279845f6a7819942778c5b60aeae4cd"
+      "sha256": "a1030c80815cb80117b4ab9cbf4ef5c036dbabfe167875a2017ef65ea20ff511"
     },
     {
       "id": "github",
@@ -63,7 +63,7 @@
       "source_url": "https://rule.kelee.one/Loon/GitHub.lsr",
       "file": "github.list",
       "rule_count": 31,
-      "sha256": "a311c3f2a80feee8be2628607c30be477524d8f78ab13990b81a8266db0fcb3b"
+      "sha256": "0ab2f5b554ce32897e663515bffd1bc1719fd73660b1aa71f1f31bc29f0dec86"
     },
     {
       "id": "tiktok",
@@ -87,7 +87,7 @@
       "source_url": "https://rule.kelee.one/Loon/OpenAI.lsr",
       "file": "openai.list",
       "rule_count": 35,
-      "sha256": "54fd9b26f7cc34c77f2d03851951815ab3804433a7ce469be26262fc0590cbc5"
+      "sha256": "974e36445bcb1b840c12a35843848966bec87b8b9d4b0ac32b8d6f660183e613"
     },
     {
       "id": "claude",
@@ -95,7 +95,7 @@
       "source_url": "https://rule.kelee.one/Loon/Claude.lsr",
       "file": "claude.list",
       "rule_count": 3,
-      "sha256": "e570ee267617dd15516b94f7ffb3fc6f6c24603423b2ca83325634e8c8c21e80"
+      "sha256": "68c1067f9ab3d89d287b404fb5123f3db2c12768b779341c897755ad361270d8"
     },
     {
       "id": "gemini",
@@ -103,7 +103,7 @@
       "source_url": "https://rule.kelee.one/Loon/Gemini.lsr",
       "file": "gemini.list",
       "rule_count": 13,
-      "sha256": "7fb266ff7898a471d8581f4c274a50ded899211da4b7f8773ab1459b5dd7c34f"
+      "sha256": "f7c1da97a81f9584b93afb706dce785bf4870f36667b1569ce36facbc0e07135"
     },
     {
       "id": "speedtest-international",
@@ -119,7 +119,7 @@
       "source_url": "https://rule.kelee.one/Loon/Netflix.lsr",
       "file": "netflix.list",
       "rule_count": 1157,
-      "sha256": "44ab7cdefd1fb2198a6fc15c1e478be68e7e6473455e06e1660d548ff22d6c43"
+      "sha256": "fc6906f2fc9c024308ae7d288d40d695e8256154d882f7def3fcd6efa05d8cc2"
     },
     {
       "id": "lan",

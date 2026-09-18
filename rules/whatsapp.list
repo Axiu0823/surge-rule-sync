@@ -1,6 +1,6 @@
 # WhatsApp
 # Source: https://rule.kelee.one/Loon/Whatsapp.lsr
-# UpdateTime：2026-09-17 03:17:56
+# UpdateTime：2026-09-19 03:46:15
 # RuleCount：17
 DOMAIN,graph.facebook.com
 DOMAIN-SUFFIX,whatsapp.biz
