@@ -1,0 +1,7 @@
+# Claude
+# Source: https://rule.kelee.one/Loon/Claude.lsr
+# UpdateTime：2026-09-17 03:22:14
+# RuleCount：3
+DOMAIN,cdn.usefathom.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,anthropic.com

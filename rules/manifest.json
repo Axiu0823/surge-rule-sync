@@ -82,6 +82,30 @@
       "sha256": "b6a8363913d0ff312be071396515ad84d5548b2bf83b7ab82df1eca451b8a5f2"
     },
     {
+      "id": "openai",
+      "name": "OpenAI",
+      "source_url": "https://rule.kelee.one/Loon/OpenAI.lsr",
+      "file": "openai.list",
+      "rule_count": 35,
+      "sha256": "54fd9b26f7cc34c77f2d03851951815ab3804433a7ce469be26262fc0590cbc5"
+    },
+    {
+      "id": "claude",
+      "name": "Claude",
+      "source_url": "https://rule.kelee.one/Loon/Claude.lsr",
+      "file": "claude.list",
+      "rule_count": 3,
+      "sha256": "e570ee267617dd15516b94f7ffb3fc6f6c24603423b2ca83325634e8c8c21e80"
+    },
+    {
+      "id": "gemini",
+      "name": "Gemini",
+      "source_url": "https://rule.kelee.one/Loon/Gemini.lsr",
+      "file": "gemini.list",
+      "rule_count": 13,
+      "sha256": "7fb266ff7898a471d8581f4c274a50ded899211da4b7f8773ab1459b5dd7c34f"
+    },
+    {
       "id": "speedtest-international",
       "name": "Speedtest International",
       "source_url": "https://kelee.one/Tool/Loon/Lsr/SpeedtestInternational.lsr",
