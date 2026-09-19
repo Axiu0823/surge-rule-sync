@@ -17,6 +17,7 @@ RULE-SET,https://raw.githubusercontent.com/Axiu0823/surge-rule-sync/main/rules/g
 RULE-SET,https://raw.githubusercontent.com/Axiu0823/surge-rule-sync/main/rules/telegram.list,加密货币
 RULE-SET,https://raw.githubusercontent.com/Axiu0823/surge-rule-sync/main/rules/binance.list,加密货币
 RULE-SET,https://raw.githubusercontent.com/Axiu0823/surge-rule-sync/main/rules/tiktok.list,TikTok
+RULE-SET,https://raw.githubusercontent.com/Axiu0823/surge-rule-sync/main/rules/douyin.list,DIRECT
 RULE-SET,https://raw.githubusercontent.com/Axiu0823/surge-rule-sync/main/rules/ai.list,AI
 RULE-SET,https://raw.githubusercontent.com/Axiu0823/surge-rule-sync/main/rules/lan.list,DIRECT
 RULE-SET,https://raw.githubusercontent.com/Axiu0823/surge-rule-sync/main/rules/cn-region.list,DIRECT
