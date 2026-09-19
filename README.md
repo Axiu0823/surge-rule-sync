@@ -7,20 +7,20 @@ This repository downloads the selected Loon rule sets with a Loon user agent and
 Add the required lines under [Rule]:
 
 ```
-RULE-SET,https://raw.githubusercontent.com/Axiu0823/surge-rule-sync/main/rules/okx.list,DIRECT
-RULE-SET,https://raw.githubusercontent.com/Axiu0823/surge-rule-sync/main/rules/wechat.list,DIRECT
-RULE-SET,https://raw.githubusercontent.com/Axiu0823/surge-rule-sync/main/rules/openai.list,AI
-RULE-SET,https://raw.githubusercontent.com/Axiu0823/surge-rule-sync/main/rules/claude.list,AI
-RULE-SET,https://raw.githubusercontent.com/Axiu0823/surge-rule-sync/main/rules/gemini.list,AI
-RULE-SET,https://raw.githubusercontent.com/Axiu0823/surge-rule-sync/main/rules/twitter.list,新国手动策略
-RULE-SET,https://raw.githubusercontent.com/Axiu0823/surge-rule-sync/main/rules/github.list,香港自动策略
-RULE-SET,https://raw.githubusercontent.com/Axiu0823/surge-rule-sync/main/rules/telegram.list,加密货币
-RULE-SET,https://raw.githubusercontent.com/Axiu0823/surge-rule-sync/main/rules/binance.list,加密货币
-RULE-SET,https://raw.githubusercontent.com/Axiu0823/surge-rule-sync/main/rules/tiktok.list,TikTok
-RULE-SET,https://raw.githubusercontent.com/Axiu0823/surge-rule-sync/main/rules/douyin.list,DIRECT
-RULE-SET,https://raw.githubusercontent.com/Axiu0823/surge-rule-sync/main/rules/ai.list,AI
-RULE-SET,https://raw.githubusercontent.com/Axiu0823/surge-rule-sync/main/rules/lan.list,DIRECT
-RULE-SET,https://raw.githubusercontent.com/Axiu0823/surge-rule-sync/main/rules/cn-region.list,DIRECT
+RULE-SET,https://raw.githubusercontent.com/Axiu0823/surge-rule-sync/main/rules/OKX.list,DIRECT
+RULE-SET,https://raw.githubusercontent.com/Axiu0823/surge-rule-sync/main/rules/WeChat.list,DIRECT
+RULE-SET,https://raw.githubusercontent.com/Axiu0823/surge-rule-sync/main/rules/OpenAI.list,AI
+RULE-SET,https://raw.githubusercontent.com/Axiu0823/surge-rule-sync/main/rules/Claude.list,AI
+RULE-SET,https://raw.githubusercontent.com/Axiu0823/surge-rule-sync/main/rules/Gemini.list,AI
+RULE-SET,https://raw.githubusercontent.com/Axiu0823/surge-rule-sync/main/rules/Twitter.list,新国手动策略
+RULE-SET,https://raw.githubusercontent.com/Axiu0823/surge-rule-sync/main/rules/GitHub.list,香港自动策略
+RULE-SET,https://raw.githubusercontent.com/Axiu0823/surge-rule-sync/main/rules/Telegram.list,加密货币
+RULE-SET,https://raw.githubusercontent.com/Axiu0823/surge-rule-sync/main/rules/Binance.list,加密货币
+RULE-SET,https://raw.githubusercontent.com/Axiu0823/surge-rule-sync/main/rules/TikTok.list,TikTok
+RULE-SET,https://raw.githubusercontent.com/Axiu0823/surge-rule-sync/main/rules/DouYin.list,DIRECT
+RULE-SET,https://raw.githubusercontent.com/Axiu0823/surge-rule-sync/main/rules/AI.list,AI
+RULE-SET,https://raw.githubusercontent.com/Axiu0823/surge-rule-sync/main/rules/LAN_SPLITTER.list,DIRECT
+RULE-SET,https://raw.githubusercontent.com/Axiu0823/surge-rule-sync/main/rules/REGION_SPLITTER.list,DIRECT
 ```
 
 The remaining generated files are in [rules/](rules/). Assign each one to the Surge policy you want.
@@ -44,7 +44,7 @@ Commit the change. The workflow runs immediately when config/sources.json change
 Add the new generated raw URL to Surge:
 
 ```
-RULE-SET,https://raw.githubusercontent.com/Axiu0823/surge-rule-sync/main/rules/discord.list,你的策略组
+RULE-SET,https://raw.githubusercontent.com/Axiu0823/surge-rule-sync/main/rules/Discord.list,你的策略组
 ```
 
 Every downloaded rule is retained. The converter only normalizes syntax: it removes extra spaces around commas and uppercases the GEOIP country code for Surge.
