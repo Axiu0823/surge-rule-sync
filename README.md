@@ -13,6 +13,7 @@ RULE-SET,https://raw.githubusercontent.com/Axiu0823/surge-rule-sync/main/rules/o
 RULE-SET,https://raw.githubusercontent.com/Axiu0823/surge-rule-sync/main/rules/claude.list,AI
 RULE-SET,https://raw.githubusercontent.com/Axiu0823/surge-rule-sync/main/rules/gemini.list,AI
 RULE-SET,https://raw.githubusercontent.com/Axiu0823/surge-rule-sync/main/rules/twitter.list,新国手动策略
+RULE-SET,https://raw.githubusercontent.com/Axiu0823/surge-rule-sync/main/rules/github.list,香港手动场景
 RULE-SET,https://raw.githubusercontent.com/Axiu0823/surge-rule-sync/main/rules/telegram.list,加密货币
 RULE-SET,https://raw.githubusercontent.com/Axiu0823/surge-rule-sync/main/rules/binance.list,加密货币
 RULE-SET,https://raw.githubusercontent.com/Axiu0823/surge-rule-sync/main/rules/tiktok.list,TikTok
