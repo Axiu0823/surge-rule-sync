@@ -136,6 +136,14 @@
       "file": "cn-region.list",
       "rule_count": 1,
       "sha256": "ffd596613c58527f92f5d8b11f4db637cfdd27696c2335f350d1a0289d6e98e7"
+    },
+    {
+      "id": "douyin",
+      "name": "DouYin",
+      "source_url": "https://rule.kelee.one/Loon/DouYin.lsr",
+      "file": "douyin.list",
+      "rule_count": 13,
+      "sha256": "65b012cef3b21cbf2615d7d24fce7c48da6b1a812da762406d97e06a55651c4d"
     }
   ]
 }

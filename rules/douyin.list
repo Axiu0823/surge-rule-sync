@@ -1,0 +1,17 @@
+# DouYin
+# Source: https://rule.kelee.one/Loon/DouYin.lsr
+# UpdateTime：2026-09-19 03:46:09
+# RuleCount：13
+DOMAIN,lf3-static.bytednsdoc.com
+DOMAIN,v5-dy-o-abtest.zjcdn.com
+DOMAIN-SUFFIX,amemv.com
+DOMAIN-SUFFIX,douyincdn.com
+DOMAIN-SUFFIX,douyinpic.com
+DOMAIN-SUFFIX,douyinstatic.com
+DOMAIN-SUFFIX,douyinvod.com
+DOMAIN-SUFFIX,idouyinvod.com
+DOMAIN-SUFFIX,ixigua.com
+DOMAIN-SUFFIX,ixiguavideo.com
+DOMAIN-SUFFIX,pstatp.com
+DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,toutiao.com
