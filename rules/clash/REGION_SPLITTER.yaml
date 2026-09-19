@@ -1,0 +1,5 @@
+# CN REGION
+# Source: https://kelee.one/Tool/Loon/Lsr/REGION_SPLITTER.lsr
+# Classical provider generated from Loon syntax.
+payload:
+  - "GEOIP,CN"

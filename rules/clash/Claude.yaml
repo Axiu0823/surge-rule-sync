@@ -1,0 +1,9 @@
+# Claude
+# Source: https://rule.kelee.one/Loon/Claude.lsr
+# Classical provider generated from Loon syntax.
+payload:
+  # UpdateTime：2026-09-19 03:50:44
+  # RuleCount：3
+  - "DOMAIN,cdn.usefathom.com"
+  - "DOMAIN-SUFFIX,claude.ai"
+  - "DOMAIN-SUFFIX,anthropic.com"

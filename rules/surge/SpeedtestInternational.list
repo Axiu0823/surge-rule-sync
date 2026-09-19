@@ -1,9 +1,9 @@
 # Speedtest International
 # Source: https://kelee.one/Tool/Loon/Lsr/SpeedtestInternational.lsr
+# Generated from Loon syntax; do not edit.
 # HomePage: https://t.me/ibilibili
 # UpdateTime: 2026-09-06 01:43:05
 # RuleCount: 17965
-
 DOMAIN,cpt-ter-speedtest1-vl145.atomic.ac
 DOMAIN,ooklaspeedtest1.andorratelecom.ad
 DOMAIN,auh.speedtest.du.ae

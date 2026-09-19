@@ -1,7 +1,43 @@
 # AI
 # Source: https://kelee.one/Tool/Loon/Lsr/AI.lsr
+# Generated from Loon syntax; do not edit.
 # 2026-07-15 13:18:31
 # OpenAI
+# Copilot
+# Github Copilot
+# Github Models
+# Gemini
+# Google Antigravity
+# Anthropic
+# JetBrains AI
+# Meta AI
+# Perplexity
+# Mistral AI
+# Grok AI
+# Trae AI
+# OpenRouter
+# TokenFlux
+# Groq
+# Together
+# Fireworks
+# Hyperbolic
+# Mistral
+# Jina AI
+# GPUStack
+# DOMAIN-SUFFIX, gpustack.ai
+# VoyageAI
+# Vertex AI
+# Poe
+# Cerebras AI
+# Vercel AI
+# Hugging Face AI
+# Nvidia
+# Kiro
+# CerebrasAI
+# MiniMax国际版
+# 智谱国际版
+# 小米国际
+# Agnes AI
 AND,((DOMAIN-KEYWORD,chatgpt-async-webps-prod-),(DOMAIN-SUFFIX,webpubsub.azure.com))
 AND,((DOMAIN-KEYWORD,openaicom-api-),(DOMAIN-SUFFIX,azurefd.net))
 DOMAIN,chatgpt.livekit.cloud
@@ -20,20 +56,12 @@ DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,chatgpt.site
-
-# Copilot
 DOMAIN,api.githubcopilot.com
 DOMAIN,copilot-proxy.githubusercontent.com
 DOMAIN,copilot.microsoft.com
 DOMAIN,sydney.bing.com
-
-# Github Copilot
 DOMAIN,api.githubcopilot.com
-
-# Github Models
 DOMAIN,models.inference.ai.azure.com
-
-# Gemini
 DOMAIN,ai.google.dev
 DOMAIN,aida.googleapis.com
 DOMAIN,aicode.googleapis.com
@@ -58,114 +86,53 @@ DOMAIN,jules.google
 DOMAIN,jules.google.com
 DOMAIN,labs.google
 DOMAIN,aisandbox-pa.googleapis.com
-
-# Google Antigravity
 DOMAIN-SUFFIX,antigravity.google
 DOMAIN-SUFFIX,antigravity-unleash.goog
 DOMAIN,daily-cloudcode-pa.sandbox.googleapis.com
 DOMAIN,daily-cloudcode-pa.googleapis.com
 AND,((DOMAIN-KEYWORD,antigravity-auto-updater-),(DOMAIN-SUFFIX,run.app))
-
-# Anthropic
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claudeusercontent.com
 IP-CIDR,160.79.104.0/23,no-resolve
 IP-CIDR6,2607:6bc0::/48,no-resolve
-
-# JetBrains AI
 DOMAIN-SUFFIX,grazie.ai
 DOMAIN-SUFFIX,grazie.aws.intellij.net
 DOMAIN-SUFFIX,jetbrains.ai
-
-# Meta AI
 DOMAIN,imagine.meta.com
 DOMAIN-SUFFIX,meta.ai
-
-# Perplexity
 DOMAIN,pplx-res.cloudinary.com
 DOMAIN-SUFFIX,pplx.ai
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,perplexity.com
-
-# Mistral AI
 DOMAIN,chat.mistral.ai
 DOMAIN,console.mistral.ai
 DOMAIN-SUFFIX,mistral.ai
-
-# Grok AI
 DOMAIN,api.x.ai
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,grok.com
-
-# Trae AI
 DOMAIN,trae-api-sg.mchost.guru
 DOMAIN-SUFFIX,trae.ai
-
-# OpenRouter
 DOMAIN-SUFFIX,openrouter.ai
-
-# TokenFlux
 DOMAIN-SUFFIX,tokenflux.ai
-
-# Groq
 DOMAIN-SUFFIX,groq.com
-
-# Together
 DOMAIN-SUFFIX,together.ai
-
-# Fireworks
 DOMAIN-SUFFIX,fireworks.ai
-
-# Hyperbolic
 DOMAIN,api.hyperbolic.xyz
 DOMAIN-SUFFIX,hyperbolic.ai
-
-# Mistral
 DOMAIN-SUFFIX,mistral.ai
-
-# Jina AI
 DOMAIN-SUFFIX,jina.ai
-
-# GPUStack
-# DOMAIN-SUFFIX, gpustack.ai
-
-# VoyageAI
 DOMAIN-SUFFIX,voyageai.com
-
-# Vertex AI
 DOMAIN,aiplatform.googleapis.com
-
-# Poe
 DOMAIN-SUFFIX,poe.com
-
-# Cerebras AI
 DOMAIN-SUFFIX,cerebras.ai
-
-# Vercel AI
 DOMAIN,ai-gateway.vercel.sh
-
-# Hugging Face AI
 DOMAIN,router.huggingface.co
-
-# Nvidia
 DOMAIN,integrate.api.nvidia.com
-
-# Kiro
 DOMAIN-SUFFIX,kiro.dev
-
-# CerebrasAI
 DOMAIN-SUFFIX,cerebras.ai
-
-# MiniMax国际版
 DOMAIN-SUFFIX,minimax.io
-
-# 智谱国际版
 DOMAIN-SUFFIX,z.ai
-
-# 小米国际
 DOMAIN,token-plan-sgp.xiaomimimo.com
 DOMAIN,token-plan-ams.xiaomimimo.com
-
-# Agnes AI
 DOMAIN-SUFFIX,agnes-ai.com

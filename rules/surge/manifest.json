@@ -1,0 +1,245 @@
+{
+  "format": "surge-rule-set",
+  "sources": [
+    {
+      "id": "okx",
+      "name": "OKX",
+      "source_url": "https://rule.kelee.one/Loon/OKX.lsr",
+      "source_rule_count": 3,
+      "rule_types": {
+        "DOMAIN-SUFFIX": 3
+      },
+      "file": "OKX.list",
+      "sha256": "5ab17865e7d251d4f6c4f00e5b18c0f0e845734d701529b4f907be9b97e87748"
+    },
+    {
+      "id": "whatsapp",
+      "name": "WhatsApp",
+      "source_url": "https://rule.kelee.one/Loon/Whatsapp.lsr",
+      "source_rule_count": 17,
+      "rule_types": {
+        "DOMAIN": 1,
+        "DOMAIN-KEYWORD": 1,
+        "DOMAIN-SUFFIX": 4,
+        "IP-CIDR": 11
+      },
+      "file": "Whatsapp.list",
+      "sha256": "7d1a6aef1d0826afe74cb290dcc3a7085f5ede2efd5ccde1275b63c1b7cba561"
+    },
+    {
+      "id": "twitter",
+      "name": "Twitter",
+      "source_url": "https://rule.kelee.one/Loon/Twitter.lsr",
+      "source_rule_count": 33,
+      "rule_types": {
+        "DOMAIN-KEYWORD": 1,
+        "DOMAIN-SUFFIX": 26,
+        "IP-CIDR": 6
+      },
+      "file": "Twitter.list",
+      "sha256": "4e60fddd01413dc5ac5d58912cf33fe70ff62ef2b87a183047c96f635f3c5519"
+    },
+    {
+      "id": "telegram",
+      "name": "Telegram",
+      "source_url": "https://rule.kelee.one/Loon/Telegram.lsr",
+      "source_rule_count": 40,
+      "rule_types": {
+        "DOMAIN": 2,
+        "DOMAIN-KEYWORD": 1,
+        "DOMAIN-SUFFIX": 22,
+        "IP-ASN": 5,
+        "IP-CIDR": 6,
+        "IP-CIDR6": 4
+      },
+      "file": "Telegram.list",
+      "sha256": "4d72a9c6fb6703a3a6a89f156c5a3515283f581ceeea534337267624c13a43fa"
+    },
+    {
+      "id": "binance",
+      "name": "Binance",
+      "source_url": "https://rule.kelee.one/Loon/Binance.lsr",
+      "source_rule_count": 12,
+      "rule_types": {
+        "DOMAIN-SUFFIX": 12
+      },
+      "file": "Binance.list",
+      "sha256": "1e115a50545d2ce2f5498100ce02657fe50523ffbaea867327344b9c689a6382"
+    },
+    {
+      "id": "wechat",
+      "name": "WeChat",
+      "source_url": "https://rule.kelee.one/Loon/WeChat.lsr",
+      "source_rule_count": 43,
+      "rule_types": {
+        "DOMAIN": 18,
+        "DOMAIN-SUFFIX": 22,
+        "IP-ASN": 1,
+        "USER-AGENT": 2
+      },
+      "file": "WeChat.list",
+      "sha256": "42ace5d3fee4ba61a81aefc48a3c0b21b9f24d7c9c22b9dcc088e648ce609bf5"
+    },
+    {
+      "id": "youtube",
+      "name": "YouTube",
+      "source_url": "https://rule.kelee.one/Loon/YouTube.lsr",
+      "source_rule_count": 193,
+      "rule_types": {
+        "DOMAIN": 3,
+        "DOMAIN-KEYWORD": 1,
+        "DOMAIN-SUFFIX": 179,
+        "IP-CIDR": 2,
+        "IP-CIDR6": 1,
+        "USER-AGENT": 7
+      },
+      "file": "YouTube.list",
+      "sha256": "f9be0b470ac18616953cce4665cff5fb67c08eb1d157ec81f83bb5fbdcd5fb2a"
+    },
+    {
+      "id": "github",
+      "name": "GitHub",
+      "source_url": "https://rule.kelee.one/Loon/GitHub.lsr",
+      "source_rule_count": 31,
+      "rule_types": {
+        "DOMAIN-KEYWORD": 1,
+        "DOMAIN-SUFFIX": 30
+      },
+      "file": "GitHub.list",
+      "sha256": "97accce23501bda0bdace92116d6543bc1c6a3f9278be1d6572c0c0360ad0f1c"
+    },
+    {
+      "id": "tiktok",
+      "name": "TikTok",
+      "source_url": "https://kelee.one/Tool/Loon/Lsr/TikTok.lsr",
+      "source_rule_count": 83,
+      "rule_types": {
+        "DOMAIN": 19,
+        "DOMAIN-KEYWORD": 7,
+        "DOMAIN-SUFFIX": 55,
+        "IP-ASN": 2
+      },
+      "file": "TikTok.list",
+      "sha256": "717d7667b19f058e6999b634905f62a1d712e98406643503492ed54f78796cfb"
+    },
+    {
+      "id": "ai",
+      "name": "AI",
+      "source_url": "https://kelee.one/Tool/Loon/Lsr/AI.lsr",
+      "source_rule_count": 98,
+      "rule_types": {
+        "AND": 3,
+        "DOMAIN": 53,
+        "DOMAIN-SUFFIX": 40,
+        "IP-CIDR": 1,
+        "IP-CIDR6": 1
+      },
+      "file": "AI.list",
+      "sha256": "255b17c8dc098c3111378251dc0dc76145fbe92c6a1127ec985e4a86df05ca2b"
+    },
+    {
+      "id": "openai",
+      "name": "OpenAI",
+      "source_url": "https://rule.kelee.one/Loon/OpenAI.lsr",
+      "source_rule_count": 35,
+      "rule_types": {
+        "DOMAIN": 7,
+        "DOMAIN-KEYWORD": 1,
+        "DOMAIN-SUFFIX": 24,
+        "IP-ASN": 1,
+        "IP-CIDR": 2
+      },
+      "file": "OpenAI.list",
+      "sha256": "f75a36767a6a24b1ef774afe370b569cf0623aced4ea3628c6cceb00a68e6b66"
+    },
+    {
+      "id": "claude",
+      "name": "Claude",
+      "source_url": "https://rule.kelee.one/Loon/Claude.lsr",
+      "source_rule_count": 3,
+      "rule_types": {
+        "DOMAIN": 1,
+        "DOMAIN-SUFFIX": 2
+      },
+      "file": "Claude.list",
+      "sha256": "2b209dca05cdbce61c3d4fa22b501c421af11f8af89019fd7ea5e21349c9fe7b"
+    },
+    {
+      "id": "gemini",
+      "name": "Gemini",
+      "source_url": "https://rule.kelee.one/Loon/Gemini.lsr",
+      "source_rule_count": 13,
+      "rule_types": {
+        "DOMAIN": 3,
+        "DOMAIN-KEYWORD": 3,
+        "DOMAIN-SUFFIX": 7
+      },
+      "file": "Gemini.list",
+      "sha256": "ebef35d3d77f0975df76c642ac841d263f666f7714188a0ef752f4d62a8d5f71"
+    },
+    {
+      "id": "speedtest-international",
+      "name": "Speedtest International",
+      "source_url": "https://kelee.one/Tool/Loon/Lsr/SpeedtestInternational.lsr",
+      "source_rule_count": 17965,
+      "rule_types": {
+        "DOMAIN": 17953,
+        "DOMAIN-SUFFIX": 3,
+        "IP-CIDR": 9
+      },
+      "file": "SpeedtestInternational.list",
+      "sha256": "be4f120862e44e1dcd5b39498e5b8b7c7eb5ba323236936a7748f3f67c9760b4"
+    },
+    {
+      "id": "netflix",
+      "name": "Netflix",
+      "source_url": "https://rule.kelee.one/Loon/Netflix.lsr",
+      "source_rule_count": 1157,
+      "rule_types": {
+        "DOMAIN": 3,
+        "DOMAIN-KEYWORD": 4,
+        "DOMAIN-SUFFIX": 30,
+        "IP-CIDR": 1115,
+        "IP-CIDR6": 4,
+        "USER-AGENT": 1
+      },
+      "file": "Netflix.list",
+      "sha256": "6f6181d7f0bf1935a6045e8beacece88491bbce204cdcc5ebec7dd698d284419"
+    },
+    {
+      "id": "lan",
+      "name": "LAN",
+      "source_url": "https://kelee.one/Tool/Loon/Lsr/LAN_SPLITTER.lsr",
+      "source_rule_count": 9,
+      "rule_types": {
+        "IP-CIDR": 6,
+        "IP-CIDR6": 3
+      },
+      "file": "LAN_SPLITTER.list",
+      "sha256": "140b3f8d92a0a92e5a8fc74304948f7c34a2f7a104f147d1d4fa63310dac19a7"
+    },
+    {
+      "id": "cn-region",
+      "name": "CN REGION",
+      "source_url": "https://kelee.one/Tool/Loon/Lsr/REGION_SPLITTER.lsr",
+      "source_rule_count": 1,
+      "rule_types": {
+        "GEOIP": 1
+      },
+      "file": "REGION_SPLITTER.list",
+      "sha256": "c4d317a51d766a165f6842f38fcf090fe84ac8cb65cd7ff2fdc1083a20ddae40"
+    },
+    {
+      "id": "douyin",
+      "name": "DouYin",
+      "source_url": "https://rule.kelee.one/Loon/DouYin.lsr",
+      "source_rule_count": 13,
+      "rule_types": {
+        "DOMAIN": 2,
+        "DOMAIN-SUFFIX": 11
+      },
+      "file": "DouYin.list",
+      "sha256": "e472c49172b104e210fab43d85c172acc6bd507fa656548997f5deb6f2bdcdf9"
+    }
+  ]
+}
