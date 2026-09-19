@@ -85,6 +85,11 @@
       "id": "cn-region",
       "name": "CN REGION",
       "url": "https://kelee.one/Tool/Loon/Lsr/REGION_SPLITTER.lsr"
+    },
+    {
+      "id": "douyin",
+      "name": "DouYin",
+      "url": "https://rule.kelee.one/Loon/DouYin.lsr"
     }
   ]
 }
