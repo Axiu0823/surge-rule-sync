@@ -11,14 +11,14 @@
       "rule_types": {
         "DOMAIN-SUFFIX": 3
       },
-      "source_sha256": "dfc4e28b17c3f32b260f17c0d2e61b408b335f163899dd12cbee189b8c1922fe",
+      "source_sha256": "c6f3788f151cec5b0d44132b8a70141dbd3008ab0c1c5c38e7888226546e0485",
       "surge": {
         "file": "surge/OKX.list",
-        "sha256": "5ab17865e7d251d4f6c4f00e5b18c0f0e845734d701529b4f907be9b97e87748"
+        "sha256": "719a354a06938d2b1e7e6457b8f6b4d5069e791591ec974405e5e3b0778d20af"
       },
       "clash": {
         "file": "clash/OKX.yaml",
-        "sha256": "bc7c6b9f833305f10699e7f9a446c7ef41b1085d43b39ab903033abfa9348846"
+        "sha256": "d58a1ded7feade4ad51b94c907b9e59f809a4bba625a1ae3d6999b6b5ebd2b9e"
       }
     },
     {
@@ -32,14 +32,14 @@
         "DOMAIN-SUFFIX": 4,
         "IP-CIDR": 11
       },
-      "source_sha256": "b10949e459006ce6166b6200c9916f8bf33e7d8bb410fa7f4b46c0505c22aa38",
+      "source_sha256": "fb67d56e5f0fd042fe7ad1aeb063bf3787f8b8180f1f65757a31c01dbf9dd01f",
       "surge": {
         "file": "surge/Whatsapp.list",
-        "sha256": "7d1a6aef1d0826afe74cb290dcc3a7085f5ede2efd5ccde1275b63c1b7cba561"
+        "sha256": "9ee922ad0166522778d62285a093d1ba5e0b0cfcf62bc78a1d87793e599fab55"
       },
       "clash": {
         "file": "clash/Whatsapp.yaml",
-        "sha256": "f6f0ff25ee1a002713443b7d5174edb22195dbb9b21ce00207a5bb584115f9db"
+        "sha256": "3cf73376336e0963d2a81a76c1d0ed1d77ac60a618526d506060e0a7e62e6246"
       }
     },
     {
@@ -52,14 +52,14 @@
         "DOMAIN-SUFFIX": 26,
         "IP-CIDR": 6
       },
-      "source_sha256": "beabe6d9bea9c602cc1c694001b2e4e2653590ff591b9723ee16206ed4c87c83",
+      "source_sha256": "bd97a12e33a9ef4c01c8f26880f474ce58e088ef2a093b80902e1d79f4d8b89a",
       "surge": {
         "file": "surge/Twitter.list",
-        "sha256": "4e60fddd01413dc5ac5d58912cf33fe70ff62ef2b87a183047c96f635f3c5519"
+        "sha256": "bea8336f1191a2d5aabc26a0014d086df4d4b9b9b76f64c9af4e2d6316a1f1ec"
       },
       "clash": {
         "file": "clash/Twitter.yaml",
-        "sha256": "362d2101a15b64bf38aa675f3a779d0a56dc4b427135d1353cc59129032e969d"
+        "sha256": "3bf780ffe1ef7a74fe4791a5db831f3daf05572b305e7f787455ca3518139146"
       }
     },
     {
@@ -75,14 +75,14 @@
         "IP-CIDR": 6,
         "IP-CIDR6": 4
       },
-      "source_sha256": "433f235af317c8845070e361f1045122c355a04ff60745dc9d9ea7b304dcb6d3",
+      "source_sha256": "3476b6886168e7a3b3ebfcd3e72172796381f8665ac3f85f85202ab8a8a60cf0",
       "surge": {
         "file": "surge/Telegram.list",
-        "sha256": "4d72a9c6fb6703a3a6a89f156c5a3515283f581ceeea534337267624c13a43fa"
+        "sha256": "d31c0b8aea7cda6ddaa7cb79c918db934b162970a390e3920d02efd92d5a7460"
       },
       "clash": {
         "file": "clash/Telegram.yaml",
-        "sha256": "2dcd3de06f566a5e2b6c41b4192d1279872aeac373173463de0bd85a33d6b281"
+        "sha256": "e922de6f88a179c8a0143bf6c1b91ce0ac812e8b4145ef654c82c0a224d3329d"
       }
     },
     {
@@ -93,14 +93,14 @@
       "rule_types": {
         "DOMAIN-SUFFIX": 12
       },
-      "source_sha256": "ac659b6d39c60e71730ad09235f8652a281f0fead9be38fcd169ddf7a5bbba83",
+      "source_sha256": "2a2de45f646b5bc1bf6e444ce3cef9ab2b9aee8accd47992c8f1b4fa17417c4b",
       "surge": {
         "file": "surge/Binance.list",
-        "sha256": "1e115a50545d2ce2f5498100ce02657fe50523ffbaea867327344b9c689a6382"
+        "sha256": "ebe98d1564b8e2bc1f5742a96ccdff71597cf838c5af6f12bf019361905f388a"
       },
       "clash": {
         "file": "clash/Binance.yaml",
-        "sha256": "fbfb8d149ad315b69837e67be34917c8a151c755d6841be2ab98c9d514883413"
+        "sha256": "ef543daf76e159bed25a90af68348b7de57fb37cf6e01ccc1888a7904e0fb717"
       }
     },
     {
@@ -114,14 +114,14 @@
         "IP-ASN": 1,
         "USER-AGENT": 2
       },
-      "source_sha256": "5c624c68ca6fec30b4bbd309f6f8faeff0fbb10f9826f8df2864aedde2576df9",
+      "source_sha256": "8e1ef7c91580526aaf4eb334fda009ac0a5b96cec880fe96ee25e7cb0d203c01",
       "surge": {
         "file": "surge/WeChat.list",
-        "sha256": "42ace5d3fee4ba61a81aefc48a3c0b21b9f24d7c9c22b9dcc088e648ce609bf5"
+        "sha256": "1e416b6b6a2d03ded2237b47ed63f6ca07f07c30df91e950e112bbd0dabec92b"
       },
       "clash": {
         "file": "clash/WeChat.yaml",
-        "sha256": "3ba126d750d5eab18146286fc56dc08d1406dd9a41d2a211dc581345a37984be"
+        "sha256": "ab9d0513a01d7eab70ed62967f810ef31dc5da6dc73448937ac4ee92df5c5203"
       }
     },
     {
@@ -137,14 +137,14 @@
         "IP-CIDR6": 1,
         "USER-AGENT": 7
       },
-      "source_sha256": "2351aa9084a4855b0273acced7d16446828b2abe7505c1c4f4ec8ab29414e83b",
+      "source_sha256": "048eeeb00b04d67ba64a1e005825ae3c33d757abe99e9614d4e5f3229c37d78b",
       "surge": {
         "file": "surge/YouTube.list",
-        "sha256": "f9be0b470ac18616953cce4665cff5fb67c08eb1d157ec81f83bb5fbdcd5fb2a"
+        "sha256": "d13a12b05af2c1e17ccb436179f908ab7a36ef034520a05e887367b744c75a04"
       },
       "clash": {
         "file": "clash/YouTube.yaml",
-        "sha256": "cacc8d41d8bf6f1db7a9518b247da42a4a995a92eb048178f9d22f25f0ca20ef"
+        "sha256": "f5db40006483540725d870a857b21b02d015e98fee1138d9b2e6745b9d3dadd3"
       }
     },
     {
@@ -156,14 +156,14 @@
         "DOMAIN-KEYWORD": 1,
         "DOMAIN-SUFFIX": 30
       },
-      "source_sha256": "b71ff88b389b45cf21199bfd0da389c98393bcd8457c902768397169025fc6ad",
+      "source_sha256": "4778c5862d24719f07fad3ec6daeb4ab790e2cd636371e5b3bf5099551b285e7",
       "surge": {
         "file": "surge/GitHub.list",
-        "sha256": "97accce23501bda0bdace92116d6543bc1c6a3f9278be1d6572c0c0360ad0f1c"
+        "sha256": "f86e6845e6e83ac00565ecc8ed1ddc29571b5abebcd8eb9ba54fcc5069dc23c8"
       },
       "clash": {
         "file": "clash/GitHub.yaml",
-        "sha256": "379efd2cb991b6aa2b6e543067ddb9f3c513e02f3f1bbe3c004641cf3fdc004e"
+        "sha256": "9bd165114a99ccbb1473d1b0796f223d5c6028b2cc4a7a8eeef76625edcfec28"
       }
     },
     {
@@ -191,22 +191,22 @@
       "id": "ai",
       "name": "AI",
       "source_url": "https://kelee.one/Tool/Loon/Lsr/AI.lsr",
-      "source_rule_count": 103,
+      "source_rule_count": 109,
       "rule_types": {
         "AND": 3,
-        "DOMAIN": 54,
-        "DOMAIN-SUFFIX": 44,
+        "DOMAIN": 58,
+        "DOMAIN-SUFFIX": 46,
         "IP-CIDR": 1,
         "IP-CIDR6": 1
       },
-      "source_sha256": "7dddbf1287aabe77116177a0d4d76423dad056a81563bd91e1d554095951212d",
+      "source_sha256": "863375fc58ce503a9c2dac1a8517b31f502ceaa9c66e29578b44ee6897c4345a",
       "surge": {
         "file": "surge/AI.list",
-        "sha256": "50a9c0285d2c81171304b53d3e039ccb50d20c0f8c821131d36d7ca685d3b6c7"
+        "sha256": "ada7e85a2f0294608270e4d4b7ca2b12c3e3044ef7087a2cb6fae5f118e5e754"
       },
       "clash": {
         "file": "clash/AI.yaml",
-        "sha256": "ed116c2271885f95e4350a8db8a62f5ed5e07f50eda40556aa594430728b2281"
+        "sha256": "2cda19e94eea43f2455b635dbda1ea8d2b6938b312157b0e67181b0cdd80d0bf"
       }
     },
     {
@@ -221,14 +221,14 @@
         "IP-ASN": 1,
         "IP-CIDR": 2
       },
-      "source_sha256": "ddcdafefe30e2248eb263537cb0615f38bdde9c364245200cd4a1261c2d02dd7",
+      "source_sha256": "81f8c579a868063cef208c3174c37175a1f56bb290e01dd00fddc8890bddd085",
       "surge": {
         "file": "surge/OpenAI.list",
-        "sha256": "f75a36767a6a24b1ef774afe370b569cf0623aced4ea3628c6cceb00a68e6b66"
+        "sha256": "069da29e79367b8a0fb8339400b7de17307a568e259478f43ec8672cc80deae6"
       },
       "clash": {
         "file": "clash/OpenAI.yaml",
-        "sha256": "e03bab40f71519220e7af33ec22a8414a1094f8b9c03a5ead8f89355ce09f14b"
+        "sha256": "243799a9f3f155857f49b0f92b83481db346007a6942942c192eb01bc3f9bf15"
       }
     },
     {
@@ -240,14 +240,14 @@
         "DOMAIN": 1,
         "DOMAIN-SUFFIX": 2
       },
-      "source_sha256": "babad5ee0860fb4e9e3e435ed3258377c0cb5e0ace21a8a9dc33837014fc170d",
+      "source_sha256": "beca68aab711d845e6b8e93342f960b47bf1ed08a5d8c813143b11518b0b6098",
       "surge": {
         "file": "surge/Claude.list",
-        "sha256": "2b209dca05cdbce61c3d4fa22b501c421af11f8af89019fd7ea5e21349c9fe7b"
+        "sha256": "4a08eb68f71e27a7a932edb3b4f184200683f13a1870d3dce7c250f5275a6ca2"
       },
       "clash": {
         "file": "clash/Claude.yaml",
-        "sha256": "444aa337fcbd2f4ec843f38b5689e35e464bb4420941d7e77e0df7676782e433"
+        "sha256": "4a70256f8a22612f7c881df5481c77914f8d18f5cb4a4c058e41bb946f43ec6e"
       }
     },
     {
@@ -260,14 +260,14 @@
         "DOMAIN-KEYWORD": 3,
         "DOMAIN-SUFFIX": 7
       },
-      "source_sha256": "adf33270ea4209e461eef9f6a2dba0e65f3e47ce6a0a851f01760ff02b2a638d",
+      "source_sha256": "d2d8160e8c55369c42f43c57d33b4c409685237fdd176eb62a292f830c493f78",
       "surge": {
         "file": "surge/Gemini.list",
-        "sha256": "ebef35d3d77f0975df76c642ac841d263f666f7714188a0ef752f4d62a8d5f71"
+        "sha256": "b73569f7948f6394202a57a640b931ef8cbccb6d54e4e530ce0d0881a4f8235a"
       },
       "clash": {
         "file": "clash/Gemini.yaml",
-        "sha256": "fddcb406c84377d7c2b25efaf9b5c88f311b5ac0219685e168aa17b2c41b1b5b"
+        "sha256": "5f5b32392e4258e15c85a8660c9c3c495807f1bcd749aa3be9da55ed3914c0a4"
       }
     },
     {
@@ -303,14 +303,14 @@
         "IP-CIDR6": 4,
         "USER-AGENT": 1
       },
-      "source_sha256": "7093f58505184b07ca45e72a539780acf4b6d42032f5c563bc22ab8921182f17",
+      "source_sha256": "3f7185be2b30f46babf443d9363f5be6c5d555e28e9496442591dbadfce82e46",
       "surge": {
         "file": "surge/Netflix.list",
-        "sha256": "6f6181d7f0bf1935a6045e8beacece88491bbce204cdcc5ebec7dd698d284419"
+        "sha256": "f395fe890ae6d9637d88a96de08f6199b7f8fa22a9188078ce58c732796ac4c1"
       },
       "clash": {
         "file": "clash/Netflix.yaml",
-        "sha256": "8a9b53881dff9c14857b8cbcf3a3dda7e80ddf83b09f47aa7794869f04f61a4b"
+        "sha256": "8a1a3a422204ffca39ea1e21fa2e39d539596d49a68ffabf8218dd6718b12777"
       }
     },
     {
@@ -359,14 +359,14 @@
         "DOMAIN": 2,
         "DOMAIN-SUFFIX": 11
       },
-      "source_sha256": "480ac72683e40b04f5723a753100f6dfbf3f14e20fdedef6dc1bdb93d14fb317",
+      "source_sha256": "27d4d878dc1c9c09006d42f82bb7988fe17d30788368a13d4026359c2e7a66a9",
       "surge": {
         "file": "surge/DouYin.list",
-        "sha256": "e472c49172b104e210fab43d85c172acc6bd507fa656548997f5deb6f2bdcdf9"
+        "sha256": "15306d3fc9340a5bb9695e4d875125046af28e0e7b92568c4c85b5a8b92b393b"
       },
       "clash": {
         "file": "clash/DouYin.yaml",
-        "sha256": "80ac3f75d03a7aa001f12b0febcc77efdd63d020332fdaae84be3dddb8c245e1"
+        "sha256": "d1c4436bc824b58f6b3ff3e225b22e70ca7a5c22e476892402f6e8ab46fda6ed"
       }
     }
   ]

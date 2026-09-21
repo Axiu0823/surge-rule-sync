@@ -10,7 +10,7 @@
         "DOMAIN-SUFFIX": 3
       },
       "file": "OKX.list",
-      "sha256": "5ab17865e7d251d4f6c4f00e5b18c0f0e845734d701529b4f907be9b97e87748"
+      "sha256": "719a354a06938d2b1e7e6457b8f6b4d5069e791591ec974405e5e3b0778d20af"
     },
     {
       "id": "whatsapp",
@@ -24,7 +24,7 @@
         "IP-CIDR": 11
       },
       "file": "Whatsapp.list",
-      "sha256": "7d1a6aef1d0826afe74cb290dcc3a7085f5ede2efd5ccde1275b63c1b7cba561"
+      "sha256": "9ee922ad0166522778d62285a093d1ba5e0b0cfcf62bc78a1d87793e599fab55"
     },
     {
       "id": "twitter",
@@ -37,7 +37,7 @@
         "IP-CIDR": 6
       },
       "file": "Twitter.list",
-      "sha256": "4e60fddd01413dc5ac5d58912cf33fe70ff62ef2b87a183047c96f635f3c5519"
+      "sha256": "bea8336f1191a2d5aabc26a0014d086df4d4b9b9b76f64c9af4e2d6316a1f1ec"
     },
     {
       "id": "telegram",
@@ -53,7 +53,7 @@
         "IP-CIDR6": 4
       },
       "file": "Telegram.list",
-      "sha256": "4d72a9c6fb6703a3a6a89f156c5a3515283f581ceeea534337267624c13a43fa"
+      "sha256": "d31c0b8aea7cda6ddaa7cb79c918db934b162970a390e3920d02efd92d5a7460"
     },
     {
       "id": "binance",
@@ -64,7 +64,7 @@
         "DOMAIN-SUFFIX": 12
       },
       "file": "Binance.list",
-      "sha256": "1e115a50545d2ce2f5498100ce02657fe50523ffbaea867327344b9c689a6382"
+      "sha256": "ebe98d1564b8e2bc1f5742a96ccdff71597cf838c5af6f12bf019361905f388a"
     },
     {
       "id": "wechat",
@@ -78,7 +78,7 @@
         "USER-AGENT": 2
       },
       "file": "WeChat.list",
-      "sha256": "42ace5d3fee4ba61a81aefc48a3c0b21b9f24d7c9c22b9dcc088e648ce609bf5"
+      "sha256": "1e416b6b6a2d03ded2237b47ed63f6ca07f07c30df91e950e112bbd0dabec92b"
     },
     {
       "id": "youtube",
@@ -94,7 +94,7 @@
         "USER-AGENT": 7
       },
       "file": "YouTube.list",
-      "sha256": "f9be0b470ac18616953cce4665cff5fb67c08eb1d157ec81f83bb5fbdcd5fb2a"
+      "sha256": "d13a12b05af2c1e17ccb436179f908ab7a36ef034520a05e887367b744c75a04"
     },
     {
       "id": "github",
@@ -106,7 +106,7 @@
         "DOMAIN-SUFFIX": 30
       },
       "file": "GitHub.list",
-      "sha256": "97accce23501bda0bdace92116d6543bc1c6a3f9278be1d6572c0c0360ad0f1c"
+      "sha256": "f86e6845e6e83ac00565ecc8ed1ddc29571b5abebcd8eb9ba54fcc5069dc23c8"
     },
     {
       "id": "tiktok",
@@ -126,16 +126,16 @@
       "id": "ai",
       "name": "AI",
       "source_url": "https://kelee.one/Tool/Loon/Lsr/AI.lsr",
-      "source_rule_count": 103,
+      "source_rule_count": 109,
       "rule_types": {
         "AND": 3,
-        "DOMAIN": 54,
-        "DOMAIN-SUFFIX": 44,
+        "DOMAIN": 58,
+        "DOMAIN-SUFFIX": 46,
         "IP-CIDR": 1,
         "IP-CIDR6": 1
       },
       "file": "AI.list",
-      "sha256": "50a9c0285d2c81171304b53d3e039ccb50d20c0f8c821131d36d7ca685d3b6c7"
+      "sha256": "ada7e85a2f0294608270e4d4b7ca2b12c3e3044ef7087a2cb6fae5f118e5e754"
     },
     {
       "id": "openai",
@@ -150,7 +150,7 @@
         "IP-CIDR": 2
       },
       "file": "OpenAI.list",
-      "sha256": "f75a36767a6a24b1ef774afe370b569cf0623aced4ea3628c6cceb00a68e6b66"
+      "sha256": "069da29e79367b8a0fb8339400b7de17307a568e259478f43ec8672cc80deae6"
     },
     {
       "id": "claude",
@@ -162,7 +162,7 @@
         "DOMAIN-SUFFIX": 2
       },
       "file": "Claude.list",
-      "sha256": "2b209dca05cdbce61c3d4fa22b501c421af11f8af89019fd7ea5e21349c9fe7b"
+      "sha256": "4a08eb68f71e27a7a932edb3b4f184200683f13a1870d3dce7c250f5275a6ca2"
     },
     {
       "id": "gemini",
@@ -175,7 +175,7 @@
         "DOMAIN-SUFFIX": 7
       },
       "file": "Gemini.list",
-      "sha256": "ebef35d3d77f0975df76c642ac841d263f666f7714188a0ef752f4d62a8d5f71"
+      "sha256": "b73569f7948f6394202a57a640b931ef8cbccb6d54e4e530ce0d0881a4f8235a"
     },
     {
       "id": "speedtest-international",
@@ -204,7 +204,7 @@
         "USER-AGENT": 1
       },
       "file": "Netflix.list",
-      "sha256": "6f6181d7f0bf1935a6045e8beacece88491bbce204cdcc5ebec7dd698d284419"
+      "sha256": "f395fe890ae6d9637d88a96de08f6199b7f8fa22a9188078ce58c732796ac4c1"
     },
     {
       "id": "lan",
@@ -239,7 +239,7 @@
         "DOMAIN-SUFFIX": 11
       },
       "file": "DouYin.list",
-      "sha256": "e472c49172b104e210fab43d85c172acc6bd507fa656548997f5deb6f2bdcdf9"
+      "sha256": "15306d3fc9340a5bb9695e4d875125046af28e0e7b92568c4c85b5a8b92b393b"
     }
   ]
 }

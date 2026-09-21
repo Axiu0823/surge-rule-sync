@@ -1,7 +1,7 @@
 # Netflix
 # Source: https://rule.kelee.one/Loon/Netflix.lsr
 # Generated from Loon syntax; do not edit.
-# UpdateTime：2026-09-19 03:46:26
+# UpdateTime：2026-09-22 03:12:35
 # RuleCount：1157
 DOMAIN,e13252.dscg.akamaiedge.net
 DOMAIN,netflix.com.edgesuite.net

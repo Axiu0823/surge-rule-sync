@@ -2,7 +2,7 @@
 # Source: https://kelee.one/Tool/Loon/Lsr/AI.lsr
 # Classical provider generated from Loon syntax.
 payload:
-  # 2026-09-21 17:02:06
+  # 2026-09-21 23:15:09
   # OpenAI
   # Copilot
   # Github Copilot
@@ -44,6 +44,8 @@ payload:
   # Command Code
   # TypeSafe AI
   # Ollama AI
+  # Devin ai
+  # Zed AI/Delta AI
   - "AND,((DOMAIN-KEYWORD,chatgpt-async-webps-prod-),(DOMAIN-SUFFIX,webpubsub.azure.com))"
   - "AND,((DOMAIN-KEYWORD,openaicom-api-),(DOMAIN-SUFFIX,azurefd.net))"
   - "DOMAIN,chatgpt.livekit.cloud"
@@ -146,4 +148,10 @@ payload:
   - "DOMAIN-SUFFIX,opencode.ai"
   - "DOMAIN-SUFFIX,commandcode.ai"
   - "DOMAIN-SUFFIX,typesafe.ai"
-  - "DOMAIN,ollama.com"
+  - "DOMAIN-SUFFIX,ollama.com"
+  - "DOMAIN-SUFFIX,devin.ai"
+  - "DOMAIN,cdn.delta.dev"
+  - "DOMAIN,delta.zed.dev"
+  - "DOMAIN,api.zed.dev"
+  - "DOMAIN,zed-us-east-1-zed-production.c15t.dev"
+  - "DOMAIN,cloud.zed.dev"

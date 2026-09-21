@@ -10,7 +10,7 @@
         "DOMAIN-SUFFIX": 3
       },
       "file": "OKX.yaml",
-      "sha256": "bc7c6b9f833305f10699e7f9a446c7ef41b1085d43b39ab903033abfa9348846"
+      "sha256": "d58a1ded7feade4ad51b94c907b9e59f809a4bba625a1ae3d6999b6b5ebd2b9e"
     },
     {
       "id": "whatsapp",
@@ -24,7 +24,7 @@
         "IP-CIDR": 11
       },
       "file": "Whatsapp.yaml",
-      "sha256": "f6f0ff25ee1a002713443b7d5174edb22195dbb9b21ce00207a5bb584115f9db"
+      "sha256": "3cf73376336e0963d2a81a76c1d0ed1d77ac60a618526d506060e0a7e62e6246"
     },
     {
       "id": "twitter",
@@ -37,7 +37,7 @@
         "IP-CIDR": 6
       },
       "file": "Twitter.yaml",
-      "sha256": "362d2101a15b64bf38aa675f3a779d0a56dc4b427135d1353cc59129032e969d"
+      "sha256": "3bf780ffe1ef7a74fe4791a5db831f3daf05572b305e7f787455ca3518139146"
     },
     {
       "id": "telegram",
@@ -53,7 +53,7 @@
         "IP-CIDR6": 4
       },
       "file": "Telegram.yaml",
-      "sha256": "2dcd3de06f566a5e2b6c41b4192d1279872aeac373173463de0bd85a33d6b281"
+      "sha256": "e922de6f88a179c8a0143bf6c1b91ce0ac812e8b4145ef654c82c0a224d3329d"
     },
     {
       "id": "binance",
@@ -64,7 +64,7 @@
         "DOMAIN-SUFFIX": 12
       },
       "file": "Binance.yaml",
-      "sha256": "fbfb8d149ad315b69837e67be34917c8a151c755d6841be2ab98c9d514883413"
+      "sha256": "ef543daf76e159bed25a90af68348b7de57fb37cf6e01ccc1888a7904e0fb717"
     },
     {
       "id": "wechat",
@@ -78,7 +78,7 @@
         "USER-AGENT": 2
       },
       "file": "WeChat.yaml",
-      "sha256": "3ba126d750d5eab18146286fc56dc08d1406dd9a41d2a211dc581345a37984be"
+      "sha256": "ab9d0513a01d7eab70ed62967f810ef31dc5da6dc73448937ac4ee92df5c5203"
     },
     {
       "id": "youtube",
@@ -94,7 +94,7 @@
         "USER-AGENT": 7
       },
       "file": "YouTube.yaml",
-      "sha256": "cacc8d41d8bf6f1db7a9518b247da42a4a995a92eb048178f9d22f25f0ca20ef"
+      "sha256": "f5db40006483540725d870a857b21b02d015e98fee1138d9b2e6745b9d3dadd3"
     },
     {
       "id": "github",
@@ -106,7 +106,7 @@
         "DOMAIN-SUFFIX": 30
       },
       "file": "GitHub.yaml",
-      "sha256": "379efd2cb991b6aa2b6e543067ddb9f3c513e02f3f1bbe3c004641cf3fdc004e"
+      "sha256": "9bd165114a99ccbb1473d1b0796f223d5c6028b2cc4a7a8eeef76625edcfec28"
     },
     {
       "id": "tiktok",
@@ -126,16 +126,16 @@
       "id": "ai",
       "name": "AI",
       "source_url": "https://kelee.one/Tool/Loon/Lsr/AI.lsr",
-      "source_rule_count": 103,
+      "source_rule_count": 109,
       "rule_types": {
         "AND": 3,
-        "DOMAIN": 54,
-        "DOMAIN-SUFFIX": 44,
+        "DOMAIN": 58,
+        "DOMAIN-SUFFIX": 46,
         "IP-CIDR": 1,
         "IP-CIDR6": 1
       },
       "file": "AI.yaml",
-      "sha256": "ed116c2271885f95e4350a8db8a62f5ed5e07f50eda40556aa594430728b2281"
+      "sha256": "2cda19e94eea43f2455b635dbda1ea8d2b6938b312157b0e67181b0cdd80d0bf"
     },
     {
       "id": "openai",
@@ -150,7 +150,7 @@
         "IP-CIDR": 2
       },
       "file": "OpenAI.yaml",
-      "sha256": "e03bab40f71519220e7af33ec22a8414a1094f8b9c03a5ead8f89355ce09f14b"
+      "sha256": "243799a9f3f155857f49b0f92b83481db346007a6942942c192eb01bc3f9bf15"
     },
     {
       "id": "claude",
@@ -162,7 +162,7 @@
         "DOMAIN-SUFFIX": 2
       },
       "file": "Claude.yaml",
-      "sha256": "444aa337fcbd2f4ec843f38b5689e35e464bb4420941d7e77e0df7676782e433"
+      "sha256": "4a70256f8a22612f7c881df5481c77914f8d18f5cb4a4c058e41bb946f43ec6e"
     },
     {
       "id": "gemini",
@@ -175,7 +175,7 @@
         "DOMAIN-SUFFIX": 7
       },
       "file": "Gemini.yaml",
-      "sha256": "fddcb406c84377d7c2b25efaf9b5c88f311b5ac0219685e168aa17b2c41b1b5b"
+      "sha256": "5f5b32392e4258e15c85a8660c9c3c495807f1bcd749aa3be9da55ed3914c0a4"
     },
     {
       "id": "speedtest-international",
@@ -204,7 +204,7 @@
         "USER-AGENT": 1
       },
       "file": "Netflix.yaml",
-      "sha256": "8a9b53881dff9c14857b8cbcf3a3dda7e80ddf83b09f47aa7794869f04f61a4b"
+      "sha256": "8a1a3a422204ffca39ea1e21fa2e39d539596d49a68ffabf8218dd6718b12777"
     },
     {
       "id": "lan",
@@ -239,7 +239,7 @@
         "DOMAIN-SUFFIX": 11
       },
       "file": "DouYin.yaml",
-      "sha256": "80ac3f75d03a7aa001f12b0febcc77efdd63d020332fdaae84be3dddb8c245e1"
+      "sha256": "d1c4436bc824b58f6b3ff3e225b22e70ca7a5c22e476892402f6e8ab46fda6ed"
     }
   ]
 }

@@ -2,7 +2,7 @@
 # Source: https://rule.kelee.one/Loon/YouTube.lsr
 # Classical provider generated from Loon syntax.
 payload:
-  # UpdateTime：2026-09-19 03:47:52
+  # UpdateTime：2026-09-22 03:14:07
   # RuleCount：193
   - "DOMAIN,yt3.ggpht.com"
   - "DOMAIN,youtubei.googleapis.com"

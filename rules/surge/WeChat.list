@@ -1,7 +1,7 @@
 # WeChat
 # Source: https://rule.kelee.one/Loon/WeChat.lsr
 # Generated from Loon syntax; do not edit.
-# UpdateTime：2026-09-19 03:46:16
+# UpdateTime：2026-09-22 03:12:26
 # RuleCount：43
 DOMAIN,btrace.qq.com
 DOMAIN,dldir1.qq.com

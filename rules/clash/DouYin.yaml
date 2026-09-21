@@ -2,7 +2,7 @@
 # Source: https://rule.kelee.one/Loon/DouYin.lsr
 # Classical provider generated from Loon syntax.
 payload:
-  # UpdateTime：2026-09-19 03:46:09
+  # UpdateTime：2026-09-22 03:12:19
   # RuleCount：13
   - "DOMAIN,lf3-static.bytednsdoc.com"
   - "DOMAIN,v5-dy-o-abtest.zjcdn.com"
