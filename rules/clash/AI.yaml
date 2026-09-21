@@ -2,7 +2,7 @@
 # Source: https://kelee.one/Tool/Loon/Lsr/AI.lsr
 # Classical provider generated from Loon syntax.
 payload:
-  # 2026-07-15 13:18:31
+  # 2026-09-21 17:02:06
   # OpenAI
   # Copilot
   # Github Copilot
@@ -39,6 +39,11 @@ payload:
   # 智谱国际版
   # 小米国际
   # Agnes AI
+  # Cline
+  # OpenCode
+  # Command Code
+  # TypeSafe AI
+  # Ollama AI
   - "AND,((DOMAIN-KEYWORD,chatgpt-async-webps-prod-),(DOMAIN-SUFFIX,webpubsub.azure.com))"
   - "AND,((DOMAIN-KEYWORD,openaicom-api-),(DOMAIN-SUFFIX,azurefd.net))"
   - "DOMAIN,chatgpt.livekit.cloud"
@@ -137,3 +142,8 @@ payload:
   - "DOMAIN,token-plan-sgp.xiaomimimo.com"
   - "DOMAIN,token-plan-ams.xiaomimimo.com"
   - "DOMAIN-SUFFIX,agnes-ai.com"
+  - "DOMAIN-SUFFIX,cline.bot"
+  - "DOMAIN-SUFFIX,opencode.ai"
+  - "DOMAIN-SUFFIX,commandcode.ai"
+  - "DOMAIN-SUFFIX,typesafe.ai"
+  - "DOMAIN,ollama.com"

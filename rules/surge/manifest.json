@@ -126,16 +126,16 @@
       "id": "ai",
       "name": "AI",
       "source_url": "https://kelee.one/Tool/Loon/Lsr/AI.lsr",
-      "source_rule_count": 98,
+      "source_rule_count": 103,
       "rule_types": {
         "AND": 3,
-        "DOMAIN": 53,
-        "DOMAIN-SUFFIX": 40,
+        "DOMAIN": 54,
+        "DOMAIN-SUFFIX": 44,
         "IP-CIDR": 1,
         "IP-CIDR6": 1
       },
       "file": "AI.list",
-      "sha256": "255b17c8dc098c3111378251dc0dc76145fbe92c6a1127ec985e4a86df05ca2b"
+      "sha256": "50a9c0285d2c81171304b53d3e039ccb50d20c0f8c821131d36d7ca685d3b6c7"
     },
     {
       "id": "openai",
