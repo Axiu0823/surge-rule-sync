@@ -2,7 +2,7 @@
 # Source: https://rule.kelee.one/Loon/Twitter.lsr
 # Classical provider generated from Loon syntax.
 payload:
-  # UpdateTime：2026-09-22 03:12:28
+  # UpdateTime：2026-09-23 03:12:22
   # RuleCount：33
   - "DOMAIN-SUFFIX,twitter.biz"
   - "DOMAIN-SUFFIX,t.co"

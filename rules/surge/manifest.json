@@ -10,7 +10,7 @@
         "DOMAIN-SUFFIX": 3
       },
       "file": "OKX.list",
-      "sha256": "719a354a06938d2b1e7e6457b8f6b4d5069e791591ec974405e5e3b0778d20af"
+      "sha256": "6d1831bfe57776fb12f9f8f591e52e37807daa04644d2f96480aa6e61f1dc34d"
     },
     {
       "id": "whatsapp",
@@ -24,7 +24,7 @@
         "IP-CIDR": 11
       },
       "file": "Whatsapp.list",
-      "sha256": "9ee922ad0166522778d62285a093d1ba5e0b0cfcf62bc78a1d87793e599fab55"
+      "sha256": "59556c38b5a260029889faf59c2ada38b79779f3efcb0b89deb18945b0eeff1a"
     },
     {
       "id": "twitter",
@@ -37,7 +37,7 @@
         "IP-CIDR": 6
       },
       "file": "Twitter.list",
-      "sha256": "bea8336f1191a2d5aabc26a0014d086df4d4b9b9b76f64c9af4e2d6316a1f1ec"
+      "sha256": "6df88491a3f7373cf7d632de056568a2dddb7a8c0b6298eb73602df2286d89ed"
     },
     {
       "id": "telegram",
@@ -53,7 +53,7 @@
         "IP-CIDR6": 4
       },
       "file": "Telegram.list",
-      "sha256": "d31c0b8aea7cda6ddaa7cb79c918db934b162970a390e3920d02efd92d5a7460"
+      "sha256": "d8d88e78c02a004fd39b29890a8c836448c3ad3a2f1bb6a4d2e6e2a7843f745e"
     },
     {
       "id": "binance",
@@ -64,7 +64,7 @@
         "DOMAIN-SUFFIX": 12
       },
       "file": "Binance.list",
-      "sha256": "ebe98d1564b8e2bc1f5742a96ccdff71597cf838c5af6f12bf019361905f388a"
+      "sha256": "2354fa3576f0a12d9adceb8a05be33e2a9d074609349566a8018ffd35c4e7ba9"
     },
     {
       "id": "wechat",
@@ -78,7 +78,7 @@
         "USER-AGENT": 2
       },
       "file": "WeChat.list",
-      "sha256": "1e416b6b6a2d03ded2237b47ed63f6ca07f07c30df91e950e112bbd0dabec92b"
+      "sha256": "fa50512d46ca76a43f272bf8ed9eb3639a60f87c37ce5e9a051551404815f27d"
     },
     {
       "id": "youtube",
@@ -94,7 +94,7 @@
         "USER-AGENT": 7
       },
       "file": "YouTube.list",
-      "sha256": "d13a12b05af2c1e17ccb436179f908ab7a36ef034520a05e887367b744c75a04"
+      "sha256": "9502f83f9b5bfb796a6f7df57686401bd7dcdeb1aefd0cdc94982d686402098d"
     },
     {
       "id": "github",
@@ -106,7 +106,7 @@
         "DOMAIN-SUFFIX": 30
       },
       "file": "GitHub.list",
-      "sha256": "f86e6845e6e83ac00565ecc8ed1ddc29571b5abebcd8eb9ba54fcc5069dc23c8"
+      "sha256": "aa0f62a6a9e6131dea6cbc3795d019a44d308332b901dad4764f69eb1c2a95a2"
     },
     {
       "id": "tiktok",
@@ -150,7 +150,7 @@
         "IP-CIDR": 2
       },
       "file": "OpenAI.list",
-      "sha256": "069da29e79367b8a0fb8339400b7de17307a568e259478f43ec8672cc80deae6"
+      "sha256": "298b61e5d53ebf7557176c6c250a7c261e6d120cc76fc8b94b6d394de759e031"
     },
     {
       "id": "claude",
@@ -162,7 +162,7 @@
         "DOMAIN-SUFFIX": 2
       },
       "file": "Claude.list",
-      "sha256": "4a08eb68f71e27a7a932edb3b4f184200683f13a1870d3dce7c250f5275a6ca2"
+      "sha256": "447661df0917a2851b092dae12445aae060ecd5a1486fc14f959b11af4164afa"
     },
     {
       "id": "gemini",
@@ -175,7 +175,7 @@
         "DOMAIN-SUFFIX": 7
       },
       "file": "Gemini.list",
-      "sha256": "b73569f7948f6394202a57a640b931ef8cbccb6d54e4e530ce0d0881a4f8235a"
+      "sha256": "288a74f48a89d708bd33096bbd40ebe5f42be9a33c27686669890c521e4b6281"
     },
     {
       "id": "speedtest-international",
@@ -204,7 +204,7 @@
         "USER-AGENT": 1
       },
       "file": "Netflix.list",
-      "sha256": "f395fe890ae6d9637d88a96de08f6199b7f8fa22a9188078ce58c732796ac4c1"
+      "sha256": "d1993d1bf141075b690d2282f47d8d394eb2b64d3fce525a1a6f833815f08439"
     },
     {
       "id": "lan",
@@ -239,7 +239,7 @@
         "DOMAIN-SUFFIX": 11
       },
       "file": "DouYin.list",
-      "sha256": "15306d3fc9340a5bb9695e4d875125046af28e0e7b92568c4c85b5a8b92b393b"
+      "sha256": "f992efc7316273031db270be53ca27eac182dd5e8f98ca9f3e7faecf8969e332"
     }
   ]
 }

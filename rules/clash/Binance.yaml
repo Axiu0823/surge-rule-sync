@@ -2,7 +2,7 @@
 # Source: https://rule.kelee.one/Loon/Binance.lsr
 # Classical provider generated from Loon syntax.
 payload:
-  # UpdateTime：2026-09-22 03:13:50
+  # UpdateTime：2026-09-23 03:13:47
   # RuleCount：12
   - "DOMAIN-SUFFIX,bnbzh.ac"
   - "DOMAIN-SUFFIX,saasexch.cc"

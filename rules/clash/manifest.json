@@ -10,7 +10,7 @@
         "DOMAIN-SUFFIX": 3
       },
       "file": "OKX.yaml",
-      "sha256": "d58a1ded7feade4ad51b94c907b9e59f809a4bba625a1ae3d6999b6b5ebd2b9e"
+      "sha256": "b3fb8d8dbeba67d4291c975b221de52a623c6aa6a26e036d34afda5e636cb2be"
     },
     {
       "id": "whatsapp",
@@ -24,7 +24,7 @@
         "IP-CIDR": 11
       },
       "file": "Whatsapp.yaml",
-      "sha256": "3cf73376336e0963d2a81a76c1d0ed1d77ac60a618526d506060e0a7e62e6246"
+      "sha256": "bedd68967733b2ca9cd67c6b637f63fed6ca944107c292ea7ae8ae62472203e3"
     },
     {
       "id": "twitter",
@@ -37,7 +37,7 @@
         "IP-CIDR": 6
       },
       "file": "Twitter.yaml",
-      "sha256": "3bf780ffe1ef7a74fe4791a5db831f3daf05572b305e7f787455ca3518139146"
+      "sha256": "60da69fda250dcb87261a6f401009aeef058e4c8c0ce790c4978efef83811e6e"
     },
     {
       "id": "telegram",
@@ -53,7 +53,7 @@
         "IP-CIDR6": 4
       },
       "file": "Telegram.yaml",
-      "sha256": "e922de6f88a179c8a0143bf6c1b91ce0ac812e8b4145ef654c82c0a224d3329d"
+      "sha256": "62df10ee9a15e5e5f6eafd5450d77cda25395ad8d55b0f6ffd4bab9cae040abc"
     },
     {
       "id": "binance",
@@ -64,7 +64,7 @@
         "DOMAIN-SUFFIX": 12
       },
       "file": "Binance.yaml",
-      "sha256": "ef543daf76e159bed25a90af68348b7de57fb37cf6e01ccc1888a7904e0fb717"
+      "sha256": "818b24a058409dba721d72de2c1824681ade6ca375165133c547cc423f02e681"
     },
     {
       "id": "wechat",
@@ -78,7 +78,7 @@
         "USER-AGENT": 2
       },
       "file": "WeChat.yaml",
-      "sha256": "ab9d0513a01d7eab70ed62967f810ef31dc5da6dc73448937ac4ee92df5c5203"
+      "sha256": "40f045f9e37658facb8080cd3144272a87c1e88746060cf36e21075f00efd2d5"
     },
     {
       "id": "youtube",
@@ -94,7 +94,7 @@
         "USER-AGENT": 7
       },
       "file": "YouTube.yaml",
-      "sha256": "f5db40006483540725d870a857b21b02d015e98fee1138d9b2e6745b9d3dadd3"
+      "sha256": "d57c1cf78011dacf7baf4d8b6eeed31fdf5132cd423222440268ead0da2ae31e"
     },
     {
       "id": "github",
@@ -106,7 +106,7 @@
         "DOMAIN-SUFFIX": 30
       },
       "file": "GitHub.yaml",
-      "sha256": "9bd165114a99ccbb1473d1b0796f223d5c6028b2cc4a7a8eeef76625edcfec28"
+      "sha256": "201cdd83d2094c4ea66e2357cf5cbe64f533e6d304cb4186102535fcfe8852c5"
     },
     {
       "id": "tiktok",
@@ -150,7 +150,7 @@
         "IP-CIDR": 2
       },
       "file": "OpenAI.yaml",
-      "sha256": "243799a9f3f155857f49b0f92b83481db346007a6942942c192eb01bc3f9bf15"
+      "sha256": "dc029d807b7c781d180fd5140f8b01665ea3b8559a82811a6b91490715825ef4"
     },
     {
       "id": "claude",
@@ -162,7 +162,7 @@
         "DOMAIN-SUFFIX": 2
       },
       "file": "Claude.yaml",
-      "sha256": "4a70256f8a22612f7c881df5481c77914f8d18f5cb4a4c058e41bb946f43ec6e"
+      "sha256": "f7da686b8e45ff6fade115c42e1a06f21f8863aec79665671354eb6f80ed81fd"
     },
     {
       "id": "gemini",
@@ -175,7 +175,7 @@
         "DOMAIN-SUFFIX": 7
       },
       "file": "Gemini.yaml",
-      "sha256": "5f5b32392e4258e15c85a8660c9c3c495807f1bcd749aa3be9da55ed3914c0a4"
+      "sha256": "6d62305a66ee5104f87c805f09654f9bf725274af94453255fdcf26066e0b36e"
     },
     {
       "id": "speedtest-international",
@@ -204,7 +204,7 @@
         "USER-AGENT": 1
       },
       "file": "Netflix.yaml",
-      "sha256": "8a1a3a422204ffca39ea1e21fa2e39d539596d49a68ffabf8218dd6718b12777"
+      "sha256": "f0fa3a491a312806fa44c663f5487f6c4a5f6bc9d3ca03a8393ffe15e61c77ff"
     },
     {
       "id": "lan",
@@ -239,7 +239,7 @@
         "DOMAIN-SUFFIX": 11
       },
       "file": "DouYin.yaml",
-      "sha256": "d1c4436bc824b58f6b3ff3e225b22e70ca7a5c22e476892402f6e8ab46fda6ed"
+      "sha256": "eb6b5b4c1f4d3b9da2d15ebfbf2fb00538329eae9b48c64e7985b683d06db08b"
     }
   ]
 }
