@@ -90,6 +90,11 @@
       "id": "douyin",
       "name": "DouYin",
       "url": "https://rule.kelee.one/Loon/DouYin.lsr"
+    },
+    {
+      "id": "paypal",
+      "name": "PayPal",
+      "url": "https://rule.kelee.one/Loon/PayPal.lsr"
     }
   ]
 }
