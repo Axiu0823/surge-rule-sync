@@ -135,7 +135,7 @@
         "IP-CIDR6": 1
       },
       "file": "AI.list",
-      "sha256": "d1d1b904cd622b9cd157ddd81d986cdaf690cdf8f83983aec3ba3522b8aa47c4"
+      "sha256": "aa9c6f89f9046c9da5fffe5d3db70a9d73754c6625abfc5eed67149269797792"
     },
     {
       "id": "openai",

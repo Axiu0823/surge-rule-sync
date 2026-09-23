@@ -135,7 +135,7 @@
         "IP-CIDR6": 1
       },
       "file": "AI.yaml",
-      "sha256": "834097fda8fbfdd7962d5b6746d3c3bf9c73cd207055dc2e7828adfad33f41f5"
+      "sha256": "94a80c98f3bd385593171323f839694ec57c75bce18f01c9e260246728160850"
     },
     {
       "id": "openai",
