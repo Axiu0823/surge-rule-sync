@@ -240,6 +240,19 @@
       },
       "file": "DouYin.list",
       "sha256": "f992efc7316273031db270be53ca27eac182dd5e8f98ca9f3e7faecf8969e332"
+    },
+    {
+      "id": "paypal",
+      "name": "PayPal",
+      "source_url": "https://rule.kelee.one/Loon/PayPal.lsr",
+      "source_rule_count": 248,
+      "rule_types": {
+        "DOMAIN-KEYWORD": 1,
+        "DOMAIN-SUFFIX": 246,
+        "USER-AGENT": 1
+      },
+      "file": "PayPal.list",
+      "sha256": "399e3e3b3eea09d640c6cfe9c5cc57f43ace97eb097754d6ab802ddc6b96adae"
     }
   ]
 }

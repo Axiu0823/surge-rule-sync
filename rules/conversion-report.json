@@ -368,6 +368,26 @@
         "file": "clash/DouYin.yaml",
         "sha256": "eb6b5b4c1f4d3b9da2d15ebfbf2fb00538329eae9b48c64e7985b683d06db08b"
       }
+    },
+    {
+      "id": "paypal",
+      "name": "PayPal",
+      "source_url": "https://rule.kelee.one/Loon/PayPal.lsr",
+      "source_rule_count": 248,
+      "rule_types": {
+        "DOMAIN-KEYWORD": 1,
+        "DOMAIN-SUFFIX": 246,
+        "USER-AGENT": 1
+      },
+      "source_sha256": "ba629e671d8649d6da29d2a0deadf73ed4de7957182abd7275b4694dcf7e6d36",
+      "surge": {
+        "file": "surge/PayPal.list",
+        "sha256": "399e3e3b3eea09d640c6cfe9c5cc57f43ace97eb097754d6ab802ddc6b96adae"
+      },
+      "clash": {
+        "file": "clash/PayPal.yaml",
+        "sha256": "55c5e67f5d7fc281ce3f9a5bc8ef4c9a65a0ca3ffbc1fbf4c70735516b18ddcd"
+      }
     }
   ]
 }
