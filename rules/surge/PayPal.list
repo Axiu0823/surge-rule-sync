@@ -1,7 +1,7 @@
 # PayPal
 # Source: https://rule.kelee.one/Loon/PayPal.lsr
 # Generated from Loon syntax; do not edit.
-# UpdateTime：2026-09-23 03:12:20
+# UpdateTime：2026-09-25 03:12:43
 # RuleCount：248
 DOMAIN-SUFFIX,paypal.ca
 DOMAIN-SUFFIX,anfutong.cn
