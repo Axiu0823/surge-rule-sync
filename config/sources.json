@@ -95,6 +95,26 @@
       "id": "paypal",
       "name": "PayPal",
       "url": "https://rule.kelee.one/Loon/PayPal.lsr"
+    },
+    {
+      "id": "direct",
+      "name": "Direct",
+      "url": "https://kelee.one/Tool/Loon/Lsr/Direct.lsr"
+    },
+    {
+      "id": "proxy",
+      "name": "Proxy",
+      "url": "https://kelee.one/Tool/Loon/Lsr/Proxy.lsr"
+    },
+    {
+      "id": "game",
+      "name": "Game",
+      "url": "https://kelee.one/Tool/Loon/Lsr/Game.lsr"
+    },
+    {
+      "id": "eset-china",
+      "name": "ESET_China",
+      "url": "https://kelee.one/Tool/Loon/Lsr/ESET_China.lsr"
     }
   ]
 }
