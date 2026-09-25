@@ -134,6 +134,26 @@ def unwrap_outer_parentheses(text: str) -> str:
     return value[1:-1].strip()
 
 
+def strip_inline_comment(text: str) -> str:
+    """Remove Loon's whitespace-prefixed // comments without touching URLs or regexes."""
+    quote: str | None = None
+    escaped = False
+    for index, char in enumerate(text[:-1]):
+        if quote is not None:
+            if escaped:
+                escaped = False
+            elif char == "\\":
+                escaped = True
+            elif char == quote:
+                quote = None
+            continue
+        if char in {"'", '"'}:
+            quote = char
+        elif char == "/" and text[index + 1] == "/" and (index == 0 or text[index - 1].isspace()):
+            return text[:index].rstrip()
+    return text
+
+
 def parse_rule(text: str) -> Rule:
     parts = split_top_level(text)
     if not parts or not parts[0]:
@@ -172,7 +192,7 @@ def parse_source(body: str, source_id: str) -> tuple[list[Rule], list[str], Coun
     comments: list[str] = []
     rule_types: Counter[str] = Counter()
     for line_number, raw_line in enumerate(body.splitlines(), 1):
-        line = raw_line.strip()
+        line = strip_inline_comment(raw_line.strip())
         if not line:
             continue
         if line.startswith("#"):
