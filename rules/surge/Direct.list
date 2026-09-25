@@ -1,0 +1,16 @@
+# Direct
+# Source: https://kelee.one/Tool/Loon/Lsr/Direct.lsr
+# Generated from Loon syntax; do not edit.
+DOMAIN-SUFFIX,cmp1-hkg1.steamserver.net
+DOMAIN-SUFFIX,cmp1-tyo3.steamserver.net
+DOMAIN-SUFFIX,cmp1-sgp1.steamserver.net
+DOMAIN-SUFFIX,cmp1-lax1.steamserver.net
+DOMAIN-SUFFIX,cmp2-hkg1.steamserver.net
+DOMAIN-SUFFIX,cmp2-tyo3.steamserver.net
+DOMAIN-SUFFIX,cmp2-sgp1.steamserver.net
+DOMAIN-SUFFIX,cmp2-lax1.steamserver.net
+DOMAIN-SUFFIX,cmp3-hkg1.steamserver.net
+DOMAIN-SUFFIX,cmp3-tyo3.steamserver.net
+DOMAIN-SUFFIX,cmp3-sgp1.steamserver.net
+DOMAIN-SUFFIX,cmp3-lax1.steamserver.net
+AND,((GEOIP,CN),(DOMAIN,pitaya.bytedance.com))

@@ -1,0 +1,8 @@
+# Proxy
+# Source: https://kelee.one/Tool/Loon/Lsr/Proxy.lsr
+# Classical provider generated from Loon syntax.
+payload:
+  - "DOMAIN-SUFFIX,ibm.com"
+  - "DOMAIN-SUFFIX,plex.tv"
+  - "DOMAIN,relay.firefox.com"
+  - "AND,((DOMAIN-KEYWORD,client-update),(DOMAIN-SUFFIX,steamstatic.com))"

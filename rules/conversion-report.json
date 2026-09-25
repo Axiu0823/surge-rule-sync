@@ -388,6 +388,84 @@
         "file": "clash/PayPal.yaml",
         "sha256": "9f5cae031070a6298a6b18661f3e75fed6ab92c0ef85bafa4ce6c81e7985e149"
       }
+    },
+    {
+      "id": "direct",
+      "name": "Direct",
+      "source_url": "https://kelee.one/Tool/Loon/Lsr/Direct.lsr",
+      "source_rule_count": 13,
+      "rule_types": {
+        "AND": 1,
+        "DOMAIN-SUFFIX": 12
+      },
+      "source_sha256": "1bd3e9a4aa870c5c0d3c92af0e06edbccc26df624d3ebf7b8f4beb50fd693345",
+      "surge": {
+        "file": "surge/Direct.list",
+        "sha256": "46d7de856e041cfe35afcf311f7ea47e30d9f39aad6aa4783d4a00a83e8c0ecf"
+      },
+      "clash": {
+        "file": "clash/Direct.yaml",
+        "sha256": "563f5d3460909da1d99cc6833135f0156ce43079a51a6e4020c207b8a1e5b1cf"
+      }
+    },
+    {
+      "id": "proxy",
+      "name": "Proxy",
+      "source_url": "https://kelee.one/Tool/Loon/Lsr/Proxy.lsr",
+      "source_rule_count": 4,
+      "rule_types": {
+        "AND": 1,
+        "DOMAIN": 1,
+        "DOMAIN-SUFFIX": 2
+      },
+      "source_sha256": "46e3fc3232611f90f9b6951e4483d98e0fb8fd7e6261a26f7f85f2e4cfb424ab",
+      "surge": {
+        "file": "surge/Proxy.list",
+        "sha256": "d8055a128c3f241ae108c7c269aac9aba15350db60370fe0d3ccb63c6d677dc9"
+      },
+      "clash": {
+        "file": "clash/Proxy.yaml",
+        "sha256": "7a121c9095cf413b843a3ba33609e8dfb9f0b5453d5e743fbf4ffda935a99670"
+      }
+    },
+    {
+      "id": "game",
+      "name": "Game",
+      "source_url": "https://kelee.one/Tool/Loon/Lsr/Game.lsr",
+      "source_rule_count": 583,
+      "rule_types": {
+        "DOMAIN": 9,
+        "DOMAIN-KEYWORD": 4,
+        "DOMAIN-SUFFIX": 524,
+        "IP-CIDR": 46
+      },
+      "source_sha256": "54dcf28ef6f0b478ec46212b6a3532b93456e84e66455ee9f948d7e5bc8eff3e",
+      "surge": {
+        "file": "surge/Game.list",
+        "sha256": "5f3896e94119c4cabfd08dd38ada2fec6d7dd867fd4605d4e6ab79a43d1ebcdc"
+      },
+      "clash": {
+        "file": "clash/Game.yaml",
+        "sha256": "d0d25453b7e9dc00c09e57503a9a3652f36b18f77bf5cc6724509a2b95862ff9"
+      }
+    },
+    {
+      "id": "eset-china",
+      "name": "ESET_China",
+      "source_url": "https://kelee.one/Tool/Loon/Lsr/ESET_China.lsr",
+      "source_rule_count": 11,
+      "rule_types": {
+        "DOMAIN": 11
+      },
+      "source_sha256": "7f7668b1336a6759007fb1adf82cbb7328f836a5107b85ac40fe9c930b46930a",
+      "surge": {
+        "file": "surge/ESET_China.list",
+        "sha256": "d9b2a9d1525b2d8e4b22b1a8e702c95738a754c6db0587545ddf632c732d127b"
+      },
+      "clash": {
+        "file": "clash/ESET_China.yaml",
+        "sha256": "d8463e098f7ba3e1b5d628085d8b14f079f95cf161adec2e92ee7e34f497f972"
+      }
     }
   ]
 }

@@ -253,6 +253,56 @@
       },
       "file": "PayPal.list",
       "sha256": "06a331662339d431676c8db174023cedfa14f0cabc987f09029f6a74a57fe5c1"
+    },
+    {
+      "id": "direct",
+      "name": "Direct",
+      "source_url": "https://kelee.one/Tool/Loon/Lsr/Direct.lsr",
+      "source_rule_count": 13,
+      "rule_types": {
+        "AND": 1,
+        "DOMAIN-SUFFIX": 12
+      },
+      "file": "Direct.list",
+      "sha256": "46d7de856e041cfe35afcf311f7ea47e30d9f39aad6aa4783d4a00a83e8c0ecf"
+    },
+    {
+      "id": "proxy",
+      "name": "Proxy",
+      "source_url": "https://kelee.one/Tool/Loon/Lsr/Proxy.lsr",
+      "source_rule_count": 4,
+      "rule_types": {
+        "AND": 1,
+        "DOMAIN": 1,
+        "DOMAIN-SUFFIX": 2
+      },
+      "file": "Proxy.list",
+      "sha256": "d8055a128c3f241ae108c7c269aac9aba15350db60370fe0d3ccb63c6d677dc9"
+    },
+    {
+      "id": "game",
+      "name": "Game",
+      "source_url": "https://kelee.one/Tool/Loon/Lsr/Game.lsr",
+      "source_rule_count": 583,
+      "rule_types": {
+        "DOMAIN": 9,
+        "DOMAIN-KEYWORD": 4,
+        "DOMAIN-SUFFIX": 524,
+        "IP-CIDR": 46
+      },
+      "file": "Game.list",
+      "sha256": "5f3896e94119c4cabfd08dd38ada2fec6d7dd867fd4605d4e6ab79a43d1ebcdc"
+    },
+    {
+      "id": "eset-china",
+      "name": "ESET_China",
+      "source_url": "https://kelee.one/Tool/Loon/Lsr/ESET_China.lsr",
+      "source_rule_count": 11,
+      "rule_types": {
+        "DOMAIN": 11
+      },
+      "file": "ESET_China.list",
+      "sha256": "d9b2a9d1525b2d8e4b22b1a8e702c95738a754c6db0587545ddf632c732d127b"
     }
   ]
 }

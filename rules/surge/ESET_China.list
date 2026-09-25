@@ -1,0 +1,17 @@
+# ESET_China
+# Source: https://kelee.one/Tool/Loon/Lsr/ESET_China.lsr
+# Generated from Loon syntax; do not edit.
+# by 可莉
+# 地址来自 https://support.eset.com/en/kb332-ports-and-addresses-required-to-use-your-eset-product-with-a-third-party-firewall
+# 激活
+DOMAIN,reg01.eset.com
+DOMAIN,reg02.eset.com
+DOMAIN,reg03.eset.com
+DOMAIN,reg04.eset.com
+DOMAIN,h1-weblb01-v.eset.com
+DOMAIN,h3-weblb01-v.eset.com
+DOMAIN,iploc.eset.com
+DOMAIN,pki.eset.com
+DOMAIN,versioncheck.eset.com
+DOMAIN,edf.eset.com
+DOMAIN,expire.eset.com
