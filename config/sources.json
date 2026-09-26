@@ -120,6 +120,71 @@
       "id": "xiaomi",
       "name": "XiaoMi",
       "url": "https://rule.kelee.one/Loon/XiaoMi.lsr"
+    },
+    {
+      "id": "apple",
+      "name": "Apple",
+      "url": "https://rule.kelee.one/Loon/Apple.lsr"
+    },
+    {
+      "id": "appstore",
+      "name": "AppStore",
+      "url": "https://rule.kelee.one/Loon/AppStore.lsr"
+    },
+    {
+      "id": "appledev",
+      "name": "AppleDev",
+      "url": "https://rule.kelee.one/Loon/AppleDev.lsr"
+    },
+    {
+      "id": "applefirmware",
+      "name": "AppleFirmware",
+      "url": "https://rule.kelee.one/Loon/AppleFirmware.lsr"
+    },
+    {
+      "id": "applehardware",
+      "name": "AppleHardware",
+      "url": "https://rule.kelee.one/Loon/AppleHardware.lsr"
+    },
+    {
+      "id": "appleid",
+      "name": "AppleID",
+      "url": "https://rule.kelee.one/Loon/AppleID.lsr"
+    },
+    {
+      "id": "applemail",
+      "name": "AppleMail",
+      "url": "https://rule.kelee.one/Loon/AppleMail.lsr"
+    },
+    {
+      "id": "applemedia",
+      "name": "AppleMedia",
+      "url": "https://rule.kelee.one/Loon/AppleMedia.lsr"
+    },
+    {
+      "id": "applemusic",
+      "name": "AppleMusic",
+      "url": "https://rule.kelee.one/Loon/AppleMusic.lsr"
+    },
+    {
+      "id": "applenews",
+      "name": "AppleNews",
+      "url": "https://rule.kelee.one/Loon/AppleNews.lsr"
+    },
+    {
+      "id": "appleproxy",
+      "name": "AppleProxy",
+      "url": "https://rule.kelee.one/Loon/AppleProxy.lsr"
+    },
+    {
+      "id": "appletv",
+      "name": "AppleTV",
+      "url": "https://rule.kelee.one/Loon/AppleTV.lsr"
+    },
+    {
+      "id": "beats",
+      "name": "Beats",
+      "url": "https://rule.kelee.one/Loon/Beats.lsr"
     }
   ]
 }
