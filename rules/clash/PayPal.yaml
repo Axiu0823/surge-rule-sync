@@ -2,7 +2,7 @@
 # Source: https://rule.kelee.one/Loon/PayPal.lsr
 # Classical provider generated from Loon syntax.
 payload:
-  # UpdateTime：2026-09-25 03:12:43
+  # UpdateTime：2026-09-27 03:12:14
   # RuleCount：248
   - "DOMAIN-SUFFIX,paypal.ca"
   - "DOMAIN-SUFFIX,anfutong.cn"

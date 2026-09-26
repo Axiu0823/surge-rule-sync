@@ -2,7 +2,7 @@
 # Source: https://rule.kelee.one/Loon/Beats.lsr
 # Classical provider generated from Loon syntax.
 payload:
-  # UpdateTime：2026-09-25 03:12:39
+  # UpdateTime：2026-09-27 03:12:08
   # RuleCount：714
   - "DOMAIN-SUFFIX,beats1.cc"
   - "DOMAIN-SUFFIX,ibeatsbydre.cc"

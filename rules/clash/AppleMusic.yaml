@@ -2,7 +2,7 @@
 # Source: https://rule.kelee.one/Loon/AppleMusic.lsr
 # Classical provider generated from Loon syntax.
 payload:
-  # UpdateTime：2026-09-25 03:13:05
+  # UpdateTime：2026-09-27 03:12:35
   # RuleCount：10
   - "DOMAIN,aod.itunes.apple.com"
   - "DOMAIN,aod-ssl.itunes.apple.com"
