@@ -485,6 +485,251 @@
         "file": "clash/XiaoMi.yaml",
         "sha256": "e3958776f47d3311c14e93ac8f74b8874124941803c1d837901702e23ee52f4e"
       }
+    },
+    {
+      "id": "apple",
+      "name": "Apple",
+      "source_url": "https://rule.kelee.one/Loon/Apple.lsr",
+      "source_rule_count": 1866,
+      "rule_types": {
+        "DOMAIN": 272,
+        "DOMAIN-KEYWORD": 7,
+        "DOMAIN-SUFFIX": 1551,
+        "IP-CIDR": 10,
+        "IP-CIDR6": 3,
+        "USER-AGENT": 23
+      },
+      "source_sha256": "44dd8118b1999e4e94abf48366b271969719f97881bc63f84aa248012511d26e",
+      "surge": {
+        "file": "surge/Apple.list",
+        "sha256": "f96098b774ffb8d54b4729a9d3f0100315433cc845c272a2058557acc1f44097"
+      },
+      "clash": {
+        "file": "clash/Apple.yaml",
+        "sha256": "1e469069d78983141001d36dc03b90ee4e9ebda96dbbe7b9deb3c058af197695"
+      }
+    },
+    {
+      "id": "appstore",
+      "name": "AppStore",
+      "source_url": "https://rule.kelee.one/Loon/AppStore.lsr",
+      "source_rule_count": 2,
+      "rule_types": {
+        "DOMAIN": 2
+      },
+      "source_sha256": "4761865747436cddc2a10f7972e8b87e3c37a6669f408a70ccf74015d0332cac",
+      "surge": {
+        "file": "surge/AppStore.list",
+        "sha256": "85edb908334c195574838b5e8b5c6b4d25c54ce4fd0dbf546687580900f34bb4"
+      },
+      "clash": {
+        "file": "clash/AppStore.yaml",
+        "sha256": "3ec611d4567cd4e8a01325a6b78ae0438aacf8bc77f8fa9f0dd64ffc77344977"
+      }
+    },
+    {
+      "id": "appledev",
+      "name": "AppleDev",
+      "source_url": "https://rule.kelee.one/Loon/AppleDev.lsr",
+      "source_rule_count": 40,
+      "rule_types": {
+        "DOMAIN-SUFFIX": 40
+      },
+      "source_sha256": "bc13839e29b8d39f9edea34d26c3b3d257f5c931d3ce378f080e9d3edf64d9f8",
+      "surge": {
+        "file": "surge/AppleDev.list",
+        "sha256": "18c153cfdb036e3b45cd56757430a163b1522c47ba6964fa630963f46be9b826"
+      },
+      "clash": {
+        "file": "clash/AppleDev.yaml",
+        "sha256": "c99d04fa61fd426c11b0791e0fa5ae39e8737b48ab4243aae8a35cdbcd523ed5"
+      }
+    },
+    {
+      "id": "applefirmware",
+      "name": "AppleFirmware",
+      "source_url": "https://rule.kelee.one/Loon/AppleFirmware.lsr",
+      "source_rule_count": 174,
+      "rule_types": {
+        "DOMAIN-SUFFIX": 174
+      },
+      "source_sha256": "57459e72a989daec2ad2fa9365758c4cc970700d883708ed62057dcaee8106a1",
+      "surge": {
+        "file": "surge/AppleFirmware.list",
+        "sha256": "7c18915d6535556bcb303e843edbd8249c17f389c2de8363fa041e6f4697892f"
+      },
+      "clash": {
+        "file": "clash/AppleFirmware.yaml",
+        "sha256": "9d29b6f304c2207a69c4d587e3609b090b4fd0b8dd2e5edb3d529f417d60c25e"
+      }
+    },
+    {
+      "id": "applehardware",
+      "name": "AppleHardware",
+      "source_url": "https://rule.kelee.one/Loon/AppleHardware.lsr",
+      "source_rule_count": 226,
+      "rule_types": {
+        "DOMAIN-SUFFIX": 226
+      },
+      "source_sha256": "e688f44dbe994f6bfbfedda50bd35331c4e6f9f479a4bf65b99c755a5cb40b9f",
+      "surge": {
+        "file": "surge/AppleHardware.list",
+        "sha256": "1a8ea76de0b515697878f8dc9d188bf8574866808686b02355161d830393d157"
+      },
+      "clash": {
+        "file": "clash/AppleHardware.yaml",
+        "sha256": "6bdab7bb7b111b2e923cd5955511c3f7e85ae704bfcf0acb185f04faac307c1d"
+      }
+    },
+    {
+      "id": "appleid",
+      "name": "AppleID",
+      "source_url": "https://rule.kelee.one/Loon/AppleID.lsr",
+      "source_rule_count": 4,
+      "rule_types": {
+        "DOMAIN": 4
+      },
+      "source_sha256": "cf677e555d460b31b935c7242f7f5900d57b47b75e0efdd8dd91543ba2caa356",
+      "surge": {
+        "file": "surge/AppleID.list",
+        "sha256": "53c615c55b04609ec5e861c32edeac3e39c6857e9028ec29299dd63112b08df7"
+      },
+      "clash": {
+        "file": "clash/AppleID.yaml",
+        "sha256": "ffd0ede53e12b025f153ca76ad17df162270404d67eccefb047c6bbabae998df"
+      }
+    },
+    {
+      "id": "applemail",
+      "name": "AppleMail",
+      "source_url": "https://rule.kelee.one/Loon/AppleMail.lsr",
+      "source_rule_count": 2,
+      "rule_types": {
+        "DOMAIN-SUFFIX": 2
+      },
+      "source_sha256": "fd0f475daf79d7638887c74d2d95a96b4177b760144a53c4cd8e8a4e8db727e6",
+      "surge": {
+        "file": "surge/AppleMail.list",
+        "sha256": "e4f1e0864709c1b3df6b39c02449887bb6a178f7b9cf188e78c98fefaf9ef3f7"
+      },
+      "clash": {
+        "file": "clash/AppleMail.yaml",
+        "sha256": "97cfd0cd848e39913c3dc340ecffb9cf6fb7d49c433c38e5c1142252be654ba3"
+      }
+    },
+    {
+      "id": "applemedia",
+      "name": "AppleMedia",
+      "source_url": "https://rule.kelee.one/Loon/AppleMedia.lsr",
+      "source_rule_count": 52,
+      "rule_types": {
+        "DOMAIN-SUFFIX": 52
+      },
+      "source_sha256": "4964b93b85ed7ba53eff35fb2dc6f4f81a732408163d88f64a22f08d2c393a09",
+      "surge": {
+        "file": "surge/AppleMedia.list",
+        "sha256": "8c1d220a5762391dda64a88a8f5e82bd0eb86430c53cd586e5ef2c54e93a9856"
+      },
+      "clash": {
+        "file": "clash/AppleMedia.yaml",
+        "sha256": "c788b1347eb0c5b9abf20f1bda2cd462be841e9339598bdecc16a69f166fc85c"
+      }
+    },
+    {
+      "id": "applemusic",
+      "name": "AppleMusic",
+      "source_url": "https://rule.kelee.one/Loon/AppleMusic.lsr",
+      "source_rule_count": 10,
+      "rule_types": {
+        "DOMAIN": 6,
+        "DOMAIN-SUFFIX": 3,
+        "USER-AGENT": 1
+      },
+      "source_sha256": "871a19ce445643dc2bddfbe4b5494f908153b8a7558cbcc70e5d962dd0680929",
+      "surge": {
+        "file": "surge/AppleMusic.list",
+        "sha256": "dd0080792276e07f0016f7ed4335cbf22366ee61182e286cf32437ad231e5a6a"
+      },
+      "clash": {
+        "file": "clash/AppleMusic.yaml",
+        "sha256": "930d6b9726e56479116ed2ce70fd5f902331444e0e22038c09f660eddb6f0000"
+      }
+    },
+    {
+      "id": "applenews",
+      "name": "AppleNews",
+      "source_url": "https://rule.kelee.one/Loon/AppleNews.lsr",
+      "source_rule_count": 2,
+      "rule_types": {
+        "DOMAIN": 2
+      },
+      "source_sha256": "472b529531433d5af27178600d2dea432db098080c632519dbb8e5259a43e099",
+      "surge": {
+        "file": "surge/AppleNews.list",
+        "sha256": "be45f051c71bf8e1a2f60f46ebb46e9fdb1913358d3344599bc6bfff206c800b"
+      },
+      "clash": {
+        "file": "clash/AppleNews.yaml",
+        "sha256": "509c0909388280e25c15ef24115a2e7b313f2aac92e5a4267a7f2e694ebc6b4e"
+      }
+    },
+    {
+      "id": "appleproxy",
+      "name": "AppleProxy",
+      "source_url": "https://rule.kelee.one/Loon/AppleProxy.lsr",
+      "source_rule_count": 44,
+      "rule_types": {
+        "DOMAIN": 27,
+        "DOMAIN-SUFFIX": 12,
+        "USER-AGENT": 5
+      },
+      "source_sha256": "7ea9853a447d056e5794cd5d79a17d379aeda1a2bfbde238e9382654adaed646",
+      "surge": {
+        "file": "surge/AppleProxy.list",
+        "sha256": "2c9e89292730a68512ceb882f0b1bd5b9b611f722f7700752471a6fb5b783224"
+      },
+      "clash": {
+        "file": "clash/AppleProxy.yaml",
+        "sha256": "67a91e77586e3400bca247dd776c6ac270def460a6af16912cb1bfcf57ff5174"
+      }
+    },
+    {
+      "id": "appletv",
+      "name": "AppleTV",
+      "source_url": "https://rule.kelee.one/Loon/AppleTV.lsr",
+      "source_rule_count": 9,
+      "rule_types": {
+        "DOMAIN": 6,
+        "DOMAIN-SUFFIX": 1,
+        "USER-AGENT": 2
+      },
+      "source_sha256": "c652c95d2403ea36f4593b7fd13cd833e18cba34b731628314945cc5d6129e19",
+      "surge": {
+        "file": "surge/AppleTV.list",
+        "sha256": "b5dac6b07a4dfc7a1625a3807e9c27c8e3083986b5b17778f9b31c0ad64fca87"
+      },
+      "clash": {
+        "file": "clash/AppleTV.yaml",
+        "sha256": "fb0ac97fa77b76fd62ccff234d8375e03ffc7b97f5778ed89345be8cc244f72a"
+      }
+    },
+    {
+      "id": "beats",
+      "name": "Beats",
+      "source_url": "https://rule.kelee.one/Loon/Beats.lsr",
+      "source_rule_count": 714,
+      "rule_types": {
+        "DOMAIN-SUFFIX": 714
+      },
+      "source_sha256": "b32f11602b5dd689d99cce4766c0c74b1d85cfe2f8c0bede1ca08098293956b2",
+      "surge": {
+        "file": "surge/Beats.list",
+        "sha256": "89cacf249a0b8b2aec907e8d0f4b36324fe4714c22b4420fa9e51a735e3dc5bb"
+      },
+      "clash": {
+        "file": "clash/Beats.yaml",
+        "sha256": "b6bed5af71816ff6702bd5b4eaa514ab96b96cc39500ee50a61e6507e45829d9"
+      }
     }
   ]
 }

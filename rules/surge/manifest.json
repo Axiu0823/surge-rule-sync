@@ -315,6 +315,160 @@
       },
       "file": "XiaoMi.list",
       "sha256": "97decc3d801084805c1ebe0860daa33c31e1beea1f5751d30e54fb7a1de87ea3"
+    },
+    {
+      "id": "apple",
+      "name": "Apple",
+      "source_url": "https://rule.kelee.one/Loon/Apple.lsr",
+      "source_rule_count": 1866,
+      "rule_types": {
+        "DOMAIN": 272,
+        "DOMAIN-KEYWORD": 7,
+        "DOMAIN-SUFFIX": 1551,
+        "IP-CIDR": 10,
+        "IP-CIDR6": 3,
+        "USER-AGENT": 23
+      },
+      "file": "Apple.list",
+      "sha256": "f96098b774ffb8d54b4729a9d3f0100315433cc845c272a2058557acc1f44097"
+    },
+    {
+      "id": "appstore",
+      "name": "AppStore",
+      "source_url": "https://rule.kelee.one/Loon/AppStore.lsr",
+      "source_rule_count": 2,
+      "rule_types": {
+        "DOMAIN": 2
+      },
+      "file": "AppStore.list",
+      "sha256": "85edb908334c195574838b5e8b5c6b4d25c54ce4fd0dbf546687580900f34bb4"
+    },
+    {
+      "id": "appledev",
+      "name": "AppleDev",
+      "source_url": "https://rule.kelee.one/Loon/AppleDev.lsr",
+      "source_rule_count": 40,
+      "rule_types": {
+        "DOMAIN-SUFFIX": 40
+      },
+      "file": "AppleDev.list",
+      "sha256": "18c153cfdb036e3b45cd56757430a163b1522c47ba6964fa630963f46be9b826"
+    },
+    {
+      "id": "applefirmware",
+      "name": "AppleFirmware",
+      "source_url": "https://rule.kelee.one/Loon/AppleFirmware.lsr",
+      "source_rule_count": 174,
+      "rule_types": {
+        "DOMAIN-SUFFIX": 174
+      },
+      "file": "AppleFirmware.list",
+      "sha256": "7c18915d6535556bcb303e843edbd8249c17f389c2de8363fa041e6f4697892f"
+    },
+    {
+      "id": "applehardware",
+      "name": "AppleHardware",
+      "source_url": "https://rule.kelee.one/Loon/AppleHardware.lsr",
+      "source_rule_count": 226,
+      "rule_types": {
+        "DOMAIN-SUFFIX": 226
+      },
+      "file": "AppleHardware.list",
+      "sha256": "1a8ea76de0b515697878f8dc9d188bf8574866808686b02355161d830393d157"
+    },
+    {
+      "id": "appleid",
+      "name": "AppleID",
+      "source_url": "https://rule.kelee.one/Loon/AppleID.lsr",
+      "source_rule_count": 4,
+      "rule_types": {
+        "DOMAIN": 4
+      },
+      "file": "AppleID.list",
+      "sha256": "53c615c55b04609ec5e861c32edeac3e39c6857e9028ec29299dd63112b08df7"
+    },
+    {
+      "id": "applemail",
+      "name": "AppleMail",
+      "source_url": "https://rule.kelee.one/Loon/AppleMail.lsr",
+      "source_rule_count": 2,
+      "rule_types": {
+        "DOMAIN-SUFFIX": 2
+      },
+      "file": "AppleMail.list",
+      "sha256": "e4f1e0864709c1b3df6b39c02449887bb6a178f7b9cf188e78c98fefaf9ef3f7"
+    },
+    {
+      "id": "applemedia",
+      "name": "AppleMedia",
+      "source_url": "https://rule.kelee.one/Loon/AppleMedia.lsr",
+      "source_rule_count": 52,
+      "rule_types": {
+        "DOMAIN-SUFFIX": 52
+      },
+      "file": "AppleMedia.list",
+      "sha256": "8c1d220a5762391dda64a88a8f5e82bd0eb86430c53cd586e5ef2c54e93a9856"
+    },
+    {
+      "id": "applemusic",
+      "name": "AppleMusic",
+      "source_url": "https://rule.kelee.one/Loon/AppleMusic.lsr",
+      "source_rule_count": 10,
+      "rule_types": {
+        "DOMAIN": 6,
+        "DOMAIN-SUFFIX": 3,
+        "USER-AGENT": 1
+      },
+      "file": "AppleMusic.list",
+      "sha256": "dd0080792276e07f0016f7ed4335cbf22366ee61182e286cf32437ad231e5a6a"
+    },
+    {
+      "id": "applenews",
+      "name": "AppleNews",
+      "source_url": "https://rule.kelee.one/Loon/AppleNews.lsr",
+      "source_rule_count": 2,
+      "rule_types": {
+        "DOMAIN": 2
+      },
+      "file": "AppleNews.list",
+      "sha256": "be45f051c71bf8e1a2f60f46ebb46e9fdb1913358d3344599bc6bfff206c800b"
+    },
+    {
+      "id": "appleproxy",
+      "name": "AppleProxy",
+      "source_url": "https://rule.kelee.one/Loon/AppleProxy.lsr",
+      "source_rule_count": 44,
+      "rule_types": {
+        "DOMAIN": 27,
+        "DOMAIN-SUFFIX": 12,
+        "USER-AGENT": 5
+      },
+      "file": "AppleProxy.list",
+      "sha256": "2c9e89292730a68512ceb882f0b1bd5b9b611f722f7700752471a6fb5b783224"
+    },
+    {
+      "id": "appletv",
+      "name": "AppleTV",
+      "source_url": "https://rule.kelee.one/Loon/AppleTV.lsr",
+      "source_rule_count": 9,
+      "rule_types": {
+        "DOMAIN": 6,
+        "DOMAIN-SUFFIX": 1,
+        "USER-AGENT": 2
+      },
+      "file": "AppleTV.list",
+      "sha256": "b5dac6b07a4dfc7a1625a3807e9c27c8e3083986b5b17778f9b31c0ad64fca87"
+    },
+    {
+      "id": "beats",
+      "name": "Beats",
+      "source_url": "https://rule.kelee.one/Loon/Beats.lsr",
+      "source_rule_count": 714,
+      "rule_types": {
+        "DOMAIN-SUFFIX": 714
+      },
+      "file": "Beats.list",
+      "sha256": "89cacf249a0b8b2aec907e8d0f4b36324fe4714c22b4420fa9e51a735e3dc5bb"
     }
   ]
 }

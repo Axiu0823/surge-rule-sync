@@ -1,0 +1,15 @@
+# AppleMusic
+# Source: https://rule.kelee.one/Loon/AppleMusic.lsr
+# Generated from Loon syntax; do not edit.
+# UpdateTime：2026-09-25 03:13:05
+# RuleCount：10
+DOMAIN,aod.itunes.apple.com
+DOMAIN,aod-ssl.itunes.apple.com
+DOMAIN,audio.itunes.apple.com
+DOMAIN,audio-ssl.itunes.apple.com
+DOMAIN,mvod.itunes.apple.com
+DOMAIN,streamingaudio.itunes.apple.com
+DOMAIN-SUFFIX,blobstore.apple.com
+DOMAIN-SUFFIX,music.apple.com
+DOMAIN-SUFFIX,applemusic.com
+USER-AGENT,Music*
