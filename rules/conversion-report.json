@@ -466,6 +466,25 @@
         "file": "clash/ESET_China.yaml",
         "sha256": "d8463e098f7ba3e1b5d628085d8b14f079f95cf161adec2e92ee7e34f497f972"
       }
+    },
+    {
+      "id": "xiaomi",
+      "name": "XiaoMi",
+      "source_url": "https://rule.kelee.one/Loon/XiaoMi.lsr",
+      "source_rule_count": 157,
+      "rule_types": {
+        "DOMAIN-SUFFIX": 148,
+        "IP-CIDR": 9
+      },
+      "source_sha256": "1a80a198fca2efcfcc8c80ed123895afe68d6e0ce6cf3dc060b2cff22cd16c4d",
+      "surge": {
+        "file": "surge/XiaoMi.list",
+        "sha256": "97decc3d801084805c1ebe0860daa33c31e1beea1f5751d30e54fb7a1de87ea3"
+      },
+      "clash": {
+        "file": "clash/XiaoMi.yaml",
+        "sha256": "e3958776f47d3311c14e93ac8f74b8874124941803c1d837901702e23ee52f4e"
+      }
     }
   ]
 }

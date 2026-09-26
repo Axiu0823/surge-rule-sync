@@ -303,6 +303,18 @@
       },
       "file": "ESET_China.list",
       "sha256": "d9b2a9d1525b2d8e4b22b1a8e702c95738a754c6db0587545ddf632c732d127b"
+    },
+    {
+      "id": "xiaomi",
+      "name": "XiaoMi",
+      "source_url": "https://rule.kelee.one/Loon/XiaoMi.lsr",
+      "source_rule_count": 157,
+      "rule_types": {
+        "DOMAIN-SUFFIX": 148,
+        "IP-CIDR": 9
+      },
+      "file": "XiaoMi.list",
+      "sha256": "97decc3d801084805c1ebe0860daa33c31e1beea1f5751d30e54fb7a1de87ea3"
     }
   ]
 }
