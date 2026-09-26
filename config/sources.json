@@ -115,6 +115,11 @@
       "id": "eset-china",
       "name": "ESET_China",
       "url": "https://kelee.one/Tool/Loon/Lsr/ESET_China.lsr"
+    },
+    {
+      "id": "xiaomi",
+      "name": "XiaoMi",
+      "url": "https://rule.kelee.one/Loon/XiaoMi.lsr"
     }
   ]
 }
