@@ -1,7 +1,7 @@
 # AppleProxy
 # Source: https://rule.kelee.one/Loon/AppleProxy.lsr
 # Generated from Loon syntax; do not edit.
-# UpdateTime：2026-09-27 03:12:42
+# UpdateTime：2026-09-29 03:13:26
 # RuleCount：44
 DOMAIN,developer.apple.com
 DOMAIN,docs-assets.developer.apple.com
