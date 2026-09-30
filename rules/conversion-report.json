@@ -191,22 +191,22 @@
       "id": "ai",
       "name": "AI",
       "source_url": "https://kelee.one/Tool/Loon/Lsr/AI.lsr",
-      "source_rule_count": 243,
+      "source_rule_count": 244,
       "rule_types": {
         "AND": 3,
-        "DOMAIN": 193,
+        "DOMAIN": 194,
         "DOMAIN-SUFFIX": 45,
         "IP-CIDR": 1,
         "IP-CIDR6": 1
       },
-      "source_sha256": "cbcff65cbc040a2489e501afcc9e60d934499ebaedaba161a2b2b9c0696f9ece",
+      "source_sha256": "93bbcec39d0adf23c85faadc46b47a87d0e51e4d8cabcbbf0fda2d774b8d2810",
       "surge": {
         "file": "surge/AI.list",
-        "sha256": "aa9c6f89f9046c9da5fffe5d3db70a9d73754c6625abfc5eed67149269797792"
+        "sha256": "f32b75997549fb7ea828571842afd105234e9b7377dc598fc14a741d9d787468"
       },
       "clash": {
         "file": "clash/AI.yaml",
-        "sha256": "94a80c98f3bd385593171323f839694ec57c75bce18f01c9e260246728160850"
+        "sha256": "25008d8344f8c17d76e105a900753d2f20b92336d88fa2c50804adb3d074e814"
       }
     },
     {
