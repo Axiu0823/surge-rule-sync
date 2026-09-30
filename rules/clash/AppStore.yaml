@@ -2,7 +2,7 @@
 # Source: https://rule.kelee.one/Loon/AppStore.lsr
 # Classical provider generated from Loon syntax.
 payload:
-  # UpdateTime：2026-09-29 03:13:39
+  # UpdateTime：2026-10-01 03:13:25
   # RuleCount：2
   - "DOMAIN,apps.apple.com"
   - "DOMAIN,itunes.apple.com"

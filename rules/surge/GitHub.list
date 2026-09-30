@@ -1,7 +1,7 @@
 # GitHub
 # Source: https://rule.kelee.one/Loon/GitHub.lsr
 # Generated from Loon syntax; do not edit.
-# UpdateTime：2026-09-29 03:14:24
+# UpdateTime：2026-10-01 03:14:15
 # RuleCount：31
 DOMAIN-SUFFIX,github.blog
 DOMAIN-SUFFIX,github-avatars.oss-cn-hongkong.aliyuncs.com

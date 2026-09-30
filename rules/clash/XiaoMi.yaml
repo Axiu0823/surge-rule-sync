@@ -2,7 +2,7 @@
 # Source: https://rule.kelee.one/Loon/XiaoMi.lsr
 # Classical provider generated from Loon syntax.
 payload:
-  # UpdateTime：2026-09-29 03:12:45
+  # UpdateTime：2026-10-01 03:12:42
   # RuleCount：157
   - "DOMAIN-SUFFIX,mi0.cc"
   - "DOMAIN-SUFFIX,mi1.cc"

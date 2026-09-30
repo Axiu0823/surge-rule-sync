@@ -10,7 +10,7 @@
         "DOMAIN-SUFFIX": 3
       },
       "file": "OKX.list",
-      "sha256": "7972b358a3d5e8c1035f0ae5ea19c02ff7d4867469cacfe1ea86122d09606405"
+      "sha256": "7300cf8d1641e4200d12d9ab0e8cf1b769cad549d11791b765b45de6eb2c7410"
     },
     {
       "id": "whatsapp",
@@ -24,7 +24,7 @@
         "IP-CIDR": 11
       },
       "file": "Whatsapp.list",
-      "sha256": "091da17386cf5d1d7879efeaac3d0ac0b848c6eef6ed23455d3f5463740de86d"
+      "sha256": "f008a96ccf5eb28d48adbd5f420ae8d35246340c637ecd67b7314291079771ca"
     },
     {
       "id": "twitter",
@@ -37,7 +37,7 @@
         "IP-CIDR": 6
       },
       "file": "Twitter.list",
-      "sha256": "b7f47965a3fbe1f884792161d4660822caa867e234e9858c7d869c764e3a6acc"
+      "sha256": "74fb0c0d203ee63e0fa7fa50b0b0bfde75e4c7f1e0de43ecbb2a1fb5b90efe30"
     },
     {
       "id": "telegram",
@@ -53,7 +53,7 @@
         "IP-CIDR6": 4
       },
       "file": "Telegram.list",
-      "sha256": "ddceabfa9805c884c441dadb4af411d5cc2232af5f132b31595d35c9b2c02b80"
+      "sha256": "8d3198b45426641b8b867879384de38ab40fdfcacc8ee74880ca5de788109da5"
     },
     {
       "id": "binance",
@@ -64,7 +64,7 @@
         "DOMAIN-SUFFIX": 12
       },
       "file": "Binance.list",
-      "sha256": "3a819715e1612cb87f5eebef49e77d87ac1b72bbdc936a09092386feb71b0ebe"
+      "sha256": "4d416b02ffe90e8c667f6616ec4f480e0ca685593c02a182b2f92c5535d01fcb"
     },
     {
       "id": "wechat",
@@ -78,7 +78,7 @@
         "USER-AGENT": 2
       },
       "file": "WeChat.list",
-      "sha256": "ebcc31329c9f54d9a40608c80bbbb126458fa68c51c76b95ed162fe2174b8e17"
+      "sha256": "0d3e039a9bad546904a13fb7a5794eb6b10978d47a9aeadba747e8a3dda15905"
     },
     {
       "id": "youtube",
@@ -94,7 +94,7 @@
         "USER-AGENT": 7
       },
       "file": "YouTube.list",
-      "sha256": "f63d7ffbf4672b4cee31151a0ad582cb1c016c299bd41345dcfa40335c61dc5d"
+      "sha256": "1ba492301a444191b2533e5df56787270454a566c6c204903ad300ecfa69d531"
     },
     {
       "id": "github",
@@ -106,7 +106,7 @@
         "DOMAIN-SUFFIX": 30
       },
       "file": "GitHub.list",
-      "sha256": "575d21d3823ff827045186e4fa9043cbf969ae819c6b242bbea36ea48973c12f"
+      "sha256": "bb0f08b4dd23f0d013743c83605decf3c85ec9d50aceb3413affcf165c38afcc"
     },
     {
       "id": "tiktok",
@@ -150,7 +150,7 @@
         "IP-CIDR": 2
       },
       "file": "OpenAI.list",
-      "sha256": "bb1b13888fed427ec19b9be7553b42e57d2e5d47a408307c48c301fd3518e2c0"
+      "sha256": "306e392b241686c9dca6cd7428d456629902a7c4f10b448bf5e4e12c57060e07"
     },
     {
       "id": "claude",
@@ -162,7 +162,7 @@
         "DOMAIN-SUFFIX": 2
       },
       "file": "Claude.list",
-      "sha256": "733eda590ebfcdfd8c2fe39583f112caa336c62da14110b0998d741dafbf15a3"
+      "sha256": "7466b317b65ff54bfeb7504655d592c3357943e63655bcdc8a8ca6a9deb3be38"
     },
     {
       "id": "gemini",
@@ -175,7 +175,7 @@
         "DOMAIN-SUFFIX": 7
       },
       "file": "Gemini.list",
-      "sha256": "6541e95979530d95934fbd677c8bed3d76a0f26ff2c85d50b016e378c07be0bb"
+      "sha256": "31a177337326f16954dc75d515d1c51848cc7e1ee14e14b750bdba30d3d10093"
     },
     {
       "id": "speedtest-international",
@@ -204,7 +204,7 @@
         "USER-AGENT": 1
       },
       "file": "Netflix.list",
-      "sha256": "788134dcb04e78ed43bc06393939712e3fad13eb35cb3a15560481d9b9f36044"
+      "sha256": "a5d3691cfd2d3add0f7f32f914f4a4c7a83e9890daaae03da56dc60f8bd70915"
     },
     {
       "id": "lan",
@@ -239,7 +239,7 @@
         "DOMAIN-SUFFIX": 11
       },
       "file": "DouYin.list",
-      "sha256": "6e8e14f29e41f266791922c6a760d272b72a9f45743ffea38a2ccc74d38ca749"
+      "sha256": "91fbcac9ab9f1d8b3aae99f9d85f896a5d1c0f96fd4b92f34f871b0489650842"
     },
     {
       "id": "paypal",
@@ -252,7 +252,7 @@
         "USER-AGENT": 1
       },
       "file": "PayPal.list",
-      "sha256": "cacc5660fda2f734cd3570f3691163ecdb182170f7e4268185fe69240b72d483"
+      "sha256": "bedc934196a1698514830e8f24596a6474451feaa76d6551f3c52a2820723a72"
     },
     {
       "id": "direct",
@@ -314,7 +314,7 @@
         "IP-CIDR": 9
       },
       "file": "XiaoMi.list",
-      "sha256": "35f1b24d8776b8a412ef4747495ecc20acb11a6187183650241ea19425ae4953"
+      "sha256": "e7d3fe40f5fe813d0ba12969c1424c3ad5cb6ae2d357db6f801fe50a709ad31c"
     },
     {
       "id": "apple",
@@ -330,7 +330,7 @@
         "USER-AGENT": 23
       },
       "file": "Apple.list",
-      "sha256": "fa47e784d841b0666948a2314a8cb77a05299ec7800650f188cc2bebf86a3a0f"
+      "sha256": "f2607af4817b5ff12df3a0538d77786dc7a34e17f81cff0df69a5c9328441ddd"
     },
     {
       "id": "appstore",
@@ -341,7 +341,7 @@
         "DOMAIN": 2
       },
       "file": "AppStore.list",
-      "sha256": "7f6f254501c2fdb29e63de06262102a475d55f27dd3e233f73e251dd8bc1dc7d"
+      "sha256": "71bc8160907df01ea85f41329e70515421fef4df19f4353a6c05ab65a240abe2"
     },
     {
       "id": "appledev",
@@ -352,7 +352,7 @@
         "DOMAIN-SUFFIX": 40
       },
       "file": "AppleDev.list",
-      "sha256": "5c6ccfeca77e277638ac04b03d8865c19b639ad296fb010a5b7b37d6daeb9c49"
+      "sha256": "78ed0731cb252feca66fc7ba949d1e30220393cdfc9068e83bec8e7c0d6bb6ab"
     },
     {
       "id": "applefirmware",
@@ -363,7 +363,7 @@
         "DOMAIN-SUFFIX": 174
       },
       "file": "AppleFirmware.list",
-      "sha256": "2eec2fb3a12ef2bf0e61516c2874f495ee01e7ee9f18dce7351bada829e1073b"
+      "sha256": "cd08eedcede0b396c2547d0103ed753b8a8922fe0b8aaf134936e665ccd5d0d8"
     },
     {
       "id": "applehardware",
@@ -374,7 +374,7 @@
         "DOMAIN-SUFFIX": 226
       },
       "file": "AppleHardware.list",
-      "sha256": "a9e91985dc90cd1dd0779578e015fe735e800811fd12dd08dacb3e222df020ac"
+      "sha256": "c1df79ca4d7331f03bb999b61fac3aa828ef9bcbadfb70e632dd891f08cb74a1"
     },
     {
       "id": "appleid",
@@ -385,7 +385,7 @@
         "DOMAIN": 4
       },
       "file": "AppleID.list",
-      "sha256": "9d8de59617a47c166ba1a4545694e2048f3fd73269d3aa555660bf65e1ed8775"
+      "sha256": "74085e6e3056c4696e665b2a36baa02ad7abce0a1f418762bd6a21fb1e583dd1"
     },
     {
       "id": "applemail",
@@ -396,7 +396,7 @@
         "DOMAIN-SUFFIX": 2
       },
       "file": "AppleMail.list",
-      "sha256": "cf21c0ee3d99fb90dc2bc5df280e246246d9b1e76be9e23c58bb89b3605b1bc3"
+      "sha256": "b6a2cff40f1fe0d231c71d1885f33783fd26211325da4192b66c5cb786823282"
     },
     {
       "id": "applemedia",
@@ -407,7 +407,7 @@
         "DOMAIN-SUFFIX": 52
       },
       "file": "AppleMedia.list",
-      "sha256": "44c46f83cdeed7c70f5af5f5e2354b4dd0df590addc0b56fd756d6c71fa9dfc3"
+      "sha256": "6bed5714f1556502a42f713923a25c2f645b08c9bc3b8f6709e1de51a75d4fe9"
     },
     {
       "id": "applemusic",
@@ -420,7 +420,7 @@
         "USER-AGENT": 1
       },
       "file": "AppleMusic.list",
-      "sha256": "9de596db6ef273a2fda38e7b8b51b9d9dce010642fece87ccf18624aad371be2"
+      "sha256": "b1e2e3f2c04deea7c9584c4c2e13cb19ac91a74d820ef9b9977c68cfa610703f"
     },
     {
       "id": "applenews",
@@ -431,7 +431,7 @@
         "DOMAIN": 2
       },
       "file": "AppleNews.list",
-      "sha256": "a2926624150e01082e12f694b8cba30770c019f6a2be62ad30500f0197a837b4"
+      "sha256": "a99055aca29330ecbfc43446f949e70f6ec72273c659138d02da0c226bc1a8b9"
     },
     {
       "id": "appleproxy",
@@ -444,7 +444,7 @@
         "USER-AGENT": 5
       },
       "file": "AppleProxy.list",
-      "sha256": "ba822737e545f0812f132e63202be1bb6ed81a7270560e69de1a0fac41bb9842"
+      "sha256": "030443fc472a98f0de8bb3e22893a134dfc0e58843ad241a614c9d0adb2e9146"
     },
     {
       "id": "appletv",
@@ -457,7 +457,7 @@
         "USER-AGENT": 2
       },
       "file": "AppleTV.list",
-      "sha256": "cdeb165a367e57349d433e0d6da22bb9ba472cc7fd87bd2ab249fa6170ffb278"
+      "sha256": "b3a1d5de4926f602e3fb217ee364fa14088269d6ba75e4f0b25a419375229a0a"
     },
     {
       "id": "beats",
@@ -468,7 +468,7 @@
         "DOMAIN-SUFFIX": 714
       },
       "file": "Beats.list",
-      "sha256": "e39ad2951ea44a40939baabd27f991c38e76c6d918b63abec1d86266ddfa4a29"
+      "sha256": "05d2177ac036fcdcd5f83c485c220a48a16a755ef125623907763e927dfc5c0d"
     }
   ]
 }
