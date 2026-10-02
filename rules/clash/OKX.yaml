@@ -2,7 +2,7 @@
 # Source: https://rule.kelee.one/Loon/OKX.lsr
 # Classical provider generated from Loon syntax.
 payload:
-  # UpdateTime：2026-10-01 03:14:08
+  # UpdateTime：2026-10-03 03:13:39
   # RuleCount：3
   - "DOMAIN-SUFFIX,okex.com"
   - "DOMAIN-SUFFIX,oklink.com"

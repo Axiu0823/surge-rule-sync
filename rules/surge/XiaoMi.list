@@ -1,7 +1,7 @@
 # XiaoMi
 # Source: https://rule.kelee.one/Loon/XiaoMi.lsr
 # Generated from Loon syntax; do not edit.
-# UpdateTime：2026-10-01 03:12:42
+# UpdateTime：2026-10-03 03:12:13
 # RuleCount：157
 DOMAIN-SUFFIX,mi0.cc
 DOMAIN-SUFFIX,mi1.cc
