@@ -2,7 +2,7 @@
 # Source: https://rule.kelee.one/Loon/Telegram.lsr
 # Classical provider generated from Loon syntax.
 payload:
-  # UpdateTime：2026-10-03 03:12:12
+  # UpdateTime：2026-10-05 03:12:37
   # RuleCount：40
   - "DOMAIN,api.imem.app"
   - "DOMAIN,api.swiftgram.app"

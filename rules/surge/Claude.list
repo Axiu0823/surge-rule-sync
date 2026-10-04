@@ -1,7 +1,7 @@
 # Claude
 # Source: https://rule.kelee.one/Loon/Claude.lsr
 # Generated from Loon syntax; do not edit.
-# UpdateTime：2026-10-03 03:16:30
+# UpdateTime：2026-10-05 03:17:01
 # RuleCount：3
 DOMAIN,cdn.usefathom.com
 DOMAIN-SUFFIX,claude.ai

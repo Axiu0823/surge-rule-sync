@@ -2,7 +2,7 @@
 # Source: https://rule.kelee.one/Loon/AppleNews.lsr
 # Classical provider generated from Loon syntax.
 payload:
-  # UpdateTime：2026-10-03 03:13:03
+  # UpdateTime：2026-10-05 03:13:26
   # RuleCount：2
   - "DOMAIN,gspe1-ssl.ls.apple.com"
   - "DOMAIN,news-client-search.apple.com"

@@ -2,7 +2,7 @@
 # Source: https://rule.kelee.one/Loon/AppleProxy.lsr
 # Classical provider generated from Loon syntax.
 payload:
-  # UpdateTime：2026-10-03 03:12:54
+  # UpdateTime：2026-10-05 03:13:16
   # RuleCount：44
   - "DOMAIN,developer.apple.com"
   - "DOMAIN,docs-assets.developer.apple.com"

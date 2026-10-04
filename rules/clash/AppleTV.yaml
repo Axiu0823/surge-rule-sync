@@ -2,7 +2,7 @@
 # Source: https://rule.kelee.one/Loon/AppleTV.lsr
 # Classical provider generated from Loon syntax.
 payload:
-  # UpdateTime：2026-10-03 03:12:19
+  # UpdateTime：2026-10-05 03:12:44
   # RuleCount：9
   - "DOMAIN,hls.itunes.apple.com"
   - "DOMAIN,hls-amt.itunes.apple.com"
