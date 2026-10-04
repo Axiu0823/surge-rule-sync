@@ -39,6 +39,12 @@ RULE-SET,https://raw.githubusercontent.com/Axiu0823/surge-rule-sync/main/rules/s
 FINAL,兜底后备策略,dns-failed
 ```
 
+Discord 的策略请按自己的配置填写：
+
+```ini
+RULE-SET,https://raw.githubusercontent.com/Axiu0823/surge-rule-sync/main/rules/surge/Discord.list,<Discord 策略>,extended-matching
+```
+
 TikTok 应放在 DouYin 前面：两者目前只有 `pstatp.com` 重叠，因此它会优先走 TikTok 策略。
 
 ## Use in Clash / Mihomo
@@ -59,7 +65,7 @@ rules:
   - RULE-SET,okx,加密货币
 ```
 
-其他规则只需把 URL 的文件名替换为相应的源名，例如 `OpenAI.yaml`、`TikTok.yaml`、`DouYin.yaml`。
+其他规则只需把 URL 的文件名替换为相应的源名，例如 `Discord.yaml`、`OpenAI.yaml`、`TikTok.yaml`、`DouYin.yaml`。
 
 ## 转换原则
 
