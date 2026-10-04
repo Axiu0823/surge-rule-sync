@@ -469,6 +469,17 @@
       },
       "file": "Beats.yaml",
       "sha256": "2f1b1a9cef816354235b398e8a65e8d79cffe4eb5334dde0905cdd19ec13fb06"
+    },
+    {
+      "id": "discord",
+      "name": "Discord",
+      "source_url": "https://rule.kelee.one/Loon/Discord.lsr",
+      "source_rule_count": 29,
+      "rule_types": {
+        "DOMAIN-SUFFIX": 29
+      },
+      "file": "Discord.yaml",
+      "sha256": "c5a118e5a790a841de0cb6c082f0db4291211ded61d099dd68edb85b6596bc61"
     }
   ]
 }

@@ -730,6 +730,24 @@
         "file": "clash/Beats.yaml",
         "sha256": "2f1b1a9cef816354235b398e8a65e8d79cffe4eb5334dde0905cdd19ec13fb06"
       }
+    },
+    {
+      "id": "discord",
+      "name": "Discord",
+      "source_url": "https://rule.kelee.one/Loon/Discord.lsr",
+      "source_rule_count": 29,
+      "rule_types": {
+        "DOMAIN-SUFFIX": 29
+      },
+      "source_sha256": "4453a31c3c9d19dfd7d2fa7a972cdfee4b4a9f8ac358c9723f6bcd1a390bf2a7",
+      "surge": {
+        "file": "surge/Discord.list",
+        "sha256": "a456b91ba8da9fe0ac0450b8f0feb4f8802c4908c7f4396e1a9d917f4ac61b9f"
+      },
+      "clash": {
+        "file": "clash/Discord.yaml",
+        "sha256": "c5a118e5a790a841de0cb6c082f0db4291211ded61d099dd68edb85b6596bc61"
+      }
     }
   ]
 }
