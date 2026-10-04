@@ -185,6 +185,11 @@
       "id": "beats",
       "name": "Beats",
       "url": "https://rule.kelee.one/Loon/Beats.lsr"
+    },
+    {
+      "id": "discord",
+      "name": "Discord",
+      "url": "https://rule.kelee.one/Loon/Discord.lsr"
     }
   ]
 }
