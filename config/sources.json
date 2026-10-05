@@ -190,6 +190,16 @@
       "id": "discord",
       "name": "Discord",
       "url": "https://rule.kelee.one/Loon/Discord.lsr"
+    },
+    {
+      "id": "steam-cn",
+      "name": "SteamCN",
+      "url": "https://rule.kelee.one/Loon/SteamCN.lsr"
+    },
+    {
+      "id": "steam",
+      "name": "Steam",
+      "url": "https://rule.kelee.one/Loon/Steam.lsr"
     }
   ]
 }
