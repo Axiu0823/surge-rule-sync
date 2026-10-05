@@ -748,6 +748,45 @@
         "file": "clash/Discord.yaml",
         "sha256": "59fc3864fa999784d086cdf206f39e3be304e20862acbefc6a9c2ca0f3487d71"
       }
+    },
+    {
+      "id": "steam-cn",
+      "name": "SteamCN",
+      "source_url": "https://rule.kelee.one/Loon/SteamCN.lsr",
+      "source_rule_count": 17,
+      "rule_types": {
+        "DOMAIN": 12,
+        "DOMAIN-SUFFIX": 5
+      },
+      "source_sha256": "b2242b47eaffadaf0c27c205f224820a01ddd031ca15e675947c2bee830c8213",
+      "surge": {
+        "file": "surge/SteamCN.list",
+        "sha256": "0cd52d914c6e7f3c1b754e6a7fc9e79a1dc28d886c5ca5b8405ae53b1330f1be"
+      },
+      "clash": {
+        "file": "clash/SteamCN.yaml",
+        "sha256": "1b1c5ca188271bbd9f261360ae6c24ba03d7f021ab72150800a4ebe4c139bd0d"
+      }
+    },
+    {
+      "id": "steam",
+      "name": "Steam",
+      "source_url": "https://rule.kelee.one/Loon/Steam.lsr",
+      "source_rule_count": 62,
+      "rule_types": {
+        "DOMAIN": 8,
+        "DOMAIN-KEYWORD": 3,
+        "DOMAIN-SUFFIX": 51
+      },
+      "source_sha256": "398cdcc90444360d3277b4bb2dff78b08ae88fbcf1661b7aa299c9187f14ac58",
+      "surge": {
+        "file": "surge/Steam.list",
+        "sha256": "8bcfd3fa97ec600430702d4a21ff8f99f0892fb98b121abdb3efec82867d1b14"
+      },
+      "clash": {
+        "file": "clash/Steam.yaml",
+        "sha256": "d71ff4dc643023c9107dee5352948122dedaea6c302056bc8e3524912865d025"
+      }
     }
   ]
 }

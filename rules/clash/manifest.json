@@ -480,6 +480,31 @@
       },
       "file": "Discord.yaml",
       "sha256": "59fc3864fa999784d086cdf206f39e3be304e20862acbefc6a9c2ca0f3487d71"
+    },
+    {
+      "id": "steam-cn",
+      "name": "SteamCN",
+      "source_url": "https://rule.kelee.one/Loon/SteamCN.lsr",
+      "source_rule_count": 17,
+      "rule_types": {
+        "DOMAIN": 12,
+        "DOMAIN-SUFFIX": 5
+      },
+      "file": "SteamCN.yaml",
+      "sha256": "1b1c5ca188271bbd9f261360ae6c24ba03d7f021ab72150800a4ebe4c139bd0d"
+    },
+    {
+      "id": "steam",
+      "name": "Steam",
+      "source_url": "https://rule.kelee.one/Loon/Steam.lsr",
+      "source_rule_count": 62,
+      "rule_types": {
+        "DOMAIN": 8,
+        "DOMAIN-KEYWORD": 3,
+        "DOMAIN-SUFFIX": 51
+      },
+      "file": "Steam.yaml",
+      "sha256": "d71ff4dc643023c9107dee5352948122dedaea6c302056bc8e3524912865d025"
     }
   ]
 }
