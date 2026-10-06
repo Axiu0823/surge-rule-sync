@@ -505,6 +505,87 @@
       },
       "file": "Steam.list",
       "sha256": "8bcfd3fa97ec600430702d4a21ff8f99f0892fb98b121abdb3efec82867d1b14"
+    },
+    {
+      "id": "geosite-apple-cn",
+      "name": "GeoSite Apple CN",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/apple-cn.list",
+      "source_rule_count": 165,
+      "rule_types": {
+        "DOMAIN": 165
+      },
+      "file": "GeoSite-AppleCN.list",
+      "sha256": "d0302b0618a571aedeef7975b4eca5535684ce6f99f9a2486bec3b759ca43266"
+    },
+    {
+      "id": "geosite-apple",
+      "name": "GeoSite Apple",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/apple.list",
+      "source_rule_count": 1792,
+      "rule_types": {
+        "DOMAIN": 251,
+        "DOMAIN-SUFFIX": 1541
+      },
+      "file": "GeoSite-Apple.list",
+      "sha256": "c291b1035e0fadd8d9e3ac66541d9edb56d2f12ff311da23d20d604e36a955bc"
+    },
+    {
+      "id": "geosite-category-games-cn",
+      "name": "GeoSite Category Games CN",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-games-cn.list",
+      "source_rule_count": 264,
+      "rule_types": {
+        "DOMAIN": 2,
+        "DOMAIN-SUFFIX": 262
+      },
+      "file": "GeoSite-Category-Games-CN.list",
+      "sha256": "9e5765b331b8259f46fcd95830c6bb5a76741a917687585053df1888091f6f80"
+    },
+    {
+      "id": "geosite-category-ads-all",
+      "name": "GeoSite Category Ads All",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-ads-all.list",
+      "source_rule_count": 910,
+      "rule_types": {
+        "DOMAIN": 162,
+        "DOMAIN-SUFFIX": 748
+      },
+      "file": "GeoSite-Category-Ads-All.list",
+      "sha256": "38daa637c7611a2cfac36396eec3bae23b05e8c2d7a8408c3f95ec20e49d4f96"
+    },
+    {
+      "id": "geosite-gfw",
+      "name": "GeoSite GFW",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/gfw.list",
+      "source_rule_count": 4374,
+      "rule_types": {
+        "DOMAIN-SUFFIX": 4374
+      },
+      "file": "GeoSite-GFW.list",
+      "sha256": "f13d19a8224ded2ad736a7ce656a716ddb7df367c81f5e15b01b8127f5fb6d8d"
+    },
+    {
+      "id": "geosite-geolocation-not-cn",
+      "name": "GeoSite Geolocation Not CN",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/geolocation-!cn.list",
+      "source_rule_count": 27066,
+      "rule_types": {
+        "DOMAIN": 753,
+        "DOMAIN-SUFFIX": 26313
+      },
+      "file": "GeoSite-Geolocation-Not-CN.list",
+      "sha256": "69fbaa069bcc70be60a028bac37394494f56be172cbba6c4af4333cae8e2c121"
+    },
+    {
+      "id": "geosite-cn",
+      "name": "GeoSite CN",
+      "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cn.list",
+      "source_rule_count": 111224,
+      "rule_types": {
+        "DOMAIN-SUFFIX": 111224
+      },
+      "file": "GeoSite-CN.list",
+      "sha256": "83cbd3fe9c89fa1321e6da48dd19ac2f4761cff1466f7ec6d21c04b6f3da60c6"
     }
   ]
 }
