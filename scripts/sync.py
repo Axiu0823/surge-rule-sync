@@ -221,6 +221,10 @@ def serialize(rule: Rule, target: str) -> str:
 
 
 def source_stem(source: dict[str, Any]) -> str:
+    if output_name := source.get("output_name"):
+        if not isinstance(output_name, str) or not output_name.strip():
+            raise ValueError(f"source output_name must be a non-empty string: {source['id']}")
+        return output_name
     name = Path(unquote(urlparse(source["url"]).path)).name
     if not name:
         raise ValueError(f"source URL has no filename: {source['url']}")
@@ -231,11 +235,26 @@ def digest(content: str) -> str:
     return hashlib.sha256(content.encode("utf-8")).hexdigest()
 
 
+def source_description(item: dict[str, Any]) -> str:
+    if item.get("format", "loon") == "geosite-domain-list":
+        return "MetaCubeX GeoSite domain list"
+    return "Loon syntax"
+
+
+def output_targets(item: dict[str, Any]) -> tuple[str, ...]:
+    targets = item.get("targets", ["surge", "clash"])
+    if not isinstance(targets, list) or not targets or any(target not in {"surge", "clash"} for target in targets):
+        raise ValueError(f"source targets must contain Surge and/or Clash: {item['id']}")
+    if len(set(targets)) != len(targets):
+        raise ValueError(f"source targets must not contain duplicates: {item['id']}")
+    return tuple(targets)
+
+
 def render_surge(item: dict[str, Any], rules: list[Rule], comments: list[str]) -> str:
     lines = [
         f"# {item['name']}",
         f"# Source: {item['url']}",
-        "# Generated from Loon syntax; do not edit.",
+        f"# Generated from {source_description(item)}; do not edit.",
         *comments,
     ]
     lines.extend(serialize(rule, "surge") for rule in rules)
@@ -246,7 +265,7 @@ def render_clash(item: dict[str, Any], rules: list[Rule], comments: list[str]) -
     lines = [
         f"# {item['name']}",
         f"# Source: {item['url']}",
-        "# Classical provider generated from Loon syntax.",
+        f"# Classical provider generated from {source_description(item)}.",
         "payload:",
     ]
     lines.extend(f"  {comment}" for comment in comments)
@@ -284,9 +303,46 @@ def publish(directory: Path, files: dict[str, str], manifest: str) -> None:
     write_if_changed(directory / "manifest.json", manifest)
 
 
+def parse_geosite_domain_source(body: str, source_id: str) -> tuple[list[Rule], list[str], Counter[str]]:
+    """Convert MetaCubeX's plain GeoSite list without widening any match."""
+    rules: list[Rule] = []
+    comments: list[str] = []
+    rule_types: Counter[str] = Counter()
+    for line_number, raw_line in enumerate(body.splitlines(), 1):
+        line = raw_line.strip()
+        if not line:
+            continue
+        if line.startswith("#"):
+            comments.append(line)
+            continue
+        if line.startswith("+."):
+            kind, value = "DOMAIN-SUFFIX", line[2:]
+        else:
+            kind, value = "DOMAIN", line
+        if (
+            not value
+            or (line.startswith("+") and not line.startswith("+."))
+            or ":" in value
+            or any(char.isspace() for char in value)
+            or "," in value
+        ):
+            raise RuleSyntaxError(f"{source_id}:{line_number}: unsupported GeoSite entry {line!r}")
+        rules.append(Rule(kind=kind, args=(value,)))
+        rule_types[kind] += 1
+    if not rules:
+        raise RuleSyntaxError(f"{source_id}: source contains no rules")
+    return rules, comments, rule_types
+
+
 def sync_one(item: dict[str, Any], user_agent: str) -> tuple[dict[str, Any], str, list[Rule], list[str], Counter[str]]:
     body = fetch(item["url"], user_agent)
-    rules, comments, types = parse_source(body, item["id"])
+    source_format = item.get("format", "loon")
+    if source_format == "loon":
+        rules, comments, types = parse_source(body, item["id"])
+    elif source_format == "geosite-domain-list":
+        rules, comments, types = parse_geosite_domain_source(body, item["id"])
+    else:
+        raise ValueError(f"unsupported source format {source_format!r}")
     return item, body, rules, comments, types
 
 
@@ -325,7 +381,6 @@ def main() -> int:
         stem = source_stem(item)
         surge_name, clash_name = stem + ".list", stem + ".yaml"
         surge, clash = render_surge(item, rules, comments), render_clash(item, rules, comments)
-        surge_files[surge_name], clash_files[clash_name] = surge, clash
         common = {
             "id": item["id"],
             "name": item["name"],
@@ -333,19 +388,25 @@ def main() -> int:
             "source_rule_count": len(rules),
             "rule_types": dict(sorted(types.items())),
         }
-        surge_records.append({**common, "file": surge_name, "sha256": digest(surge)})
-        clash_records.append({**common, "file": clash_name, "sha256": digest(clash)})
-        report_sources.append({
+        record = {
             **common,
             "source_sha256": digest(body),
-            "surge": {"file": f"surge/{surge_name}", "sha256": digest(surge)},
-            "clash": {"file": f"clash/{clash_name}", "sha256": digest(clash)},
-        })
+        }
+        targets = output_targets(item)
+        if "surge" in targets:
+            surge_files[surge_name] = surge
+            surge_records.append({**common, "file": surge_name, "sha256": digest(surge)})
+            record["surge"] = {"file": f"surge/{surge_name}", "sha256": digest(surge)}
+        if "clash" in targets:
+            clash_files[clash_name] = clash
+            clash_records.append({**common, "file": clash_name, "sha256": digest(clash)})
+            record["clash"] = {"file": f"clash/{clash_name}", "sha256": digest(clash)}
+        report_sources.append(record)
 
     surge_manifest = json.dumps({"format": "surge-rule-set", "sources": surge_records}, ensure_ascii=False, indent=2) + "\n"
     clash_manifest = json.dumps({"format": "clash-classical-rule-provider", "sources": clash_records}, ensure_ascii=False, indent=2) + "\n"
     report = json.dumps({
-        "generator": "strict-loon-rule-converter",
+        "generator": "strict-rule-converter",
         "source_user_agent": config["user_agent"],
         "conversion_policy": "Unknown, malformed, or non-lossless rules fail the run; no source rule is dropped.",
         "sources": report_sources,
@@ -365,7 +426,7 @@ def main() -> int:
     if legacy_manifest.exists():
         legacy_manifest.unlink()
 
-    print(f"Synced {len(sources)} Loon sources into Surge and Clash provider folders")
+    print(f"Synced {len(sources)} rule sources into Surge and Clash provider folders")
     return 0
 
 

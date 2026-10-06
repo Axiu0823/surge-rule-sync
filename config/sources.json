@@ -200,6 +200,62 @@
       "id": "steam",
       "name": "Steam",
       "url": "https://rule.kelee.one/Loon/Steam.lsr"
+    },
+    {
+      "id": "geosite-apple-cn",
+      "name": "GeoSite Apple CN",
+      "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/apple-cn.list",
+      "format": "geosite-domain-list",
+      "output_name": "GeoSite-AppleCN",
+      "targets": ["surge"]
+    },
+    {
+      "id": "geosite-apple",
+      "name": "GeoSite Apple",
+      "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/apple.list",
+      "format": "geosite-domain-list",
+      "output_name": "GeoSite-Apple",
+      "targets": ["surge"]
+    },
+    {
+      "id": "geosite-category-games-cn",
+      "name": "GeoSite Category Games CN",
+      "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-games-cn.list",
+      "format": "geosite-domain-list",
+      "output_name": "GeoSite-Category-Games-CN",
+      "targets": ["surge"]
+    },
+    {
+      "id": "geosite-category-ads-all",
+      "name": "GeoSite Category Ads All",
+      "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-ads-all.list",
+      "format": "geosite-domain-list",
+      "output_name": "GeoSite-Category-Ads-All",
+      "targets": ["surge"]
+    },
+    {
+      "id": "geosite-gfw",
+      "name": "GeoSite GFW",
+      "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/gfw.list",
+      "format": "geosite-domain-list",
+      "output_name": "GeoSite-GFW",
+      "targets": ["surge"]
+    },
+    {
+      "id": "geosite-geolocation-not-cn",
+      "name": "GeoSite Geolocation Not CN",
+      "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/geolocation-!cn.list",
+      "format": "geosite-domain-list",
+      "output_name": "GeoSite-Geolocation-Not-CN",
+      "targets": ["surge"]
+    },
+    {
+      "id": "geosite-cn",
+      "name": "GeoSite CN",
+      "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cn.list",
+      "format": "geosite-domain-list",
+      "output_name": "GeoSite-CN",
+      "targets": ["surge"]
     }
   ]
 }
