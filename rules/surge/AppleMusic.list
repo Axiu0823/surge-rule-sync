@@ -1,7 +1,7 @@
 # AppleMusic
 # Source: https://rule.kelee.one/Loon/AppleMusic.lsr
 # Generated from Loon syntax; do not edit.
-# UpdateTime：2026-10-05 03:13:07
+# UpdateTime：2026-10-07 03:12:57
 # RuleCount：10
 DOMAIN,aod.itunes.apple.com
 DOMAIN,aod-ssl.itunes.apple.com

@@ -2,7 +2,7 @@
 # Source: https://rule.kelee.one/Loon/Steam.lsr
 # Classical provider generated from Loon syntax.
 payload:
-  # UpdateTime：2026-10-05 03:17:09
+  # UpdateTime：2026-10-07 03:16:49
   # RuleCount：62
   - "DOMAIN,steamcdn-a.akamaihd.net"
   - "DOMAIN,steamcommunity-a.akamaihd.net"
