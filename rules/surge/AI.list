@@ -1,7 +1,7 @@
 # AI
 # Source: https://kelee.one/Tool/Loon/Lsr/AI.lsr
 # Generated from Loon syntax; do not edit.
-# 2026-09-30 15:40:36
+# 2026-10-07 22:40:50
 # OpenAI
 # DOMAIN, persistent.oaistatic.com / 下载安装包
 # Copilot
@@ -234,6 +234,7 @@ DOMAIN,daily-cloudcode-pa.googleapis.com
 AND,((DOMAIN-KEYWORD,antigravity-auto-updater-),(DOMAIN-SUFFIX,run.app))
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,claudeusercontent.com
 IP-CIDR,160.79.104.0/23,no-resolve
 IP-CIDR6,2607:6bc0::/48,no-resolve

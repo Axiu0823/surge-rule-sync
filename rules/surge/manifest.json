@@ -126,16 +126,16 @@
       "id": "ai",
       "name": "AI",
       "source_url": "https://kelee.one/Tool/Loon/Lsr/AI.lsr",
-      "source_rule_count": 244,
+      "source_rule_count": 245,
       "rule_types": {
         "AND": 3,
         "DOMAIN": 194,
-        "DOMAIN-SUFFIX": 45,
+        "DOMAIN-SUFFIX": 46,
         "IP-CIDR": 1,
         "IP-CIDR6": 1
       },
       "file": "AI.list",
-      "sha256": "f32b75997549fb7ea828571842afd105234e9b7377dc598fc14a741d9d787468"
+      "sha256": "b05848643a4cdd876da01a2cc35fd149cb3fa88967f1a19ccdf6ee399264b016"
     },
     {
       "id": "openai",
@@ -181,14 +181,14 @@
       "id": "speedtest-international",
       "name": "Speedtest International",
       "source_url": "https://kelee.one/Tool/Loon/Lsr/SpeedtestInternational.lsr",
-      "source_rule_count": 17965,
+      "source_rule_count": 18500,
       "rule_types": {
-        "DOMAIN": 17953,
+        "DOMAIN": 18488,
         "DOMAIN-SUFFIX": 3,
         "IP-CIDR": 9
       },
       "file": "SpeedtestInternational.list",
-      "sha256": "be4f120862e44e1dcd5b39498e5b8b7c7eb5ba323236936a7748f3f67c9760b4"
+      "sha256": "6e89633a27ef9be7ec634937af252c8feecaf7be0ce8dc821650e63366730477"
     },
     {
       "id": "netflix",
