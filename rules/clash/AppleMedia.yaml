@@ -2,7 +2,7 @@
 # Source: https://rule.kelee.one/Loon/AppleMedia.lsr
 # Classical provider generated from Loon syntax.
 payload:
-  # UpdateTime：2026-10-07 03:16:07
+  # UpdateTime：2026-10-09 03:17:42
   # RuleCount：52
   - "DOMAIN-SUFFIX,appletvapp.apple"
   - "DOMAIN-SUFFIX,applemusic.com.au"

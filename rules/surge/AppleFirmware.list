@@ -1,7 +1,7 @@
 # AppleFirmware
 # Source: https://rule.kelee.one/Loon/AppleFirmware.lsr
 # Generated from Loon syntax; do not edit.
-# UpdateTime：2026-10-07 03:15:39
+# UpdateTime：2026-10-09 03:17:02
 # RuleCount：174
 DOMAIN-SUFFIX,appleone.audio
 DOMAIN-SUFFIX,appleid.berlin
