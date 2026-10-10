@@ -11,14 +11,14 @@
       "rule_types": {
         "DOMAIN-SUFFIX": 3
       },
-      "source_sha256": "8d656f583f8dcd8edf716300e68e93578174ec40fc2dee95a6e4bdeeeda23c60",
+      "source_sha256": "98615e680243c787d8ce768182540e3f0416d51d19114c324eebaf56468cf7e0",
       "surge": {
         "file": "surge/OKX.list",
-        "sha256": "35b8cd90000d630f80415611072f93c31cff7530e12d2841151b41aadcf8c2c4"
+        "sha256": "47a5d53bf7a9cf8951c477d243a704d4d59ccc8ddb7170aaef293af371004d7f"
       },
       "clash": {
         "file": "clash/OKX.yaml",
-        "sha256": "24f86478d9f4c8925509ad50a562cedde0f9703f6fa5f335c0e87afd5dbf15df"
+        "sha256": "7b82585b9a4f6f6c1a6b67fc4038fc8df402add55df7c203245d139edf77728a"
       }
     },
     {
@@ -32,14 +32,14 @@
         "DOMAIN-SUFFIX": 4,
         "IP-CIDR": 11
       },
-      "source_sha256": "abeef19933b2d7f8dc3cbe92fe7b8fe2f7dd43e77f6194b49101828a78e7b5bb",
+      "source_sha256": "e41c44cce30bc4dd756add5e4cbbe054f1f44a0a0121eb4b1bb4d942b8b90adf",
       "surge": {
         "file": "surge/Whatsapp.list",
-        "sha256": "db177ba3ba4d74e58cdc72cbdb5f9aac4d3e4b09daabf9e4ceef62682f31bc26"
+        "sha256": "1e332d8b18608786b25f02174f0a8e1b59e8eeafbda0fcbd9b667234013d6b55"
       },
       "clash": {
         "file": "clash/Whatsapp.yaml",
-        "sha256": "06c8be14de5f8bb418df0237a4db006a7ed54e0bf5d55db7f34d74eecbd63f3e"
+        "sha256": "e1dc5ead8bdacb66e506a8b6ee21a6d900284485210194593cfd8896f403f147"
       }
     },
     {
@@ -52,14 +52,14 @@
         "DOMAIN-SUFFIX": 26,
         "IP-CIDR": 6
       },
-      "source_sha256": "1d61d0ebbcfbad56b5deaef2975c06c5bdab2235e533ea49f40f5720b19baa1b",
+      "source_sha256": "d82693582cbe84d3831ce75c04dd44f1fd636c9f4d282452d3790574f6586af5",
       "surge": {
         "file": "surge/Twitter.list",
-        "sha256": "71eeaef2a735dcc9c90d6b6c6e7a9c761c17e6a60b7252a112267139e7c7ef8c"
+        "sha256": "fbafdb196ffdaff06b82f05a04c4359a4ce5f27b1d62cb9cadbea24d96daafe6"
       },
       "clash": {
         "file": "clash/Twitter.yaml",
-        "sha256": "88c1c3e8c418570b57aa8a8c8f609e7f9dd6fed00a9d96b30b79142f576d55c6"
+        "sha256": "f5b35ce368d747ce4e543e73efb90cfc035c228ec2ced44dacb589884c8aca45"
       }
     },
     {
@@ -75,14 +75,14 @@
         "IP-CIDR": 6,
         "IP-CIDR6": 4
       },
-      "source_sha256": "d1a1627ff476610ed8d96aa8c6acfdd5768d06b7a0aabd6fa4ec42912c0424d8",
+      "source_sha256": "33ed14a99e89efbc9a9bfd9a78e63522e153a960e934b6b6e33a74ad585eac6c",
       "surge": {
         "file": "surge/Telegram.list",
-        "sha256": "5f00ce9f8ffb5e1d4a3c6289c611433234538cfa0e2d55420bf6fe995a6edb32"
+        "sha256": "d45de5cbae3eeeeae9824ca897e3e37734ce2f52d6c63f9dc4f6b0327e1496e5"
       },
       "clash": {
         "file": "clash/Telegram.yaml",
-        "sha256": "4de41eb081f69f85fee52ee18349a151a63fa2842d25366b35126e6fa07d1f8d"
+        "sha256": "077503e8a90c799c7c621e1d9efa853e1b78083b29c2a5dc1f991e9def68dcea"
       }
     },
     {
@@ -93,14 +93,14 @@
       "rule_types": {
         "DOMAIN-SUFFIX": 12
       },
-      "source_sha256": "fc5f3c09d2d1142de61bae94910d45d9493628275a6a0ad80f545452dbbea19b",
+      "source_sha256": "672be2e0da6129d86d400f79f88fd0de54491514dc65388e21339e17c1591261",
       "surge": {
         "file": "surge/Binance.list",
-        "sha256": "0b1df0b920199d1622a5f3b07a1b545a33f44303f217807f3051e88ee396ae0f"
+        "sha256": "936cf6ec4233de0c3a76ed9ea94dc09c9b8021bb1f92505756e09ddc2d63e803"
       },
       "clash": {
         "file": "clash/Binance.yaml",
-        "sha256": "39a97d35fb1efcf57a77ccdf0201727198e9eccc259378ad06378d36bceef1e8"
+        "sha256": "6f1b42c2dd4f6e6c158936f3c69a203b069a302d1b340321188ec8fa6db4962d"
       }
     },
     {
@@ -114,14 +114,14 @@
         "IP-ASN": 1,
         "USER-AGENT": 2
       },
-      "source_sha256": "d27d2a87ee25f34ac7f1ac2340d0adf918471faa76aeaebb7bc1a2b63eeeb212",
+      "source_sha256": "60af4b61c7c65960c5b559f1eed82565b243057fcf2d697f5bd3f7b0808e0097",
       "surge": {
         "file": "surge/WeChat.list",
-        "sha256": "e8f765269e66378a38d503a71673b2903cf242d62131e0cf63a6a05b61b351bf"
+        "sha256": "7b91304d93831e6adc6cd0e941efcdbd326c1013e1ee28656b5f83e39d90a20d"
       },
       "clash": {
         "file": "clash/WeChat.yaml",
-        "sha256": "3782b4744fef546d15ab46dbb9cf8317cd3d7d6691f4ab36ca54b7c49560f9b1"
+        "sha256": "f2ec328538f82f336369ad6bb487e1a13d30102bd051ee2bf66e7c2d5747b193"
       }
     },
     {
@@ -137,14 +137,14 @@
         "IP-CIDR6": 1,
         "USER-AGENT": 7
       },
-      "source_sha256": "3b45d69f85ae856a33c6b522e067129c01ea8bb0b41c98b152a82f5e25f8e615",
+      "source_sha256": "df85030232776a44fbb0129d66104caaa883bfa68874b9055c46881c1d84295f",
       "surge": {
         "file": "surge/YouTube.list",
-        "sha256": "5ffa55f0a3b6d37025a1b493592a4b2401c8cf94b1962a187798855891ca04e3"
+        "sha256": "ee64c692531f3866da6b3357baa9dda4fa625f82f31f059cfa28b91d68ed7159"
       },
       "clash": {
         "file": "clash/YouTube.yaml",
-        "sha256": "bf680add9908a26aa81e566a7f223b5a6637c245a2925a6a8c10d5b105b1486b"
+        "sha256": "f031550bfa6a54f769cb5a7c166c8741114754f6f8d617bc096fd9b1c366d6c0"
       }
     },
     {
@@ -156,14 +156,14 @@
         "DOMAIN-KEYWORD": 1,
         "DOMAIN-SUFFIX": 30
       },
-      "source_sha256": "cf3eb6bb8f6957f4bf806592207cc6cf6dffb77663da947b95bda4dfe54fc77f",
+      "source_sha256": "2b3a310f0b9f46124a824ccceb6b5e85897da45177e7fc588bdfe8e7a770e587",
       "surge": {
         "file": "surge/GitHub.list",
-        "sha256": "d77d04c953a1bde7255cad5e7df1851605069942937bd9533da12682bb5cac37"
+        "sha256": "8e152a825a5799dae329b4703bfbe147ebb29235a60c2404ce4424bf6c33ae27"
       },
       "clash": {
         "file": "clash/GitHub.yaml",
-        "sha256": "507057c8f84bb7053841cc5e9542ebcbfbcf1faabd0eb1d7259df8b1ac29f344"
+        "sha256": "a6cb4b7087d3bc2079c8c109fe20e5b9fede0fd03f233dd3cb14521d4adaff6a"
       }
     },
     {
@@ -221,14 +221,14 @@
         "IP-ASN": 1,
         "IP-CIDR": 2
       },
-      "source_sha256": "d1a6c6f7d100cc666abf240b552b723382013f67213fbb10cd07082f2c329ab7",
+      "source_sha256": "c93af25c2ed7eae2432c7a6a74af614ab7db981cd8b111c7e4693fd310e1f9e3",
       "surge": {
         "file": "surge/OpenAI.list",
-        "sha256": "8863ada5701a6faa2ba093108963f1058c0ae21849ac3892419203a3eea98074"
+        "sha256": "bd62c7d988ed678f5853e268dcd5aba37b2ed85fc2bb63a759bcc705bf526d51"
       },
       "clash": {
         "file": "clash/OpenAI.yaml",
-        "sha256": "b0a9cb42c76155595f77f158fa474abdbfd3d88a5b72612b8d0287ed2d362c00"
+        "sha256": "040b4e46844569bcce51d00a0c80e98dbf6afe7acbb1280006273fb98b27b139"
       }
     },
     {
@@ -240,14 +240,14 @@
         "DOMAIN": 1,
         "DOMAIN-SUFFIX": 2
       },
-      "source_sha256": "03d23d18f0818647dedede0645d39c40951a76ff2ada3afbf5e198645288704a",
+      "source_sha256": "623f7619ee2fd4fe7f71312811510ac98b0db60c9265f8bed0a1ba3c3341f5b8",
       "surge": {
         "file": "surge/Claude.list",
-        "sha256": "5e9bc6cb39a0c07ca8107a7a59bffb1bc1bd5bfa9de5c2d2f637def07a99b7d8"
+        "sha256": "9df7b812ed2f012e55e7450085a33db53720b10e64313da67813db5de3a851e9"
       },
       "clash": {
         "file": "clash/Claude.yaml",
-        "sha256": "df546eb2c8cb394fb87772a21dd36f7abf3bf32816f31dcbdcfa686de2444c59"
+        "sha256": "3de68a0b623f360bcc04f9f23ef9f696d7efbaff30dccbde7336b7181d3d90d1"
       }
     },
     {
@@ -260,14 +260,14 @@
         "DOMAIN-KEYWORD": 3,
         "DOMAIN-SUFFIX": 7
       },
-      "source_sha256": "a598f7517d1f03d10b0748e96288db233de3e67fb228c3e8289498ab0c17e470",
+      "source_sha256": "beb0e2e7e359f31eb584cf0891a9d3b6879f3ab7b4167e18c837f6fcb04cb255",
       "surge": {
         "file": "surge/Gemini.list",
-        "sha256": "bc5162826bdb31901e9910bc51b1e14e9d77ac22fbf20fd0971be835a975336f"
+        "sha256": "b05f388e5706648303bec3a8c600d6133d6565635646dd0a09e4fc5513c4b8a9"
       },
       "clash": {
         "file": "clash/Gemini.yaml",
-        "sha256": "8ca286f0ed92bc288fb30092fe62069a9cda6c49af52e3bf3fa804d32914a7d3"
+        "sha256": "a5fd5473340936bb6b84649266cc2072d523ade4ed9ca3afd548f3bb64638bc7"
       }
     },
     {
@@ -303,14 +303,14 @@
         "IP-CIDR6": 4,
         "USER-AGENT": 1
       },
-      "source_sha256": "5afc6181004ed3b9739c76a7e2f31a0e10faf295a18a602af47d967f1fca5a0d",
+      "source_sha256": "56e60dd43992e724180d6880d3e430e007f497dc6ead0a42dc8226abdc7904a8",
       "surge": {
         "file": "surge/Netflix.list",
-        "sha256": "12f46801a44fe29b3c4561c504be207e7f0742d5907cb30414ce8b810490448d"
+        "sha256": "d780da79aa24790cf344c30728b40e0e6e6eeaa473b2789645e255579fd3470d"
       },
       "clash": {
         "file": "clash/Netflix.yaml",
-        "sha256": "944a8b13e5ab3f141cb77781fa59fe8892fb94845619d290982c236e16187d6c"
+        "sha256": "f8fcc9113d8d10e9170a251bdfaaea87032326976318d69daad1d331fd1822f9"
       }
     },
     {
@@ -359,14 +359,14 @@
         "DOMAIN": 2,
         "DOMAIN-SUFFIX": 11
       },
-      "source_sha256": "3ea53f9fce86b19dcedf3a394ae71688be509c8939d8549800b04121a2b5b591",
+      "source_sha256": "eeea2193f18cffd18c03d3cb5dc02de6b0454e35ea46782debac6f5edcf52d6c",
       "surge": {
         "file": "surge/DouYin.list",
-        "sha256": "82d5ef619cfcbe73f047e4b7115d74da910146261eb385e767eae4b461e65e05"
+        "sha256": "35db1252eadc813200b7befe4413eaf5fd898938d2a43cdd3bb91a72b7528738"
       },
       "clash": {
         "file": "clash/DouYin.yaml",
-        "sha256": "d78429c0b9b9ddd6525a7580ede0b18e1629e4afa105cf85239d43502c67325d"
+        "sha256": "dc076e45d36fda820c9a38283a28173fcd03feba455e96d231c7b0469facbd82"
       }
     },
     {
@@ -379,14 +379,14 @@
         "DOMAIN-SUFFIX": 246,
         "USER-AGENT": 1
       },
-      "source_sha256": "98cdcc2d7dc6b08b0a87120039490561ad5b2917d578753f76011b0656e391b2",
+      "source_sha256": "a15c9bd19b914802281ad3d66d36580030411f91f370d0ec430fa782952fe1f1",
       "surge": {
         "file": "surge/PayPal.list",
-        "sha256": "145e0832bee6886cda5c18ff82eb8c2a668f15f08ca18e282720a8955f13dc40"
+        "sha256": "052ca3df229dcb02b98b005765d2f5aa8b0130e5c42ddc8bdc906a2b601d1ddd"
       },
       "clash": {
         "file": "clash/PayPal.yaml",
-        "sha256": "f6631f21bf8c71e8759b51ad1e57c14cbc37d61bc50eccd26685ef6b28cb9fe1"
+        "sha256": "a9908473fbdcf189be655e6a29aeb0e4412af915f51e05550b4408b322614125"
       }
     },
     {
@@ -476,14 +476,14 @@
         "DOMAIN-SUFFIX": 148,
         "IP-CIDR": 9
       },
-      "source_sha256": "ecb695c43ad4affa5c4f25d147c159295194f1bac23933fc51562560fe1fe53c",
+      "source_sha256": "385fe4b95c96490667a1dd69b5a3af902a70991ac7a07fe9ee0d0507401f4ecc",
       "surge": {
         "file": "surge/XiaoMi.list",
-        "sha256": "f4eeabe06c9c82fe86bd63638ebf2ca874671286dc57f409dc9d0fe6202bb47f"
+        "sha256": "995d439aa51a2feabb974c0cc0dd9c5f0648515d4d6970cf3ef5dac2c0606dac"
       },
       "clash": {
         "file": "clash/XiaoMi.yaml",
-        "sha256": "74471fdf6eddcd4c3f657fc0ca5f8141b989a0184c3e1a2c4dbfa8cc8432ee9f"
+        "sha256": "462cca3bc883e3a653fad630fe1492893ab7cdec937ae55acfc7084909c35a48"
       }
     },
     {
@@ -499,14 +499,14 @@
         "IP-CIDR6": 3,
         "USER-AGENT": 23
       },
-      "source_sha256": "2f84151c55ef6080766850bb3b8b2a1d39215808ebd94f79f2201d9a1ead06f0",
+      "source_sha256": "99ad8b957f8c80e1dab6cab9e3a01e42c396e2f775d7ca3bce6b330edea43200",
       "surge": {
         "file": "surge/Apple.list",
-        "sha256": "c8cad05bcde0da2b388972bc266c9241dcb927cd33bdd5e2d7b3ecf58dbc22e9"
+        "sha256": "f60ebf50c52668e0c5415e2367a62e3011e0ffea64e21da73020f2bb9f5395b4"
       },
       "clash": {
         "file": "clash/Apple.yaml",
-        "sha256": "a278369b84c07fb5d1a7385670457eb35d66cfc78a7035336965a83fc41e327b"
+        "sha256": "00bba4571fdd32364837881b081eefefc09bf1b552829f879cb28cf95905fb8e"
       }
     },
     {
@@ -517,14 +517,14 @@
       "rule_types": {
         "DOMAIN": 2
       },
-      "source_sha256": "bd18af61c5bc82a5c90b0dd96f6c3ba8c494d7cf7a3d515b74bb64911c6400e1",
+      "source_sha256": "2a4fdbd4ec04677f50b93101e12097e6cf1c686959190aedf2f13b61ffd9fe2a",
       "surge": {
         "file": "surge/AppStore.list",
-        "sha256": "ac03502a1e7a03c339cd6b600546d9f983534e6a7b15421f42f7712baa0aed20"
+        "sha256": "89db96ad407137e7a97116a3ca2b5595265a55d80c13d66eb85a6cf4bdedb5fd"
       },
       "clash": {
         "file": "clash/AppStore.yaml",
-        "sha256": "8d48d8d62cad996325d26819956cb06b86e91d8d25abbdd3724a25c520e79978"
+        "sha256": "2ef648fcae46f969aba5b37032e215ddf6fec38cbd6f451f4380e899ea35edf9"
       }
     },
     {
@@ -535,14 +535,14 @@
       "rule_types": {
         "DOMAIN-SUFFIX": 40
       },
-      "source_sha256": "384df43fd91a3782573b2c39b01b48a2455b8bbee2211fe2846ab0c038ac2e6c",
+      "source_sha256": "9cf029a946f60676bfcd73ea1376927339e2e5087ab1c50faab14b67fd4e2b77",
       "surge": {
         "file": "surge/AppleDev.list",
-        "sha256": "a69d8ca9b2879f23056450918ab820a0ee95603dd9b60915f8c98cac3f14c186"
+        "sha256": "17f762888498e57bbeab7a0d05e3e2a2fd7d03aba120a5a0a124b83caa1ae428"
       },
       "clash": {
         "file": "clash/AppleDev.yaml",
-        "sha256": "290f366f0360a1dbfb25ba5c9434edd7f2ef724348b748fb9a3352a62f96fb78"
+        "sha256": "3ca1598268353daa451c4842fd6c9647c29dee02ab32f5902150350015e26cf9"
       }
     },
     {
@@ -553,14 +553,14 @@
       "rule_types": {
         "DOMAIN-SUFFIX": 174
       },
-      "source_sha256": "71f31a42500148f5c2d619b98da19ccd7b10061e888e72c4c120fbc02b83f9cd",
+      "source_sha256": "b5c81f9f6c902e620114a807cf8d60fd38002fcc44b7e48867aa09cbf471befd",
       "surge": {
         "file": "surge/AppleFirmware.list",
-        "sha256": "eaeb565d26f737fbcfaf60310afbc6cfbff73825a688bda7b49f159681c29aff"
+        "sha256": "d5ccb97807a83b19aec6bf0282f874095e62e746211f71dc22031162ccf2843c"
       },
       "clash": {
         "file": "clash/AppleFirmware.yaml",
-        "sha256": "746b854b3bf11f4b24284da665a6887c89b451ee43625c303505b113d4f092a7"
+        "sha256": "c4f71a3c104a38bc8b77f781839e1f989d673b035edebe4a8c6a7384ca166d99"
       }
     },
     {
@@ -571,14 +571,14 @@
       "rule_types": {
         "DOMAIN-SUFFIX": 226
       },
-      "source_sha256": "db9f1faf1f4c2c1309cd9ba52ec08998b6c825e66ccd857e50d4d409d30a1f8c",
+      "source_sha256": "379c4502cc356a637a8564d6f6cdd55f1a0cbf9a6b3650124a3008ab43cc557b",
       "surge": {
         "file": "surge/AppleHardware.list",
-        "sha256": "2ebf64070e96a6df430a36fa48bb056b8d0978891bd886a22c39cd89a4f9fc5a"
+        "sha256": "976d617ae5875a441dfed35a6ef6c64acf2a88fa1b3d96f3dfcf2e7902f9310f"
       },
       "clash": {
         "file": "clash/AppleHardware.yaml",
-        "sha256": "d0a3ad164bc85c6941c7a1eba3531b8178d35e084fb80f9f2247c220ec0fe340"
+        "sha256": "bb1d340a200098cae5d43899dccb6cecb765a1e35e2133317bfcb28e5d1ee992"
       }
     },
     {
@@ -589,14 +589,14 @@
       "rule_types": {
         "DOMAIN": 4
       },
-      "source_sha256": "c219a25a947fe22f523adb87ba1aee6e0225cba50986a0b40d636c3070bde6f2",
+      "source_sha256": "68ed8f932fe129d98485666e0c2fda181f40f9ccd25b49168696a164d38abff9",
       "surge": {
         "file": "surge/AppleID.list",
-        "sha256": "04cb8a6abc310774efd6608d9d4689c87532be8e4ec3fe5172e921ad98532453"
+        "sha256": "15f446651cbe9b1bcd45814caf857c1a89288296ac7eedb629cd91660989b800"
       },
       "clash": {
         "file": "clash/AppleID.yaml",
-        "sha256": "a3afdae811dbe881cb40b01f00dd85d330a82e17927394bb8a4b9116efb3e4f2"
+        "sha256": "a8bb5e2442bae4e57742dc9324df29374f838feaf601f6aee18290f0123ddfda"
       }
     },
     {
@@ -607,14 +607,14 @@
       "rule_types": {
         "DOMAIN-SUFFIX": 2
       },
-      "source_sha256": "53909191b6412fcddf7d2e43fc416cd5c07aafb0a86ac9969265f720fd766554",
+      "source_sha256": "614cb554b7de7221203629f773aa8926babd875164e3bf57e2bc1980ce7486c8",
       "surge": {
         "file": "surge/AppleMail.list",
-        "sha256": "f5b0ce55501d1644e48f9ce41205ff24f75513841a00edeaf732442e50ce01f6"
+        "sha256": "874bb74fc4ccaddfa6856da2a0100a8aa60e329364089e496157c9f1b625f328"
       },
       "clash": {
         "file": "clash/AppleMail.yaml",
-        "sha256": "7c8dc44b824837fb296f6e1a0617ca43b60498667774460bd5fd9118d47be6e0"
+        "sha256": "46bc61822f05757d8a09173178fc1239521448dc11c6b050ec93bd6f2fa96411"
       }
     },
     {
@@ -625,14 +625,14 @@
       "rule_types": {
         "DOMAIN-SUFFIX": 52
       },
-      "source_sha256": "ef5ab8de03c48639530d0702c6f276609dcbba781fe1a3d78bf75fadd3751a76",
+      "source_sha256": "89a8dfead61bdc720686333697a9f48e2af6c11039df83d348c08728b8a79ef2",
       "surge": {
         "file": "surge/AppleMedia.list",
-        "sha256": "dcf8111e791c353a0b32e2f90a01e140b22a00bad249ea3a7bb6f82ca53a8455"
+        "sha256": "8820576864d7f93d9c413683f70ca44e6a9a31091d313372d63d45a5b9263720"
       },
       "clash": {
         "file": "clash/AppleMedia.yaml",
-        "sha256": "7f3c3bcbbaac04e82212136ccc5db0213a202bdac9daf58c11429549ff407cec"
+        "sha256": "84f08222ca7851c2cdbc4e19f5a3f064fa0c13b963ee0a7108bde9af0e74df6b"
       }
     },
     {
@@ -645,14 +645,14 @@
         "DOMAIN-SUFFIX": 3,
         "USER-AGENT": 1
       },
-      "source_sha256": "de19ab067993726ac78bb269d84a4f88e99d50e347acc59a091d224f49902359",
+      "source_sha256": "918be7a8a44ab1b0b7fd7b0aa7f1ad9029014e3ac198185c2c8873056bc6a48d",
       "surge": {
         "file": "surge/AppleMusic.list",
-        "sha256": "ddbac9eb7d484d5eccf7381de6019e65a53b914a33a7975e30f650662fe4f1d4"
+        "sha256": "542da02e362b745b486a8b9ff232f50e8c566dafdb4e9ef6ec123e228385cd78"
       },
       "clash": {
         "file": "clash/AppleMusic.yaml",
-        "sha256": "401817213dae7b921ede0e26e1cb5cccd8c46942581829a65258e9ef44ffd083"
+        "sha256": "6fc769d7fe050ea0e080a8d0f9e0951641aea140bc1fe607f460b7cd6f200dc5"
       }
     },
     {
@@ -663,14 +663,14 @@
       "rule_types": {
         "DOMAIN": 2
       },
-      "source_sha256": "04c776c25c2d979f1249947e26838ca17d50d9c038f6b53127218f0931cf9f64",
+      "source_sha256": "8970ba4456745669116e48604ef3ad5b93c14c9fa4afe5bb13adb535332fd694",
       "surge": {
         "file": "surge/AppleNews.list",
-        "sha256": "2afd254d1e886493d40759da9f6a951d4af7c06f18d8bf3eab202fd6b856436d"
+        "sha256": "7316985cca5801f9998d2aa6240bf2d3ca5f583319a614523d84ca4cad2d7008"
       },
       "clash": {
         "file": "clash/AppleNews.yaml",
-        "sha256": "7e2904ae7971b7ee9a9e346e9573903d4f56980a1219e9065192af5b285b3102"
+        "sha256": "185c10535c496048f17907186c942c9375c2af56f3e9b7828da88610ea3e4bbd"
       }
     },
     {
@@ -683,14 +683,14 @@
         "DOMAIN-SUFFIX": 12,
         "USER-AGENT": 5
       },
-      "source_sha256": "e418f3599ba60bb3f92cede6ad203aeb27c26fae5963f39522f100d06a61ad0e",
+      "source_sha256": "4dd12b8a8fb76655c9a7d032156b3b831e0c485ccf106488fb3e04b9be38e58e",
       "surge": {
         "file": "surge/AppleProxy.list",
-        "sha256": "a12ae1fc751bf16a22e1630d2e7595826f16ef891431b8130fc21919363f5126"
+        "sha256": "4931640380230b5ceaed9ba6fe4caa5a122fa3e934f8cdcb4f8abce0f4ddfd9a"
       },
       "clash": {
         "file": "clash/AppleProxy.yaml",
-        "sha256": "5483d75fd5534d4d4b15485a3a5ef6f2efd8834136b78217a190e90681dbce01"
+        "sha256": "70a94a775d3acf837382dd826ae9d9bca61ff68feb6d8e2f95e24e9da5319bcc"
       }
     },
     {
@@ -703,14 +703,14 @@
         "DOMAIN-SUFFIX": 1,
         "USER-AGENT": 2
       },
-      "source_sha256": "a7cd227cb3e57ac5e385d9f30618fbaedd2a087f6f0159c155d66a9c173296e0",
+      "source_sha256": "9e2717fa41ca5cc89d4264d4cf78c4bc338a04baedfb0c6a5b291a5dd2b19f96",
       "surge": {
         "file": "surge/AppleTV.list",
-        "sha256": "dea5ee88bd269c0d9c6a0459016ae3ade3f060b5abf21eec58124909e949dcd5"
+        "sha256": "da58b80aebf7ff8d49a533fc236c21911f420ce7291881f091a4f8a86382b1a8"
       },
       "clash": {
         "file": "clash/AppleTV.yaml",
-        "sha256": "904b593b9399102b983b4d06d68d412f38071329b729f7d8db0ad03b09f27a52"
+        "sha256": "c1b7b38af6bec1877439ca022eef1a5401c20af467f01b556d0ce44bab1d7c5d"
       }
     },
     {
@@ -721,14 +721,14 @@
       "rule_types": {
         "DOMAIN-SUFFIX": 714
       },
-      "source_sha256": "35b26c746b536df8d0133c8538ff075af2c02778aa5a3bc21e40850e4b4a56ad",
+      "source_sha256": "df1b3f835dfa260a076d002529d5a3b7c3c091557a4876f6780e748cca1c1c47",
       "surge": {
         "file": "surge/Beats.list",
-        "sha256": "dc60951e955f7316332f4576956f21abc73e539bc127d693521bf0a149a96f18"
+        "sha256": "2cc26e5d075147586dcb5ab8b1582f7ddba1ab75cd3416ed9056d29ca79b2468"
       },
       "clash": {
         "file": "clash/Beats.yaml",
-        "sha256": "15a90aafc75cbf938f7015cc455dc7bfff6d2e6c05687b93a48f71dbd7e8787f"
+        "sha256": "43b908148cfa639986360338c49c981c65607f57b784650045ff4e6cd8059e26"
       }
     },
     {
@@ -739,14 +739,14 @@
       "rule_types": {
         "DOMAIN-SUFFIX": 29
       },
-      "source_sha256": "1ff51a279bd1fcaa3bd93592a0e4550a5b51a3d408f11df2d83b72c14bb32a1b",
+      "source_sha256": "95e0a852bf1f7dedabc780ee06fd4b1cfbcd2f6fa608c668a9478abba3ff8176",
       "surge": {
         "file": "surge/Discord.list",
-        "sha256": "5021dcf53a359f40855f5fc4024e4104429d2451c4777f72393d3bca886ad258"
+        "sha256": "f6c88186d8e5676e9e4fac2c70d876b41681cfa6da6eabc31455f5cfbb914f77"
       },
       "clash": {
         "file": "clash/Discord.yaml",
-        "sha256": "6af04ec7f5fbb198f3eeefd7fadeb3fb2a0064aa868231331f7671c878cbde81"
+        "sha256": "a9b50e4bfec827d2ba4a5b3eef304a6170fd07f507013278204a2e34efbeb98a"
       }
     },
     {
@@ -758,14 +758,14 @@
         "DOMAIN": 12,
         "DOMAIN-SUFFIX": 5
       },
-      "source_sha256": "2458ed2e58837c9b60f086549a56529b8b1af086b6ae01c053a0c01cf5ae472c",
+      "source_sha256": "2a526b9905c014d950d230687a5aae43ff5e8b400e61a1a81aa1eca1a2bceff4",
       "surge": {
         "file": "surge/SteamCN.list",
-        "sha256": "5ae65b276e1c0763508987c60751e8c42bca99945f325c9929ac26b1767eb117"
+        "sha256": "30a4cb9e5c0098f0187f9255ac684c0d4009a51edf06c31369fb350b487f3d8c"
       },
       "clash": {
         "file": "clash/SteamCN.yaml",
-        "sha256": "598bb3e128b2eb1e722e8844deae823558aa99b0e4791dd222451a8f250f837a"
+        "sha256": "534a91ae4d46e1c543f05e5d3203c5105530c12ff4c2378d9d2371b1b3326a8b"
       }
     },
     {
@@ -778,14 +778,14 @@
         "DOMAIN-KEYWORD": 3,
         "DOMAIN-SUFFIX": 51
       },
-      "source_sha256": "fd9e7db4694a6d661fc481c09703bbbc06657e1f1b3b41a2c1230858b3b756ab",
+      "source_sha256": "cee090e9c8c78672f398af0fa6b702597d5c658979c9c81d50572511834aa387",
       "surge": {
         "file": "surge/Steam.list",
-        "sha256": "6ffa2c8a8405ad975d222d1e30d4a237fc30b5ced48e65dae509bdbfbdd5b059"
+        "sha256": "af3511c968ccb5e0e469c21ca87938df8c734af958d879d6d81192b166bec023"
       },
       "clash": {
         "file": "clash/Steam.yaml",
-        "sha256": "9dcae95244a7744b005929e0e2b9bdc458f98bd97bc1ab214378bccab8e49f05"
+        "sha256": "fe9bf6aa9ad9f58a8709f0cac6d22d10e9538a473fbd425cf9e8de0f81e52737"
       }
     },
     {

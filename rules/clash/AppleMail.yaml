@@ -2,7 +2,7 @@
 # Source: https://rule.kelee.one/Loon/AppleMail.lsr
 # Classical provider generated from Loon syntax.
 payload:
-  # UpdateTime：2026-10-09 03:15:41
+  # UpdateTime：2026-10-11 03:14:24
   # RuleCount：2
   - "DOMAIN-SUFFIX,mail.icloud.com.cn"
   - "DOMAIN-SUFFIX,mail.me.com"
