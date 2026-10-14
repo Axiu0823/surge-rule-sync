@@ -811,10 +811,10 @@
         "DOMAIN": 251,
         "DOMAIN-SUFFIX": 1541
       },
-      "source_sha256": "e1e425212aff2c721d8e3315c111b6afe2eb614231e8293ee8738e400ab4f47e",
+      "source_sha256": "c364e76e1efdd2f8a4071670b38c966dfad2d40cba17f6aec8b7e104bc43ca4c",
       "surge": {
         "file": "surge/GeoSite-Apple.list",
-        "sha256": "257dc2d5e5d37f025dad6c1cd1f36b39c08eea3173b48b52cc45a444fbca2cd7"
+        "sha256": "61e4b89a83c57714864caf82b0229f85ab86f270759bbb95eeadd372c7470f37"
       }
     },
     {
@@ -826,10 +826,10 @@
         "DOMAIN": 2,
         "DOMAIN-SUFFIX": 262
       },
-      "source_sha256": "98a35ae9650e3e9ba0e76fac1bd44fa27a2a79382c34de8747b757506f8ec018",
+      "source_sha256": "4bdf31ef1d18b052f8a837a8cc3ed4dd7bacc16fe82aefc4f6fc1f55768aa12f",
       "surge": {
         "file": "surge/GeoSite-Category-Games-CN.list",
-        "sha256": "7aafe6d06f300d2de8b02bc2d9de277734a8bcea59a84e40d20dd4c991288825"
+        "sha256": "a6658ea65daba0147a5585fdd9e5da9ddae10219395633430d571cf9504b9102"
       }
     },
     {
@@ -841,10 +841,10 @@
         "DOMAIN": 158,
         "DOMAIN-SUFFIX": 744
       },
-      "source_sha256": "7cf5ccf936dd8f58fdd66a7381b201ecfa9f279f27c82a98bcb8a89ec6fe8967",
+      "source_sha256": "2c07c016dd32eceb5e6b566a4c5f67e74cd2b6d7daef8250a4810e935a8cd7fe",
       "surge": {
         "file": "surge/GeoSite-Category-Ads-All.list",
-        "sha256": "cadb083f3579682a600682ced6ad6aabff0af9273cb566f4663134b9e901c3a7"
+        "sha256": "2ae5e53bb0340f7dbd5bd3d48a44cbb30a92830fcee03f4bf9dc39f4bc8a72dd"
       }
     },
     {
@@ -880,14 +880,14 @@
       "id": "geosite-cn",
       "name": "GeoSite CN",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cn.list",
-      "source_rule_count": 111595,
+      "source_rule_count": 110821,
       "rule_types": {
-        "DOMAIN-SUFFIX": 111595
+        "DOMAIN-SUFFIX": 110821
       },
-      "source_sha256": "c2229d72f96ccb7850cc0f464f29e51846d666d32936cf51709e943b7798f1c3",
+      "source_sha256": "fe36314c49beda91702cc5c18b2c7f87292c37db664e251a57a0e6f9ac6192c5",
       "surge": {
         "file": "surge/GeoSite-CN.list",
-        "sha256": "36b1dd7d4ea5b94e383eaaf0e72dc350eafdb3322c4a52f98693bfae1f0e5d18"
+        "sha256": "fcea8fbc92322964ee2d738be034cadae3f0ed8922356ac270f9ac97352421c9"
       }
     }
   ]
