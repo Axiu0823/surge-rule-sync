@@ -2,7 +2,7 @@
 # Source: https://rule.kelee.one/Loon/AppleFirmware.lsr
 # Classical provider generated from Loon syntax.
 payload:
-  # UpdateTime：2026-10-15 03:16:02
+  # UpdateTime：2026-10-17 03:16:32
   # RuleCount：174
   - "DOMAIN-SUFFIX,appleone.audio"
   - "DOMAIN-SUFFIX,appleid.berlin"

@@ -1,7 +1,7 @@
 # AppleMedia
 # Source: https://rule.kelee.one/Loon/AppleMedia.lsr
 # Generated from Loon syntax; do not edit.
-# UpdateTime：2026-10-15 03:16:35
+# UpdateTime：2026-10-17 03:17:14
 # RuleCount：52
 DOMAIN-SUFFIX,appletvapp.apple
 DOMAIN-SUFFIX,applemusic.com.au

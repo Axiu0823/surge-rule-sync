@@ -2,7 +2,7 @@
 # Source: https://rule.kelee.one/Loon/OpenAI.lsr
 # Classical provider generated from Loon syntax.
 payload:
-  # UpdateTime：2026-10-15 03:17:11
+  # UpdateTime：2026-10-17 03:17:53
   # RuleCount：35
   - "DOMAIN,openai-api.arkoselabs.com"
   - "DOMAIN,browser-intake-datadoghq.com"

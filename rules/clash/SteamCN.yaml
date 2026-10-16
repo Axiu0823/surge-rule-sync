@@ -2,7 +2,7 @@
 # Source: https://rule.kelee.one/Loon/SteamCN.lsr
 # Classical provider generated from Loon syntax.
 payload:
-  # UpdateTime：2026-10-15 03:12:54
+  # UpdateTime：2026-10-17 03:13:18
   # RuleCount：17
   - "DOMAIN,csgo.wmsj.cn"
   - "DOMAIN,dota2.wmsj.cn"

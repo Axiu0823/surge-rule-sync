@@ -1,7 +1,7 @@
 # Binance
 # Source: https://rule.kelee.one/Loon/Binance.lsr
 # Generated from Loon syntax; do not edit.
-# UpdateTime：2026-10-15 03:14:27
+# UpdateTime：2026-10-17 03:14:49
 # RuleCount：12
 DOMAIN-SUFFIX,bnbzh.ac
 DOMAIN-SUFFIX,saasexch.cc

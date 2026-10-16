@@ -1,7 +1,7 @@
 # AppStore
 # Source: https://rule.kelee.one/Loon/AppStore.lsr
 # Generated from Loon syntax; do not edit.
-# UpdateTime：2026-10-15 03:13:42
+# UpdateTime：2026-10-17 03:14:04
 # RuleCount：2
 DOMAIN,apps.apple.com
 DOMAIN,itunes.apple.com
