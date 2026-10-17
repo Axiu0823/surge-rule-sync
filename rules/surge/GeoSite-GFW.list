@@ -1,8 +1,8 @@
 # GeoSite GFW
 # Source: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/gfw.list
 # Generated from MetaCubeX GeoSite domain list; do not edit.
-DOMAIN-SUFFIX,kex.com
-DOMAIN-SUFFIX,liuxiaotong.com
+DOMAIN-SUFFIX,keycdn.com
+DOMAIN-SUFFIX,google.mu
 DOMAIN-SUFFIX,1000giri.net
 DOMAIN-SUFFIX,10beasts.net
 DOMAIN-SUFFIX,10musume.com
@@ -59,6 +59,7 @@ DOMAIN-SUFFIX,6parkbbs.com
 DOMAIN-SUFFIX,6parker.com
 DOMAIN-SUFFIX,6parknews.com
 DOMAIN-SUFFIX,7capture.com
+DOMAIN-SUFFIX,7x24hrs.com
 DOMAIN-SUFFIX,8-d.com
 DOMAIN-SUFFIX,85cc.us
 DOMAIN-SUFFIX,881903.com
@@ -624,7 +625,7 @@ DOMAIN-SUFFIX,cableav.tv
 DOMAIN-SUFFIX,cablegatesearch.net
 DOMAIN-SUFFIX,cachefly.com
 DOMAIN-SUFFIX,cachefly.net
-DOMAIN-SUFFIX,000webhost.com
+DOMAIN-SUFFIX,cacnw.com
 DOMAIN-SUFFIX,cactusvpn.com
 DOMAIN-SUFFIX,calebelston.com
 DOMAIN-SUFFIX,calendarz.com
@@ -686,7 +687,7 @@ DOMAIN-SUFFIX,cdp2006.org
 DOMAIN-SUFFIX,cdpeu.org
 DOMAIN-SUFFIX,yadi.sk
 DOMAIN-SUFFIX,cdpweb.org
-DOMAIN-SUFFIX,cdpwu.org
+DOMAIN-SUFFIX,kepard.com
 DOMAIN-SUFFIX,cdw.com
 DOMAIN-SUFFIX,cecc.gov
 DOMAIN-SUFFIX,cellulo.info
@@ -1062,7 +1063,7 @@ DOMAIN-SUFFIX,dpr.info
 DOMAIN-SUFFIX,dragonex.io
 DOMAIN-SUFFIX,dragonsprings.org
 DOMAIN-SUFFIX,drgan.net
-DOMAIN-SUFFIX,dropbooks.tv
+DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,dropbox.com
 DOMAIN-SUFFIX,dropboxapi.com
 DOMAIN-SUFFIX,dropboxusercontent.com
@@ -1705,7 +1706,7 @@ DOMAIN-SUFFIX,google.mk
 DOMAIN-SUFFIX,google.ml
 DOMAIN-SUFFIX,google.mn
 DOMAIN-SUFFIX,google.ms
-DOMAIN-SUFFIX,google.mu
+DOMAIN-SUFFIX,kex.com
 DOMAIN-SUFFIX,google.mv
 DOMAIN-SUFFIX,google.mw
 DOMAIN-SUFFIX,google.mx
@@ -2214,10 +2215,10 @@ DOMAIN-SUFFIX,vpnshieldapp.com
 DOMAIN-SUFFIX,kebrum.com
 DOMAIN-SUFFIX,kendatire.com
 DOMAIN-SUFFIX,kenengba.com
-DOMAIN-SUFFIX,kepard.com
-DOMAIN-SUFFIX,cacnw.com
+DOMAIN-SUFFIX,cdpwu.org
 DOMAIN-SUFFIX,0rz.tw
-DOMAIN-SUFFIX,myjs.tw
+DOMAIN-SUFFIX,dropbooks.tv
+DOMAIN-SUFFIX,kfor.com
 DOMAIN-SUFFIX,khatrimaza.org
 DOMAIN-SUFFIX,vpnshazam.com
 DOMAIN-SUFFIX,kichiku-doujinko.com
@@ -2336,7 +2337,7 @@ DOMAIN-SUFFIX,listennotes.com
 DOMAIN-SUFFIX,listentoyoutube.com
 DOMAIN-SUFFIX,litenews.hk
 DOMAIN-SUFFIX,liuxiaobo.net
-DOMAIN-SUFFIX,keycdn.com
+DOMAIN-SUFFIX,liuxiaotong.com
 DOMAIN-SUFFIX,livecoin.net
 DOMAIN-SUFFIX,liveleak.com
 DOMAIN-SUFFIX,livemint.com
@@ -2463,7 +2464,9 @@ DOMAIN-SUFFIX,meridian-trust.org
 DOMAIN-SUFFIX,meripet.com
 DOMAIN-SUFFIX,voatibetan.com
 DOMAIN-SUFFIX,messenger.com
+DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,meta.com
+DOMAIN-SUFFIX,metaaivm.com
 DOMAIN-SUFFIX,metafilter.com
 DOMAIN-SUFFIX,metamask.io
 DOMAIN-SUFFIX,metart.com
@@ -2592,7 +2595,7 @@ DOMAIN-SUFFIX,mychinanews.com
 DOMAIN-SUFFIX,mycnnews.com
 DOMAIN-SUFFIX,myeclipseide.com
 DOMAIN-SUFFIX,myiphide.com
-DOMAIN-SUFFIX,kfor.com
+DOMAIN-SUFFIX,myjs.tw
 DOMAIN-SUFFIX,mykomica.org
 DOMAIN-SUFFIX,mymoe.moe
 DOMAIN-SUFFIX,myparagliding.com
