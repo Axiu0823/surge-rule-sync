@@ -1,7 +1,7 @@
 # Steam
 # Source: https://rule.kelee.one/Loon/Steam.lsr
 # Generated from Loon syntax; do not edit.
-# UpdateTime：2026-10-17 03:17:55
+# UpdateTime：2026-10-19 03:16:47
 # RuleCount：62
 DOMAIN,steamcdn-a.akamaihd.net
 DOMAIN,steamcommunity-a.akamaihd.net

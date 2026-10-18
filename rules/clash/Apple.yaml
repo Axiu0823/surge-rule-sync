@@ -2,7 +2,7 @@
 # Source: https://rule.kelee.one/Loon/Apple.lsr
 # Classical provider generated from Loon syntax.
 payload:
-  # UpdateTime：2026-10-17 03:17:23
+  # UpdateTime：2026-10-19 03:16:17
   # RuleCount：1866
   - "DOMAIN,edge.apple"
   - "DOMAIN,api.smoot.apple.cn"
