@@ -1,7 +1,7 @@
 # AppleHardware
 # Source: https://rule.kelee.one/Loon/AppleHardware.lsr
 # Generated from Loon syntax; do not edit.
-# UpdateTime：2026-10-19 03:15:13
+# UpdateTime：2026-10-21 03:16:02
 # RuleCount：226
 DOMAIN-SUFFIX,applestore.com.au
 DOMAIN-SUFFIX,iphone.com.au

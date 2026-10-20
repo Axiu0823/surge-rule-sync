@@ -2,7 +2,7 @@
 # Source: https://rule.kelee.one/Loon/GitHub.lsr
 # Classical provider generated from Loon syntax.
 payload:
-  # UpdateTime：2026-10-19 03:14:02
+  # UpdateTime：2026-10-21 03:14:54
   # RuleCount：31
   - "DOMAIN-SUFFIX,github.blog"
   - "DOMAIN-SUFFIX,github-avatars.oss-cn-hongkong.aliyuncs.com"
