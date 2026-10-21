@@ -811,10 +811,10 @@
         "DOMAIN": 251,
         "DOMAIN-SUFFIX": 1541
       },
-      "source_sha256": "5cfb4dc36625004719e13a61eae078ca3b16a31697a60c9822bc69c1fc64ca4b",
+      "source_sha256": "64a15240f284bb25d63fae2d2eb0bbd245aceaf3fd7e8e7eafb06194c67c0a42",
       "surge": {
         "file": "surge/GeoSite-Apple.list",
-        "sha256": "cd19c994fe9c12c3a48d709cd4df32a34935be38ab25f6e4df8fa578ae6ea458"
+        "sha256": "4f878c3035db074fc0ad75da4527afc91f39cf27531605d7b68d6701a6f9f50e"
       }
     },
     {
@@ -826,25 +826,25 @@
         "DOMAIN": 2,
         "DOMAIN-SUFFIX": 262
       },
-      "source_sha256": "87827a3d07703b1bee6312604a215585768dbdea3284fd3abdd18fa3a7b78a8f",
+      "source_sha256": "84d6409ba43d04d4a7a9fb3494fa7ad0f630a7e323cc20814777e2fb1995607b",
       "surge": {
         "file": "surge/GeoSite-Category-Games-CN.list",
-        "sha256": "0c9daa3e409bb89b25cd4e97d4dbce96a7ca773d5afe593533db26b6db75ec2a"
+        "sha256": "e1bbfdcf8b69dd9feea214858ad61b6268eca2b8fdaafbf167ca559ac24650a0"
       }
     },
     {
       "id": "geosite-category-ads-all",
       "name": "GeoSite Category Ads All",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-ads-all.list",
-      "source_rule_count": 902,
+      "source_rule_count": 903,
       "rule_types": {
-        "DOMAIN": 158,
+        "DOMAIN": 159,
         "DOMAIN-SUFFIX": 744
       },
-      "source_sha256": "dc4a885b6e3e91ee3725201656cb995dce32ae7447ac1f90b519278668ce0a4a",
+      "source_sha256": "ac2355544695debb69bef5e687bcbe79ecca4eeff43891e968fee610d3e886b8",
       "surge": {
         "file": "surge/GeoSite-Category-Ads-All.list",
-        "sha256": "89590349152e997dd22f1d8dba1b2b7a46859e0d9d4fe6afb4f78aa0e1af7567"
+        "sha256": "b5612e4753238d567227506cf5462975a8a8d368944bd97ac524416fe5fe4b3c"
       }
     },
     {
@@ -865,15 +865,15 @@
       "id": "geosite-geolocation-not-cn",
       "name": "GeoSite Geolocation Not CN",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/geolocation-!cn.list",
-      "source_rule_count": 27218,
+      "source_rule_count": 27220,
       "rule_types": {
         "DOMAIN": 760,
-        "DOMAIN-SUFFIX": 26458
+        "DOMAIN-SUFFIX": 26460
       },
-      "source_sha256": "0d01a62bd5881d3afd597b1c343762e18ddd1e24b6673c24fa6e40e18ab87625",
+      "source_sha256": "b7470dd027bdc37634be9d43e97c7f9ca607c73127fc04603db16eb630b3f64c",
       "surge": {
         "file": "surge/GeoSite-Geolocation-Not-CN.list",
-        "sha256": "d2402ae3e2ec6b920bc6959846e917ca6e1292646954bd6fb3bf035fae818980"
+        "sha256": "28fa771fd0cd1568cabe59e106d11b22b6fec88815add6784bf248d155112f0a"
       }
     },
     {
