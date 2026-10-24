@@ -1,7 +1,7 @@
 # WhatsApp
 # Source: https://rule.kelee.one/Loon/Whatsapp.lsr
 # Generated from Loon syntax; do not edit.
-# UpdateTime：2026-10-21 03:13:23
+# UpdateTime：2026-10-25 03:14:06
 # RuleCount：17
 DOMAIN,graph.facebook.com
 DOMAIN-SUFFIX,whatsapp.biz

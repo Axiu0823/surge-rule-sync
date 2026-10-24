@@ -1,7 +1,7 @@
 # Apple
 # Source: https://rule.kelee.one/Loon/Apple.lsr
 # Generated from Loon syntax; do not edit.
-# UpdateTime：2026-10-21 03:17:13
+# UpdateTime：2026-10-25 03:17:55
 # RuleCount：1866
 DOMAIN,edge.apple
 DOMAIN,api.smoot.apple.cn
