@@ -527,7 +527,7 @@
         "DOMAIN-SUFFIX": 1541
       },
       "file": "GeoSite-Apple.list",
-      "sha256": "24f0158a94c3085c12fd0a8180ae00ed07ab07b905feb3b25753a7b41e90713d"
+      "sha256": "b2fd143871fd64ecdde97864a1fdc198fff8534b208e109ad0c089f6a88b177e"
     },
     {
       "id": "geosite-category-games-cn",
@@ -539,7 +539,7 @@
         "DOMAIN-SUFFIX": 262
       },
       "file": "GeoSite-Category-Games-CN.list",
-      "sha256": "34e2af4ac159d7300fe7ec82302b6c77216c2957cccf805714958392f9155a15"
+      "sha256": "e11a57c9ffa73b6bce1dbf364e75e1dfc95e06d17ce55bc1811dfda4541df4e3"
     },
     {
       "id": "geosite-category-ads-all",
@@ -551,41 +551,41 @@
         "DOMAIN-SUFFIX": 744
       },
       "file": "GeoSite-Category-Ads-All.list",
-      "sha256": "d770683309ee3feb2f9cce91df37630ee010cfaf4f98d7449f209326e3aa21fa"
+      "sha256": "b89dfc0a6db250a8915bede889af4baddadb10ef39d01b6340a6d5ceb456384e"
     },
     {
       "id": "geosite-gfw",
       "name": "GeoSite GFW",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/gfw.list",
-      "source_rule_count": 4413,
+      "source_rule_count": 4415,
       "rule_types": {
-        "DOMAIN-SUFFIX": 4413
+        "DOMAIN-SUFFIX": 4415
       },
       "file": "GeoSite-GFW.list",
-      "sha256": "678bb2253153efa22eb194e0d4b8cb4719442ba024834b1f82d4f183a5f0fbdb"
+      "sha256": "cf33e190629b84109c79264f2fe30c38efa2933ba8928b97e2c1881ab3d6c099"
     },
     {
       "id": "geosite-geolocation-not-cn",
       "name": "GeoSite Geolocation Not CN",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/geolocation-!cn.list",
-      "source_rule_count": 27268,
+      "source_rule_count": 27269,
       "rule_types": {
         "DOMAIN": 762,
-        "DOMAIN-SUFFIX": 26506
+        "DOMAIN-SUFFIX": 26507
       },
       "file": "GeoSite-Geolocation-Not-CN.list",
-      "sha256": "e3465eac3922d0a877f08591f5bab78c540f5ec79b16db0e2435c4b715b1e8c2"
+      "sha256": "b79b1d1fb1ffa2dad3ecfab999093b185799b0fce6e40c2a2871b94803cd87ec"
     },
     {
       "id": "geosite-cn",
       "name": "GeoSite CN",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cn.list",
-      "source_rule_count": 110446,
+      "source_rule_count": 110448,
       "rule_types": {
-        "DOMAIN-SUFFIX": 110446
+        "DOMAIN-SUFFIX": 110448
       },
       "file": "GeoSite-CN.list",
-      "sha256": "4e22af3f670e2cff9331633e5afb92a1f9bddbde005fb0721ebf0f73d1b440ac"
+      "sha256": "c24baa63b230fa8e60abeca2b058879833949195319e551558cb7d2113b3055c"
     }
   ]
 }
