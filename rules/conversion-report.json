@@ -807,74 +807,74 @@
       "id": "geosite-apple",
       "name": "GeoSite Apple",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/apple.list",
-      "source_rule_count": 1792,
+      "source_rule_count": 1791,
       "rule_types": {
         "DOMAIN": 251,
-        "DOMAIN-SUFFIX": 1541
+        "DOMAIN-SUFFIX": 1540
       },
-      "source_sha256": "72e36464eb8f8fbf29c0c4dac8f61e6acd486083328ac4d7532ac1faee7d6464",
+      "source_sha256": "a9cfb937357c985dcd200c5f761e89a57018f6f6bf5676f449167accfd24142a",
       "surge": {
         "file": "surge/GeoSite-Apple.list",
-        "sha256": "b2fd143871fd64ecdde97864a1fdc198fff8534b208e109ad0c089f6a88b177e"
+        "sha256": "ec70e402098b38138bcc78135143bce0c8136b00b7c7f506fdc795c24ab1e3a4"
       }
     },
     {
       "id": "geosite-category-games-cn",
       "name": "GeoSite Category Games CN",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-games-cn.list",
-      "source_rule_count": 264,
+      "source_rule_count": 263,
       "rule_types": {
         "DOMAIN": 2,
-        "DOMAIN-SUFFIX": 262
+        "DOMAIN-SUFFIX": 261
       },
-      "source_sha256": "9d86bc73e54d11d997b660132f8ebb833acc89caf5132f0de2fc7bca6451ae46",
+      "source_sha256": "6f33fe279bbd6255d7ab57bea2a5468fc4249fca94700bdad6d721458e63275a",
       "surge": {
         "file": "surge/GeoSite-Category-Games-CN.list",
-        "sha256": "e11a57c9ffa73b6bce1dbf364e75e1dfc95e06d17ce55bc1811dfda4541df4e3"
+        "sha256": "3ff3245ae431601dd4f765f87edfeaf4a81f5ed957fcbcb44d9e7ac936099309"
       }
     },
     {
       "id": "geosite-category-ads-all",
       "name": "GeoSite Category Ads All",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-ads-all.list",
-      "source_rule_count": 903,
+      "source_rule_count": 904,
       "rule_types": {
         "DOMAIN": 159,
-        "DOMAIN-SUFFIX": 744
+        "DOMAIN-SUFFIX": 745
       },
-      "source_sha256": "1ed1caf13dc42473ab4e538101fcd3cde9fd1a635d107374ebef637e1ca5e03a",
+      "source_sha256": "fc00a7c5c5228a71305d8e7c8c624572c1a9d1182e82c012dfcf46fdb3f73f95",
       "surge": {
         "file": "surge/GeoSite-Category-Ads-All.list",
-        "sha256": "b89dfc0a6db250a8915bede889af4baddadb10ef39d01b6340a6d5ceb456384e"
+        "sha256": "aee686f7483798e45f9279aef3ef986640e64fc903a8964b51e8b224e71cf0d7"
       }
     },
     {
       "id": "geosite-gfw",
       "name": "GeoSite GFW",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/gfw.list",
-      "source_rule_count": 4415,
+      "source_rule_count": 4424,
       "rule_types": {
-        "DOMAIN-SUFFIX": 4415
+        "DOMAIN-SUFFIX": 4424
       },
-      "source_sha256": "368296e693b566c8e4441f70a725d658fd6f8f55b4dfd683e9622592c566b113",
+      "source_sha256": "b1d34d6b38ee0dd0fc935ced2d0ee3aaf4dee0ce9ce45d9db1803d511d27684b",
       "surge": {
         "file": "surge/GeoSite-GFW.list",
-        "sha256": "cf33e190629b84109c79264f2fe30c38efa2933ba8928b97e2c1881ab3d6c099"
+        "sha256": "cd24ef6b03b438b120cabc4ec4e9593a56b70b0c8f2e4ccc32ba09284eff0dbb"
       }
     },
     {
       "id": "geosite-geolocation-not-cn",
       "name": "GeoSite Geolocation Not CN",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/geolocation-!cn.list",
-      "source_rule_count": 27269,
+      "source_rule_count": 27273,
       "rule_types": {
         "DOMAIN": 762,
-        "DOMAIN-SUFFIX": 26507
+        "DOMAIN-SUFFIX": 26511
       },
-      "source_sha256": "c8fe8c3614f5eefdec49e83ab922e07a8d8b0bda9a529bc54d05f4a4a93c7b5f",
+      "source_sha256": "a36014e0cccf963c2551c1e5221a3c9f71249fbaef5b9a87fcb368dcf241ca3d",
       "surge": {
         "file": "surge/GeoSite-Geolocation-Not-CN.list",
-        "sha256": "b79b1d1fb1ffa2dad3ecfab999093b185799b0fce6e40c2a2871b94803cd87ec"
+        "sha256": "83293e7df2828d8d886fc2b4a29ed6b3dccd4f9a16b485ae187291fd87af276c"
       }
     },
     {
