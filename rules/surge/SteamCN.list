@@ -1,7 +1,7 @@
 # SteamCN
 # Source: https://rule.kelee.one/Loon/SteamCN.lsr
 # Generated from Loon syntax; do not edit.
-# UpdateTime：2026-10-25 03:14:02
+# UpdateTime：2026-10-27 03:13:45
 # RuleCount：17
 DOMAIN,csgo.wmsj.cn
 DOMAIN,dota2.wmsj.cn

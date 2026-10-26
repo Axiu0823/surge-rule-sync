@@ -1,8 +1,8 @@
 # Apple
 # Source: https://rule.kelee.one/Loon/Apple.lsr
 # Generated from Loon syntax; do not edit.
-# UpdateTime：2026-10-25 03:17:55
-# RuleCount：1866
+# UpdateTime：2026-10-27 03:17:40
+# RuleCount：1865
 DOMAIN,edge.apple
 DOMAIN,api.smoot.apple.cn
 DOMAIN,appldnld.g.aaplimg.com
@@ -396,7 +396,6 @@ DOMAIN-SUFFIX,researchkit.com.cn
 DOMAIN-SUFFIX,swiftui.com.cn
 DOMAIN-SUFFIX,faceshift.cn
 DOMAIN-SUFFIX,homepod.cn
-DOMAIN-SUFFIX,icloud.cn
 DOMAIN-SUFFIX,icloud-apple.cn
 DOMAIN-SUFFIX,icloudapple.cn
 DOMAIN-SUFFIX,insidear.cn

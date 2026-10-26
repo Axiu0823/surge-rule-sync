@@ -1,7 +1,7 @@
 # OpenAI
 # Source: https://rule.kelee.one/Loon/OpenAI.lsr
 # Generated from Loon syntax; do not edit.
-# UpdateTime：2026-10-25 03:18:15
+# UpdateTime：2026-10-27 03:18:03
 # RuleCount：35
 DOMAIN,openai-api.arkoselabs.com
 DOMAIN,browser-intake-datadoghq.com
