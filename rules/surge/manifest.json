@@ -528,7 +528,7 @@
         "DOMAIN-SUFFIX": 1540
       },
       "file": "GeoSite-Apple.list",
-      "sha256": "ec70e402098b38138bcc78135143bce0c8136b00b7c7f506fdc795c24ab1e3a4"
+      "sha256": "0889ed3999b58e72e296746e4c2db801390f222780c9827899c15ad0c2974afd"
     },
     {
       "id": "geosite-category-games-cn",
@@ -540,7 +540,7 @@
         "DOMAIN-SUFFIX": 261
       },
       "file": "GeoSite-Category-Games-CN.list",
-      "sha256": "3ff3245ae431601dd4f765f87edfeaf4a81f5ed957fcbcb44d9e7ac936099309"
+      "sha256": "2b274bf5f5df845c1601d4bea7d9129a8bd82333b0ff2896ff420cec232377c5"
     },
     {
       "id": "geosite-category-ads-all",
@@ -552,7 +552,7 @@
         "DOMAIN-SUFFIX": 745
       },
       "file": "GeoSite-Category-Ads-All.list",
-      "sha256": "aee686f7483798e45f9279aef3ef986640e64fc903a8964b51e8b224e71cf0d7"
+      "sha256": "78c0f6fc15246ed048edcbe1cf97d8cb7e7dd874c4d6dcbe8eb758fe8db555b6"
     },
     {
       "id": "geosite-gfw",
@@ -569,24 +569,24 @@
       "id": "geosite-geolocation-not-cn",
       "name": "GeoSite Geolocation Not CN",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/geolocation-!cn.list",
-      "source_rule_count": 27273,
+      "source_rule_count": 27282,
       "rule_types": {
-        "DOMAIN": 762,
-        "DOMAIN-SUFFIX": 26511
+        "DOMAIN": 763,
+        "DOMAIN-SUFFIX": 26519
       },
       "file": "GeoSite-Geolocation-Not-CN.list",
-      "sha256": "83293e7df2828d8d886fc2b4a29ed6b3dccd4f9a16b485ae187291fd87af276c"
+      "sha256": "ca2057564ebf0bbf6489d16c64822e3e702863277eb4fc2e68d2e218d8c48ee6"
     },
     {
       "id": "geosite-cn",
       "name": "GeoSite CN",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cn.list",
-      "source_rule_count": 110448,
+      "source_rule_count": 110175,
       "rule_types": {
-        "DOMAIN-SUFFIX": 110448
+        "DOMAIN-SUFFIX": 110175
       },
       "file": "GeoSite-CN.list",
-      "sha256": "c24baa63b230fa8e60abeca2b058879833949195319e551558cb7d2113b3055c"
+      "sha256": "91f22a755d6e487ac657899e0b74fe12750f14d58c3be8f00e53521f480492ab"
     }
   ]
 }
