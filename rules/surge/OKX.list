@@ -1,7 +1,7 @@
 # OKX
 # Source: https://rule.kelee.one/Loon/OKX.lsr
 # Generated from Loon syntax; do not edit.
-# UpdateTime：2026-10-27 03:15:09
+# UpdateTime：2026-10-29 03:15:46
 # RuleCount：3
 DOMAIN-SUFFIX,okex.com
 DOMAIN-SUFFIX,oklink.com

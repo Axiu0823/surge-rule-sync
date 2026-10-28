@@ -1,7 +1,7 @@
 # Telegram
 # Source: https://rule.kelee.one/Loon/Telegram.lsr
 # Generated from Loon syntax; do not edit.
-# UpdateTime：2026-10-27 03:13:45
+# UpdateTime：2026-10-29 03:14:20
 # RuleCount：40
 DOMAIN,api.imem.app
 DOMAIN,api.swiftgram.app

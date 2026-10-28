@@ -1,7 +1,7 @@
 # Beats
 # Source: https://rule.kelee.one/Loon/Beats.lsr
 # Generated from Loon syntax; do not edit.
-# UpdateTime：2026-10-27 03:13:46
+# UpdateTime：2026-10-29 03:14:21
 # RuleCount：714
 DOMAIN-SUFFIX,beats1.cc
 DOMAIN-SUFFIX,ibeatsbydre.cc

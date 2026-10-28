@@ -2,7 +2,7 @@
 # Source: https://rule.kelee.one/Loon/AppleID.lsr
 # Classical provider generated from Loon syntax.
 payload:
-  # UpdateTime：2026-10-27 03:13:47
+  # UpdateTime：2026-10-29 03:14:22
   # RuleCount：4
   - "DOMAIN,appleid.apple.com"
   - "DOMAIN,gsa.apple.com"

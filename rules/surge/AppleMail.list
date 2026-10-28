@@ -1,7 +1,7 @@
 # AppleMail
 # Source: https://rule.kelee.one/Loon/AppleMail.lsr
 # Generated from Loon syntax; do not edit.
-# UpdateTime：2026-10-27 03:15:24
+# UpdateTime：2026-10-29 03:16:03
 # RuleCount：2
 DOMAIN-SUFFIX,mail.icloud.com.cn
 DOMAIN-SUFFIX,mail.me.com
