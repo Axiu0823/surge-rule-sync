@@ -812,10 +812,10 @@
         "DOMAIN": 253,
         "DOMAIN-SUFFIX": 1540
       },
-      "source_sha256": "4200ebdfceb6a45c0df17881d9494600bb3a4d53681fd676872d25bac40bbfe7",
+      "source_sha256": "da1c05d112feb177b122ccb8de14ef16a24eb095a006d19023ba621d648880c4",
       "surge": {
         "file": "surge/GeoSite-Apple.list",
-        "sha256": "3d2c2138cf20536b6b3cdeaa2becb969b93ffc9e5ed4da2d4e5105b3395aae9f"
+        "sha256": "71a2f6beb70941954f30a9e0ac0a70b9500598a7634129b5909699eca00136ac"
       }
     },
     {
@@ -827,10 +827,10 @@
         "DOMAIN": 2,
         "DOMAIN-SUFFIX": 261
       },
-      "source_sha256": "e38c765277eda90380392dc9c2a656cfa011b436148508a2e28a2ecb7e832d36",
+      "source_sha256": "8bc693534a4125e71161664d2c6e981746674187326062ed5258baf23056efb4",
       "surge": {
         "file": "surge/GeoSite-Category-Games-CN.list",
-        "sha256": "369c87eda724a4855fbd017e532a4a05662352489ae8e00a5694d6dfdefe3fde"
+        "sha256": "3fbd5cff6f3602ccc7d03e97be0b0441b14b2f2eb3a2198dd2dd4b8f711a78f8"
       }
     },
     {
@@ -842,39 +842,39 @@
         "DOMAIN": 159,
         "DOMAIN-SUFFIX": 745
       },
-      "source_sha256": "159b642a6c6af0ce20560cc68038f61a41f43d454d0807428fa2645ac5f5cd24",
+      "source_sha256": "4f2378305deadb37d96be1270ef9bbb92df83fe66a5ba26da1a695e8a44a3c94",
       "surge": {
         "file": "surge/GeoSite-Category-Ads-All.list",
-        "sha256": "62338e5a8da5f5f8b1313b19acee9e57d57db69d96da90505e39b977c56b44c4"
+        "sha256": "06ee3a2bb5c0e6395c22dbdb3857fe34466f540c91e557e2ca0a4d391fc80c20"
       }
     },
     {
       "id": "geosite-gfw",
       "name": "GeoSite GFW",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/gfw.list",
-      "source_rule_count": 4424,
+      "source_rule_count": 4429,
       "rule_types": {
-        "DOMAIN-SUFFIX": 4424
+        "DOMAIN-SUFFIX": 4429
       },
-      "source_sha256": "b1d34d6b38ee0dd0fc935ced2d0ee3aaf4dee0ce9ce45d9db1803d511d27684b",
+      "source_sha256": "100e489071a17e3f639f03f9d014fe77e768c562ecd5a84859b6fc9cfc65b2bd",
       "surge": {
         "file": "surge/GeoSite-GFW.list",
-        "sha256": "cd24ef6b03b438b120cabc4ec4e9593a56b70b0c8f2e4ccc32ba09284eff0dbb"
+        "sha256": "5b327eed6b7278b1a0e0abfc65738b1ae39ea21e372633049c46d26fd3adff81"
       }
     },
     {
       "id": "geosite-geolocation-not-cn",
       "name": "GeoSite Geolocation Not CN",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/geolocation-!cn.list",
-      "source_rule_count": 27272,
+      "source_rule_count": 27280,
       "rule_types": {
         "DOMAIN": 768,
-        "DOMAIN-SUFFIX": 26504
+        "DOMAIN-SUFFIX": 26512
       },
-      "source_sha256": "71da46c558655c46b41f116cdf9af513613228ada32b2e2f1c111c02cb253201",
+      "source_sha256": "728935996cafbe7262ef433710e4972769672798538f0fc9d4a100f6a67e9770",
       "surge": {
         "file": "surge/GeoSite-Geolocation-Not-CN.list",
-        "sha256": "df3f5a4b47aaf7775bf09d6f183e33d95bc0d4ffce16c1592a692beeee3e4baa"
+        "sha256": "62461b3e9119c57f343adfd0c17d577b1c0bdc290856c8b42a509f9ddad3189f"
       }
     },
     {

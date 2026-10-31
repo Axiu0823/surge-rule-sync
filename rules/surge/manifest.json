@@ -528,7 +528,7 @@
         "DOMAIN-SUFFIX": 1540
       },
       "file": "GeoSite-Apple.list",
-      "sha256": "3d2c2138cf20536b6b3cdeaa2becb969b93ffc9e5ed4da2d4e5105b3395aae9f"
+      "sha256": "71a2f6beb70941954f30a9e0ac0a70b9500598a7634129b5909699eca00136ac"
     },
     {
       "id": "geosite-category-games-cn",
@@ -540,7 +540,7 @@
         "DOMAIN-SUFFIX": 261
       },
       "file": "GeoSite-Category-Games-CN.list",
-      "sha256": "369c87eda724a4855fbd017e532a4a05662352489ae8e00a5694d6dfdefe3fde"
+      "sha256": "3fbd5cff6f3602ccc7d03e97be0b0441b14b2f2eb3a2198dd2dd4b8f711a78f8"
     },
     {
       "id": "geosite-category-ads-all",
@@ -552,30 +552,30 @@
         "DOMAIN-SUFFIX": 745
       },
       "file": "GeoSite-Category-Ads-All.list",
-      "sha256": "62338e5a8da5f5f8b1313b19acee9e57d57db69d96da90505e39b977c56b44c4"
+      "sha256": "06ee3a2bb5c0e6395c22dbdb3857fe34466f540c91e557e2ca0a4d391fc80c20"
     },
     {
       "id": "geosite-gfw",
       "name": "GeoSite GFW",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/gfw.list",
-      "source_rule_count": 4424,
+      "source_rule_count": 4429,
       "rule_types": {
-        "DOMAIN-SUFFIX": 4424
+        "DOMAIN-SUFFIX": 4429
       },
       "file": "GeoSite-GFW.list",
-      "sha256": "cd24ef6b03b438b120cabc4ec4e9593a56b70b0c8f2e4ccc32ba09284eff0dbb"
+      "sha256": "5b327eed6b7278b1a0e0abfc65738b1ae39ea21e372633049c46d26fd3adff81"
     },
     {
       "id": "geosite-geolocation-not-cn",
       "name": "GeoSite Geolocation Not CN",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/geolocation-!cn.list",
-      "source_rule_count": 27272,
+      "source_rule_count": 27280,
       "rule_types": {
         "DOMAIN": 768,
-        "DOMAIN-SUFFIX": 26504
+        "DOMAIN-SUFFIX": 26512
       },
       "file": "GeoSite-Geolocation-Not-CN.list",
-      "sha256": "df3f5a4b47aaf7775bf09d6f183e33d95bc0d4ffce16c1592a692beeee3e4baa"
+      "sha256": "62461b3e9119c57f343adfd0c17d577b1c0bdc290856c8b42a509f9ddad3189f"
     },
     {
       "id": "geosite-cn",
