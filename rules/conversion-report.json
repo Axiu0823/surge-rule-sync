@@ -812,10 +812,10 @@
         "DOMAIN": 253,
         "DOMAIN-SUFFIX": 1540
       },
-      "source_sha256": "dfa8c11aa49f8fff882ba84cd9e352b38a8ff9e1d0cb4db4f5d67436bb4ef8d9",
+      "source_sha256": "3e690d7b74274a1d4dac4c66e38c8e5ee3ae1df991c9db6ed5e904f08eb9bce8",
       "surge": {
         "file": "surge/GeoSite-Apple.list",
-        "sha256": "15b59492cca6dac470dc8ac94675ac3bfeba520eee1398c3e13cf7fd3cced0b8"
+        "sha256": "c32352ee37255e2089c987afe6b54be5665c3a8871ed81655bafb8b5c343e37d"
       }
     },
     {
@@ -827,10 +827,10 @@
         "DOMAIN": 2,
         "DOMAIN-SUFFIX": 261
       },
-      "source_sha256": "1ebdf586a45540d26fa6262203fd6e107aa852b56a4c7fa294a1df1c7b316fb3",
+      "source_sha256": "94c5acd5ab4d6b0a7e3ba2e3718d4c9d7cb1ba1e53af013e2abd50bf382d412c",
       "surge": {
         "file": "surge/GeoSite-Category-Games-CN.list",
-        "sha256": "3aa2261cfdb17f532fe211864e00f1815b04ce91d0f0213289847ff70f8c96c8"
+        "sha256": "ec6ead7294c311eb82c42426718abbaaf784bcc72a3440e97d9b953d36078b94"
       }
     },
     {
@@ -842,10 +842,10 @@
         "DOMAIN": 159,
         "DOMAIN-SUFFIX": 745
       },
-      "source_sha256": "e3ef10726784450c55a36e656db01c8e5ec708ff2d93df4a38925a7572c6291b",
+      "source_sha256": "2eee29660be2a66fd8a58f711c5effdfa2d9ccf6d1e39016fb8f2610388dd134",
       "surge": {
         "file": "surge/GeoSite-Category-Ads-All.list",
-        "sha256": "51b0b5b101b3a7554dae7c84a2eeb11dcf19371e4ad0bc9ecc70838885669106"
+        "sha256": "67678a16af6b5602a0af5317c50b6019c968e3497aadd6f5b2f4d2910165325a"
       }
     },
     {
@@ -856,10 +856,10 @@
       "rule_types": {
         "DOMAIN-SUFFIX": 4433
       },
-      "source_sha256": "f6b305135f54c8697420d24df14ae3fa82a269d8f1b0e525d56a73130bf12b8e",
+      "source_sha256": "4acb6f4aebeb29a03e119280d6f6874b9de9adf25dbf1353bfc843c4cb480b84",
       "surge": {
         "file": "surge/GeoSite-GFW.list",
-        "sha256": "a609978ac55ba032953ab5983ddb391b26ff87d26fbf0d2135771fe0418be07d"
+        "sha256": "cbb704c8b12920dd89b827e2f35ecb86812821f5446f113c9c4cb09346ead84a"
       }
     },
     {
