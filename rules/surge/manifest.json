@@ -528,7 +528,7 @@
         "DOMAIN-SUFFIX": 1540
       },
       "file": "GeoSite-Apple.list",
-      "sha256": "660da2acf89710463208066eb194cf36fd0e17ec693eab9bd49c71105d18980d"
+      "sha256": "8394eb9364f7b9dff0ac4cae598d612bfa337865a11633827ac6eb28af7ed038"
     },
     {
       "id": "geosite-category-games-cn",
@@ -540,7 +540,7 @@
         "DOMAIN-SUFFIX": 176
       },
       "file": "GeoSite-Category-Games-CN.list",
-      "sha256": "9b78af86f12ea1d3e6c296574b0b3b1478a0a59b3d504503ba49a748a70e2893"
+      "sha256": "252700aec7881c2ed1db0c4042290d94d1698a72c0552605c75e0beb25188792"
     },
     {
       "id": "geosite-category-ads-all",
@@ -552,7 +552,7 @@
         "DOMAIN-SUFFIX": 749
       },
       "file": "GeoSite-Category-Ads-All.list",
-      "sha256": "3d682167e94cef6f28bcd7a91c2931e8d1a868a2b35591ed70194d5d254e3792"
+      "sha256": "4724aea9d5450beff5f6dd102d0af406703bfb24d47832d218f6a6e136e0474c"
     },
     {
       "id": "geosite-gfw",
