@@ -812,10 +812,10 @@
         "DOMAIN": 257,
         "DOMAIN-SUFFIX": 1541
       },
-      "source_sha256": "25474182b95d1993a7c375e8413a263f06b8dd9ec2133864eecf0d3ccaa66094",
+      "source_sha256": "436947fb2ef672b1a92664c9edc7315612db7332a18ced48feb0668e57c3f370",
       "surge": {
         "file": "surge/GeoSite-Apple.list",
-        "sha256": "bc45e7af0fe2e36cefd92ab809db674df0ad468dd7a0d472b1ba8f5fab960789"
+        "sha256": "0fdbb503ad12cb553d17be5c11d6dae6ba2826e3be8d7c041d8a8534d9b226b4"
       }
     },
     {
@@ -827,10 +827,10 @@
         "DOMAIN": 2,
         "DOMAIN-SUFFIX": 176
       },
-      "source_sha256": "8cd37ef93cb307d37905a3f900be0bf0c42a37f34595af7d857be58d9d6beb1e",
+      "source_sha256": "65cc4354f5accc90264d938db9c565d087e90209bf3207c730c37a6cb090cefe",
       "surge": {
         "file": "surge/GeoSite-Category-Games-CN.list",
-        "sha256": "84000f1a9be85816f267456d2f571d6efbc49fb9ee09e0fe1fc65db50477accf"
+        "sha256": "b0a701faf60c1ede30aadfef40ac4f8ffe89c3a8b3e17f2842bb2e879cc34066"
       }
     },
     {
@@ -842,10 +842,10 @@
         "DOMAIN": 159,
         "DOMAIN-SUFFIX": 749
       },
-      "source_sha256": "25fca5ac97320257aada2f131240b2fc200262cb0e3105aa3b416988a17c9f34",
+      "source_sha256": "81bb42e96268d0becc874db734a99b1489c98ef903628bfb42002b99c5197198",
       "surge": {
         "file": "surge/GeoSite-Category-Ads-All.list",
-        "sha256": "59bac75cf85c4d43d7d0b27275d84a9ae1771b8db10db5e6d59369e42ef998e8"
+        "sha256": "de879cb3d23725af3ffe3a48ca4a91f3ac0fb573fac5e2600443aa9a9c8c6910"
       }
     },
     {
