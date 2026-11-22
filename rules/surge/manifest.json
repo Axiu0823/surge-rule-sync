@@ -528,7 +528,7 @@
         "DOMAIN-SUFFIX": 1411
       },
       "file": "GeoSite-Apple.list",
-      "sha256": "27f2fac1afd5760649ae4a35443de21aac894c417d4476b94abf24d6982c89d4"
+      "sha256": "80042ef9c303e4fe81318600d515ad52a3045a9ae6b665847f3b21e4a2915fc2"
     },
     {
       "id": "geosite-category-games-cn",
@@ -540,7 +540,7 @@
         "DOMAIN-SUFFIX": 178
       },
       "file": "GeoSite-Category-Games-CN.list",
-      "sha256": "70a85e21d0865982eb09848b1254cb9239076a235cc9187843c45aa1b618744b"
+      "sha256": "c81d7210e30a585f28213e3ac1016fb858c453fb05709e97591b009c3199d0ba"
     },
     {
       "id": "geosite-category-ads-all",
@@ -552,7 +552,7 @@
         "DOMAIN-SUFFIX": 750
       },
       "file": "GeoSite-Category-Ads-All.list",
-      "sha256": "57fa97a05f074542b98291367281179b69d37e2eb3a83be2cf6158b9cf396f7c"
+      "sha256": "c08ab4566f5428dca59439f12d480b33de86dbb880497a178bfcb0cb2a1d9c67"
     },
     {
       "id": "geosite-gfw",
@@ -569,13 +569,13 @@
       "id": "geosite-geolocation-not-cn",
       "name": "GeoSite Geolocation Not CN",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/geolocation-!cn.list",
-      "source_rule_count": 27204,
+      "source_rule_count": 27227,
       "rule_types": {
         "DOMAIN": 774,
-        "DOMAIN-SUFFIX": 26430
+        "DOMAIN-SUFFIX": 26453
       },
       "file": "GeoSite-Geolocation-Not-CN.list",
-      "sha256": "2fd98fe3efa575a573d785da1665c130b18f2b16f22e9b9efbdc693c41d389d1"
+      "sha256": "cf8ac2282b7396881045d363b8db8e24dc70e9512ca1c079f6e3b2cd7f6a10d3"
     },
     {
       "id": "geosite-cn",

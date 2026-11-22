@@ -812,10 +812,10 @@
         "DOMAIN": 257,
         "DOMAIN-SUFFIX": 1411
       },
-      "source_sha256": "3dd56c6363fe5a25488ab78f35ffd0da192c5903bf5d11678e64fdb8e20ce0eb",
+      "source_sha256": "21cf4dae3be8afdc088272bd9f0d8707296f57017b1c1dfbf7eb73cbedf5b034",
       "surge": {
         "file": "surge/GeoSite-Apple.list",
-        "sha256": "27f2fac1afd5760649ae4a35443de21aac894c417d4476b94abf24d6982c89d4"
+        "sha256": "80042ef9c303e4fe81318600d515ad52a3045a9ae6b665847f3b21e4a2915fc2"
       }
     },
     {
@@ -827,10 +827,10 @@
         "DOMAIN": 2,
         "DOMAIN-SUFFIX": 178
       },
-      "source_sha256": "857bdefe00b6786ffe607cb8bd87a198584fc59a12fdf8cd96b86ca15ac1e959",
+      "source_sha256": "0794a4872fbdbaf60cc74000e15712fa300b751179e8e8c06ff94f00cc31ef92",
       "surge": {
         "file": "surge/GeoSite-Category-Games-CN.list",
-        "sha256": "70a85e21d0865982eb09848b1254cb9239076a235cc9187843c45aa1b618744b"
+        "sha256": "c81d7210e30a585f28213e3ac1016fb858c453fb05709e97591b009c3199d0ba"
       }
     },
     {
@@ -842,10 +842,10 @@
         "DOMAIN": 159,
         "DOMAIN-SUFFIX": 750
       },
-      "source_sha256": "2ae0b2ae6eb8e2fbe863f8858092885bbb7a856badff2805b0f1fd1edb6b14ad",
+      "source_sha256": "c87a5658519e1a25c25fa39043ae3fc20e119a675347aeeb85cccea22c84c08c",
       "surge": {
         "file": "surge/GeoSite-Category-Ads-All.list",
-        "sha256": "57fa97a05f074542b98291367281179b69d37e2eb3a83be2cf6158b9cf396f7c"
+        "sha256": "c08ab4566f5428dca59439f12d480b33de86dbb880497a178bfcb0cb2a1d9c67"
       }
     },
     {
@@ -866,15 +866,15 @@
       "id": "geosite-geolocation-not-cn",
       "name": "GeoSite Geolocation Not CN",
       "source_url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/geolocation-!cn.list",
-      "source_rule_count": 27204,
+      "source_rule_count": 27227,
       "rule_types": {
         "DOMAIN": 774,
-        "DOMAIN-SUFFIX": 26430
+        "DOMAIN-SUFFIX": 26453
       },
-      "source_sha256": "d191c79748e5bf19f9b8946d07b0885053c72e12847133f2973870d476bbea01",
+      "source_sha256": "0ac0a8a932b90650ed898f303c88bcda8aec253bbf97f797cae12a8b12229dda",
       "surge": {
         "file": "surge/GeoSite-Geolocation-Not-CN.list",
-        "sha256": "2fd98fe3efa575a573d785da1665c130b18f2b16f22e9b9efbdc693c41d389d1"
+        "sha256": "cf8ac2282b7396881045d363b8db8e24dc70e9512ca1c079f6e3b2cd7f6a10d3"
       }
     },
     {
